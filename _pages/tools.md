@@ -11,6 +11,8 @@ Smaller and larger tools and libraries developed as part of my research.
 EVEE - Evincing Expressive DL Entailments
 =====
 
+<img src='/images/evee.png'>
+
 Although logic-based ontology languages offer the inherent possibility of explaining the process of deriving implicit knowledge, explaining complex Description Logic (DL) entailments to users is still a challenging task. So far, the ontology editor Protégé supports only (black-box) justifications and (glass-box) proofs for lightweight OWL 2 EL ontologies via the proof facilities of the reasoner Elk. To understand why something is not entailed by the ontology, and how this can be fixed in a suitable manner, there is currently no tool support in Protege. 
 
 Evee is both a library and a collection of Protege plugins for explaining DL entailments. While the version 0.1 only provided explanations for positive entailments (why can something we inferred), the newer versin 0.2 also provides explanations for negative entailments (why can something not be inferred).Explanations for positive entailments are provided through proofs --- sequences of inference steps that lead from the statements in the ontology to the derived entailment --- which are generated using various methods. Negative entailments are explained in two ways: 1. by generating a counterexample, or 2. by showing missing axioms that would create the entailment.
