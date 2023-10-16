@@ -11,7 +11,7 @@ Smaller and larger tools and libraries developed as part of my research.
 EVEE - Evincing Expressive DL Entailments
 =====
 
-<img src='/images/evee.png'>
+<img src='/images/evee-screenshot.png'>
 
 Although logic-based ontology languages offer the inherent possibility of explaining the process of deriving implicit knowledge, explaining complex Description Logic (DL) entailments to users is still a challenging task. So far, the ontology editor Protégé supports only (black-box) justifications and (glass-box) proofs for lightweight OWL 2 EL ontologies via the proof facilities of the reasoner Elk. To understand why something is not entailed by the ontology, and how this can be fixed in a suitable manner, there is currently no tool support in Protege. 
 
@@ -21,6 +21,8 @@ Evee is both a library and a collection of Protege plugins for explaining DL ent
 
 EVONNE
 =====
+
+<img src='/images/evonne-screenshot.png'>
 
 Evonne is a powerful web application for explaining entailments from ontologies. These entailments are explained using proof trees, for which we offer a range of navigation possibilities to explore these inferences. This can be used to better understand reasoning result from an ontology, but it can also be used for teaching purposes (explaining how reasoning works), and for debugging (determining how an erroneous statement was derived). For the latter use case, we connect the proof visualization with a graph like visualization of a relevant fragment of the ontology, which allows to quickly localize axioms used in the proof and their role and impact within the greater context of the ontology. Evonne can also be used to compute diagnoses --- sets of axioms that need to be modified or removed in order to remove the entailment --- which are then shown together with their impact on other statements in the ontology.
 
@@ -71,6 +73,10 @@ Collection of classes and objects to make work with OWL under Scala and Java mor
 
 LETHE
 =====
+
+<img src='/images/lethe-screenshot.png'>
+
+
 Uniform interpolation and forgetting for expressive description logics. (Supports SH knowledge bases, and with restrictions SHQ TBoxes.) Comes with a graphical front-end, but can also be used from the command line or as java library.
 
 [link](https://lat.inf.tu-dresden.de/~koopmann/LETHE/index.html)
