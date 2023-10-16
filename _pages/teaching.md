@@ -10,6 +10,8 @@ the Master's program for Artificial Intelligence in period 2 of
 academic year 2023/2024, as well as the Logic and Sets lecture for the
 Bachelor for Artificial Intelligence.
 
+
+
 If you want to do a bachelor or master thesis, don't be afraid to send
 me an email. I have a range of topics on my webpage, and I can give
 you additional information based on your experience, skills and
@@ -23,8 +25,3 @@ is, knowledge representation and logic-based AI. Consequently, theses
 topics will have to be related to those fields. 
 
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}

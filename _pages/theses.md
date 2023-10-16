@@ -43,7 +43,9 @@ at a simplified version of the problem, and often extend or use
 existing tools, while the Master thesis will be more involved, and
 even involve the development of new methods and prototypes.
 
-##  Explanations for Ontologies
+Explanations for Ontologies
+======
+
 
 We offer a range of projects around the topic of explanations for
 ontologies. We focus on ontologies based on description logics or
@@ -56,7 +58,8 @@ entailments). Motivated by this, different methods have been developed
 to provide explanations for positive and negative entailments. 
 
 
-### Explaining Entailments using New Inference Rules 
+Explaining Entailments using New Inference Rules 
+======
 
 The classical way of explaining why something follows from an ontology
 is by providing a proof tree, that shows in small steps how the
@@ -73,7 +76,8 @@ There is a Bachelors version and a Masters version of this project.
 
 
 
-### Explaining Positive Entailments using Universal Models 
+Explaining Positive Entailments using Universal Models 
+======
 
 The topic of this project is to explain queries to data that is used
 together with an ontology. Specifically, the user asks for instances
@@ -87,7 +91,8 @@ explanations based on such models.
 This project is suitable for Bachelor and Master students.
 
 
-### Explaining Missing Entailments using Counter-Examples
+Explaining Missing Entailments using Counter-Examples
+======
 
 One way to explain a missing entailment is by providing an counter
 example. For example, a counterexample for the statement
@@ -100,9 +105,11 @@ version is towards developing a new method based on existing reasoning
 procedures. The Bachelor version will be about improving and extending
 an existing method.
 
+
 This project is suitable for Bachelor and Master students.
 
-### Explaining Missing Entailments using Connection-Minimal Abduction
+Explaining Missing Entailments using Connection-Minimal Abduction
+======
 
 Abduction is an approach to explain missing entailments by stating
 "what is missing" - namely, suggesting statements that, when added to
@@ -120,7 +127,8 @@ the existing one.
 
 This project is suitable for Bachelor and Master students.
 
-### Explaining Missing Entailments using Signature-Based Abduction
+Explaining Missing Entailments using Signature-Based Abduction
+======
 
 Abduction is an approach to explain missing entailments by stating
 "what is missing" - namely, suggesting statements that, when added to
@@ -137,7 +145,8 @@ This project is suitable for Bachelor and Master students.
 
 
 
-## Learning Concept Descriptions
+Learning Concept Descriptions
+======
 
 The aim of this project is to implement and evaluate a new method for
 learning description logic concept descriptions from examples. The
@@ -150,7 +159,8 @@ concept.
 
 There is a version of this project for both Bachelor and Master students.
 
-## Extracting Subontologies
+Extracting Subontologies
+======
 
 Existing ontologies are often very large and complex, while
 applications are often only need a fragment of the information
@@ -162,7 +172,8 @@ simpler ontologies, and shorter computation times.
 
 This project is most suited for Bachelor students.
 
-## Optimizing Concept Expressions 
+Optimizing Concept Expressions 
+======
 
 Ontologies often contain expressions that are more complex than
 necessary. This is even more a problem with ontology content that is
@@ -173,7 +184,8 @@ minimal size. One possibility is to use ideas from concept learning.
 
 This project is most suited for Master students.
 
-## Automated Hypothesis Generation using ABox abduction
+Automated Hypothesis Generation using ABox abduction
+======
 
 This project looks at the following problem: we have an ontology, as
 well as some data in the form of a knowledge graph of ABox. This
@@ -192,12 +204,6 @@ signature-based ABox abduction. The aim of this project is to develop
 a new method for signature-based ABox abduction based on some recent
 theoretical results of this problem.
 
+
 This project is intended as Master project.
 
-
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
