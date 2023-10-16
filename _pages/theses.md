@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Theses"
+title: "Thesis Topics"
 permalink: /theses/
 author_profile: true
 ---
