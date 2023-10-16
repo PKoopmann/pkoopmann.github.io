@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Tools"
+    url : /tools/
+
   - title: "Publications"
     url: /publications/
 
@@ -15,7 +18,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Theses"
+  - title: "Thesis Topics"
     url: /theses/
 
   - title: "CV"
@@ -23,6 +26,3 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
-
-  - title: "Tools"
-    url : /tools/
