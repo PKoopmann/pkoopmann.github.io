@@ -58,8 +58,8 @@ entailments). Motivated by this, different methods have been developed
 to provide explanations for positive and negative entailments. 
 
 
-Explaining Entailments using New Inference Rules 
-======
+### Explaining Entailments using New Inference Rules 
+
 
 The classical way of explaining why something follows from an ontology
 is by providing a proof tree, that shows in small steps how the
@@ -72,12 +72,13 @@ develop new sets of inference rules that lead to nicer proofs, and
 provide an evaluation and comparion with existing explanation methods
 based on realistic ontologies. 
 
-There is a Bachelors version and a Masters version of this project.
+This project is primarily intended for Bachelor students, but if a
+Master student finds this topic interesting, there is also a Master
+project version.  
 
 
 
-Explaining Positive Entailments using Universal Models 
-======
+### Explaining Positive Entailments using Universal Models 
 
 The topic of this project is to explain queries to data that is used
 together with an ontology. Specifically, the user asks for instances
@@ -91,8 +92,8 @@ explanations based on such models.
 This project is suitable for Bachelor and Master students.
 
 
-Explaining Missing Entailments using Counter-Examples
-======
+### Explaining Missing Entailments using Counter-Examples
+
 
 One way to explain a missing entailment is by providing an counter
 example. For example, a counterexample for the statement
@@ -108,8 +109,8 @@ an existing method.
 
 This project is suitable for Bachelor and Master students.
 
-Explaining Missing Entailments using Connection-Minimal Abduction
-======
+### Explaining Missing Entailments using Connection-Minimal Abduction
+
 
 Abduction is an approach to explain missing entailments by stating
 "what is missing" - namely, suggesting statements that, when added to
@@ -127,8 +128,7 @@ the existing one.
 
 This project is suitable for Bachelor and Master students.
 
-Explaining Missing Entailments using Signature-Based Abduction
-======
+### Explaining Missing Entailments using Signature-Based Abduction
 
 Abduction is an approach to explain missing entailments by stating
 "what is missing" - namely, suggesting statements that, when added to

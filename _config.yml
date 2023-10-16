@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Dr. Patrick Koopmann"
   avatar           : "profile.jpg"
-  bio              : "I did my PhD at The University of Manchester,
-  		      and then worked a few years as post-doc at the University of Oxford	
-		      and the Technical University of Dresden, before
-		      moving to Amsterdam and becoming and assistance
-		      professor at the Knowledge in AI group."
+  bio              : "Assistant professor at the Knowledge in Artificial Intelligence group at the 
+  		      Vrije Universiteit Amsterdam. Research interests: automated reasoning, 
+		      knowledge representation, symbolic AI, semantic technologies, ontologies,
+                      description logics."
   location         : "Amsterdam"
   employer         : "Vrije Universiteit Amsterdam"
   pubmed           :
