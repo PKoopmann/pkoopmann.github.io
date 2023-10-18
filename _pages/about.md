@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Patrick Koopmann"
+excerpt: "P"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,3 +41,7 @@ ontology-mediated query answering, probabilistic and temporal
 extensions of description logics and query answering, as well as
 integrations of ontologies into other formalisms such as automated
 planning or probabilistic model checking. 
+
+If you are a master student at the VU Amsterdam and want to write a
+Bachelor or Master thesis with me, you can find a list of current
+topics on this page. Don't be afraid to contact me by email.
