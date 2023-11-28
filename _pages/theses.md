@@ -149,9 +149,10 @@ Learning Concept Descriptions
 ======
 
 The aim of this project is to implement and evaluate a new method for
-learning description logic concept descriptions from examples. The
-idea is that an ontology is used together with a set of positive and
-negative examples. The aim is that to generate a concept that
+learning description logic concept descriptions from examples, based
+on recent advancements on non-classical reasoning. In this
+scenario, the ontology is used together with a set of positive and
+negative examples. The aim is then to generate a concept that  
 describes all positive, but none of the negative examples. The
 learning procedure will be based on logical reasoning, that is, will
 use logical reasoning (with the help of existing tools) to compute the
