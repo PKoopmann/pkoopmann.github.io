@@ -10,7 +10,7 @@ Smaller and larger tools and libraries developed as part of my research.
 dl-lib - Working with Description Logics in Python and Scala
 =============================================================
 
-<img src='/images/dl-lib-screenshot.png'>
+<img src='/images/dl-lib-screenshot.png' style="width:600px;">
 
 
 Simple library to work with description logic ontologies from
