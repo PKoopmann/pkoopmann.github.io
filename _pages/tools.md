@@ -7,6 +7,21 @@ author_profile: true
 
 Smaller and larger tools and libraries developed as part of my research.
 
+dl-lib - Working with Description Logics in Python and Scala
+=============================================================
+
+<img src='/images/dl-lib-screenshot.png'>
+
+
+Simple library to work with description logic ontologies from
+python or scala, without having to learn about OWL terminology.
+All classes and method names use DL terminology, though one can
+parse and export to OWL ontologies.
+
+
+
+[Link](https://github.com/PKoopmann/dl-lib)
+
 
 EVEE - Evincing Expressive DL Entailments
 =====
