@@ -45,6 +45,19 @@ The tool can be installed locally using docker, but also tried online.
 
 [Link](https://mt.inf.tu-dresden.de/en/research/research-projects/evonne/)
 
+LETHE and LETHE-abduction
+=====
+
+<img src='/images/lethe-screenshot.png'>
+
+
+Uniform interpolation, forgetting and signature-based abduction for expressive description logics. Comes with a graphical front-end, but can also be used from the command line or as java library.
+
+UPDATE 2024-05-03: new version with easier usage of abduction, available on github
+
+[link](https://github.com/PKoopmann/LETHE-0.8)
+
+
 
 GeMO - Extracting General Modules for ALC Ontologies
 =====
@@ -85,15 +98,5 @@ Collection of classes and objects to make work with OWL under Scala and Java mor
 
 [link](https://github.com/de-tu-dresden-inf-lat/lat-scala-dl-tools)
 
-
-LETHE
-=====
-
-<img src='/images/lethe-screenshot.png'>
-
-
-Uniform interpolation and forgetting for expressive description logics. (Supports SH knowledge bases, and with restrictions SHQ TBoxes.) Comes with a graphical front-end, but can also be used from the command line or as java library.
-
-[link](https://lat.inf.tu-dresden.de/~koopmann/LETHE/index.html)
 
 
