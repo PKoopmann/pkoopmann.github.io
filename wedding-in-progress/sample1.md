@@ -7,7 +7,7 @@ This is a **sample** markdown file for the first section of your website.
 * Supports **bold** and *italic* text
 * Includes [links](https://www.google.com)
 * Code blocks:
-    \`\`\`javascript
+    \`\`\`javascriptas
     function greet(name) {
         return \`Hello, \${name}!\`;
     }
