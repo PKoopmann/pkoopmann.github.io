@@ -82,6 +82,10 @@ On foot, if you don’t mind walking! Around half an hour
 
 ![ambass](Picture15.png) 
 
+**IMPORTANT**: 
+Do these options sound unreasonable or problematic and you would like us to organize for you a lift, e.g. by taxi?
+Please get in touch and we will see what we can do!
+
 
 
 
