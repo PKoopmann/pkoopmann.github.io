@@ -16,7 +16,7 @@ waiting rooms have now been repurposed and can be entered, and for instance now 
 Leave the trainstation towards the stationsplein. For those who arrive thirsty, there is a nice cafe ([Westhoff](https://maps.app.goo.gl/CqFWAS6W93KguCED9)) and a pub 
 ([Wachtlokal](https://maps.app.goo.gl/qQL9WdKZTRTqsHqx6)) - I recommend to try a Moersleutel beer at the bar, they make really nice IPAs. 
 To see the nice bits of the city, follow the Kruisweg until you see a massive cathedral - the [St. Bavo Church](https://maps.app.goo.gl/ggBUToRJ5uZaLVcWA). 
-This is not the church in which we get married, but we will get married very close to this church at the [Ambassador](https://maps.app.goo.gl/TBnjYfvcYx5Xpujm6). You are now in the Haarlem city center, and we invite you to explore the area around it with its many nice little streets with the 
+This is not the church in which we get married, but the wedding celebrations will be very close to this church at the [Ambassador](https://maps.app.goo.gl/TBnjYfvcYx5Xpujm6). You are now in the Haarlem city center, and we invite you to explore the area around it with its many nice little streets with the 
 typical old Dutch houses and flower pots on the sidewalks. 
 
 Some highlights: 
