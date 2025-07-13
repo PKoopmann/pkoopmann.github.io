@@ -6,3 +6,5 @@ On this website you find useful information:
 - tips on amenities (shops, hair-dressers, etc.)
 -  what is the gift policy at our wedding
 - nice things to do in Haarlem and Amsterdam, for those who are staying longer
+
+![corpsebride](corpsebride.jpg)
