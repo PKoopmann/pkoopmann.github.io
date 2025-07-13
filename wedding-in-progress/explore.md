@@ -48,7 +48,7 @@ If you have a few hours, we really recommend to visit **National Park Zuid-Kenne
 
 To reach it, you may need a bike or car: best is to get to the [Bezoekerzentrum](https://maps.app.goo.gl/BwBTRFJGDDh7Lf9L9) of Zuid-Kennemerland. From here you can either continue by bike or by food (most of the time, they have separated paths). The Bezoekerzenturm itself offers surprsingly good food - if you arrive for breakfast, you can have Eggs Benedict here, just to give you an example. There is also a playground for the kids. A few meters away there is a nice lake with a beach, which is a nice alternative to the sea beaches mentioned below. I recommend to follow the signs to **Vogelmeer** (Germans, don't get confused, Dutch switch the words for "See" and "Meer" - "zee" is the sea, a "meer" is a lake). From Vogelmeer, you can then walk over the open dunes towards the sea, for instance getting out at **Parnassia beach**, which has a beach club, or at other less populated entrances to the beaches. 
 
-
+![bisonti](bisonti.png)  ![park1](koevlak-national-park-20-1.jpg)  ![park2](koevlak-national-park-9.jpg)
 
 
 ## Beaches in the Area
@@ -66,5 +66,7 @@ From Haarlem, a straight 20 minute bicyle ride towards the East brings you to [B
 Then there is the [Parnassia-Strand](https://maps.app.goo.gl/GuHeLPAyP9PJDtpNA), which can be reached by either hiking or cycling through the national park **Zuid-Kennermerland** - while usualy also a bit busy on sunny days, you don't have to walk far if you want a silent spot for yourself.
 
 If you don't need the open sea and prefer some trees around you, there is also a beach at the lake [Het Wed](https://maps.app.goo.gl/ud8m5oCB1MNbgJNU9).
+
+![parnassia](koevlak-national-park-14-parnassia-beach.jpg)   ![twed](twed.png)
 
 ## Amsterdam
