@@ -21,10 +21,18 @@ for objects, which is why we did not create a wish list.
 
 Still not happy and you still insist on giving us
 something more than your presence or your card?
-Then, you could give a small contribution to our
+Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
-happening on October, here:
-(PAYMENT LINK)
+happening on October: we use Paypal, see below our email addresses.
+
+tiziana.bellomo@gmail.com
+
+or
+
+p.k.koopmann@vu.nl
+
+(please add a note so we know who you are :))
+
 
 ![Honeymoon](Picture21.png)
 
