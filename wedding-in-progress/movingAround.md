@@ -14,7 +14,7 @@
 
 
 
-## Bycicle
+## Bicycle
 
 The bicycle is definitely the best way to enjoy your time in the Netherlands!
 You can rent a bike in advance (recommended if you are sure you want to rent it anyway!), here is two convenient places in Haarlem, but there are more: [rent-a-bike-haarlem](https://www.rentabikehaarlem.nl) or [black-bikes](https://black-bikes.com/bike-rental-locations/haarlem/)
