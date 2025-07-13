@@ -50,7 +50,9 @@ To come to our place, you walk around 15-20 minutes, or you cycle in 5 minutes, 
 ## To the church
 The Church where we get married is at Korte Zijlweg 5, 2051 BD Overveen.
 You can get there:
+
 By bike (15 minutes from our home, for reference)
+
 By train, getting out at Overveen station (one stop after Haarlem) and walking 7 minutes
 
 ![overveenstn_to_church](Picture11.png) 
@@ -60,6 +62,26 @@ By bus: Connexxion bus (line 81) connects Haarlem city centre with the church an
 ![connexxion_to_church](Picture13.png) 
 
 ![church](Picture12.png) 
+
+
+
+## To the restaurant
+The restaurant (Ambassador Hotel, ground floor) can be reached in around 30 mins, from the church:
+
+By bike (10-15 mins)
+
+By train: walk to Overveen station, train to Haarlem, walk to the restaurant, total time approx 30 minutes
+
+By bus: line 81 Connexxion Bus from outside the church, stop at Ruychaverstraat, walk 11 minutes
+
+![connexxion_to_ambass](Picture14.png) 
+
+On foot, if you don’t mind walking! Around half an hour
+
+![onfoot_to_ambass](Picture16.png) 
+
+![ambass](Picture15.png) 
+
 
 
 
