@@ -28,6 +28,7 @@ Supermarkets you will find in Haarlem are:
 ## Sim cards
 
 If you need to buy a SIM card to use extra data, try if any of these solutions suit you:
+
 https://www.lebara.nl/en/prepaid/data-bundle-valuesim.html
 
 
