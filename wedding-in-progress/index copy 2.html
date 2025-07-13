@@ -26,10 +26,6 @@
             white-space: pre-wrap;
             word-wrap: break-word;
         }
-       .fractal-text {
-         font-family: 'MasterRumble-Regular.ttf', sans-serif; /* Replace with your font name */
-       }
-     </style>
     </style>
 </head>
 <body>
@@ -49,10 +45,10 @@
         markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
         document.head.appendChild(markedScript);
 
-        let welcome = ''
-        let gifts = ''
-        let movingAround = ''
-        let sample = ""
+        let welcome = 'error loading...'
+        let gifts = 'error loading...'
+        let movingAround = 'error loading...'
+        let sample1 = "error loading..."
 
         fetch('sample2.md')
         .then(response => {
@@ -61,7 +57,7 @@
             }
             return response.text();
         }).then(text => {
-            sample=text;
+            sample1=text;
         }).catch(error => {
               console.error('Fetch error:', error);
                     contentDisplay.textContent = 'Failed to load file content.';
@@ -140,11 +136,11 @@
                     case 'gifts':
                         contentToParse = gifts;
                         break;
-                    case 'sample':
-                        contentToParse = sample;
+                    case 'sample1':
+                        contentToParse = sample1;
                         break;
                     default:
-                        contentToParse = welcome;
+                        contentToParse = '# Page Not Found\n\nSorry, the requested page does not exist.';
                 }
                 parseAndSetHtml(contentToParse);
             }, [currentPage]); // Re-run when currentPage changes
@@ -158,18 +154,12 @@
                 //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
             return (
-                
-                <div className="columns">
-                <div className="column"></div>
-                
-                <div className="column is-half">
-                    <br/>
-                <div className="min-h-screen bg-gray-100 flex flex-col ">
+                <div className="min-h-screen bg-gray-100 font-sans text-gray-800 flex flex-col">
                     {/* Header and Navigation */}
-                    <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                        <nav className="content container mx-auto flex flex-wrap justify-center md:justify-between items-center">
-                            <h1 className="fractal-text">Patrick and Tiziana's Wedding</h1>
-                            <div className="content">
+                    <header className="bg-white shadow-sm py-4 px-6 md:px-8 lg:px-12">
+                        <nav className="container mx-auto flex flex-wrap justify-center md:justify-between items-center">
+                            <h1 className="title is-1">Patrick and Tiziana's Wedding</h1>
+                            <div className="flex flex-wrap gap-3">
                                 <button
                                     className={navLinkClasses('welcome')}
                                     onClick={() => setCurrentPage('welcome')}
@@ -189,38 +179,34 @@
                                     Gifts
                                 </button>
                                 <button
-                                    className={navLinkClasses('sample')}
-                                    onClick={() => setCurrentPage('sample')}
+                                    className={navLinkClasses('sample1')}
+                                    onClick={() => setCurrentPage('sample1')}
                                 >
-                                    Sample
+                                    Sample 1
                                 </button>
                             </div>
                         </nav>
                     </header>
-    
-                    <br/>
 
                     {/* Main Content Area */}
-                    <main className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+                    <main className="flex-grow container mx-auto p-6 md:p-8 lg:p-12">
 
-                    
-                        <div className="content">
+                        <div id='content' className='content'>
+                            other content box - still without content!
+                        </div>
+
+                        <div className="bg-white rounded-lg shadow-lg p-6 md:p-8 lg:p-10 prose max-w-none">
                             {/* Markdown content will be rendered here */}
                             <div dangerouslySetInnerHTML={{ __html: parsedHtml }} />
                         </div>
                     </main>
 
-                    <br/><br/>
-
                     {/* Footer */}
-                    <footer className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                        <div className="content">
+                    <footer className="bg-gray-800 text-white py-4 px-6 md:px-8 lg:px-12 text-center text-sm">
+                        <div className="container mx-auto">
                             &copy; {new Date().getFullYear()} Patrick Koopmann and Tiziana. All rights reserved.
                         </div>
                     </footer>
-                </div>
-                </div>
-                <div className="column"></div>
                 </div>
             );
         }
@@ -228,6 +214,14 @@
         // Render the React App into the 'root' div
         const root = ReactDOM.createRoot(document.getElementById('root'));
         root.render(<App />);
+        const contentElement = document.getElementById('content');
+        try {
+                contentElement.innerHTML = htmlContent;
+            } catch (error) {
+                contentElement.innerHTML = `<p class="has-text-danger">Failed to load and render markdown file. Check the console for details.</p>`;
+            }
+        
+        
     </script>
 </body>
 </html>

@@ -11,26 +11,27 @@
     <!--<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">-->
     
     
-    <style>
-        /* Add a little extra padding to the section for better spacing */
-        body
-        .main-section {
-            padding: 3rem 1.5rem;
+    <!--<style>
+        body {
+            font-family: 'Inter', sans-serif;
         }
-        /* Style for code blocks inside the .content class */
-        .content pre {
-            background-color: #282c34; /* A dark background for code */
-            color: #abb2bf;
-            padding: 1.25em;
-            border-radius: 6px;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-       .fractal-text {
-         font-family: 'MasterRumble-Regular.ttf', sans-serif; /* Replace with your font name */
-       }
-     </style>
-    </style>
+        /* Basic styling for markdown content to make it look good with Tailwind's prose */
+        .prose h1 { @apply text-4xl font-extrabold mb-4; }
+        .prose h2 { @apply text-3xl font-bold mb-3 mt-6; }
+        .prose h3 { @apply text-2xl font-semibold mb-2 mt-5; }
+        .prose p { @apply mb-4 leading-relaxed; }
+        .prose ul { @apply list-disc pl-5 mb-4; }
+        .prose ol { @apply list-decimal pl-5 mb-4; }
+        .prose li { @apply mb-1; }
+        .prose a { @apply text-blue-600 hover:underline; }
+        .prose pre { @apply bg-gray-800 text-white p-4 rounded-md overflow-x-auto; }
+        .prose code { @apply font-mono text-sm bg-gray-200 px-1 py-0.5 rounded; }
+        .prose blockquote { @apply border-l-4 border-blue-500 pl-4 italic text-gray-600; }
+        .prose table { @apply w-full border-collapse my-4; }
+        .prose th, .prose td { @apply border border-gray-300 p-2 text-left; }
+        .prose th { @apply bg-gray-100 font-semibold; }
+        .prose img { @apply max-w-full h-auto rounded-lg my-4; }
+    </style>-->
 </head>
 <body>
     <div id="root"></div>
@@ -49,10 +50,10 @@
         markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
         document.head.appendChild(markedScript);
 
-        let welcome = ''
-        let gifts = ''
-        let movingAround = ''
-        let sample = ""
+        let welcome = 'error loading...'
+        let gifts = 'error loading...'
+        let movingAround = 'error loading...'
+        let sample1 = "error loading..."
 
         fetch('sample2.md')
         .then(response => {
@@ -61,7 +62,7 @@
             }
             return response.text();
         }).then(text => {
-            sample=text;
+            sample1=text;
         }).catch(error => {
               console.error('Fetch error:', error);
                     contentDisplay.textContent = 'Failed to load file content.';
@@ -140,36 +141,29 @@
                     case 'gifts':
                         contentToParse = gifts;
                         break;
-                    case 'sample':
-                        contentToParse = sample;
+                    case 'sample1':
+                        contentToParse = sample1;
                         break;
                     default:
-                        contentToParse = welcome;
+                        contentToParse = '# Page Not Found\n\nSorry, the requested page does not exist.';
                 }
                 parseAndSetHtml(contentToParse);
             }, [currentPage]); // Re-run when currentPage changes
 
             // Tailwind CSS classes for common elements
             const navLinkClasses = (page) =>
-            (currentPage == page ? 'button is-active' : 'button');
-                //`px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200 ` +
-                //(currentPage === page
-                //    ? 'bg-blue-600 text-white shadow-md'
-                //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
+                `px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200 ` +
+                (currentPage === page
+                    ? 'bg-blue-600 text-white shadow-md'
+                    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
             return (
-                
-                <div className="columns">
-                <div className="column"></div>
-                
-                <div className="column is-half">
-                    <br/>
-                <div className="min-h-screen bg-gray-100 flex flex-col ">
+                <div className="min-h-screen bg-gray-100 font-sans text-gray-800 flex flex-col">
                     {/* Header and Navigation */}
-                    <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                        <nav className="content container mx-auto flex flex-wrap justify-center md:justify-between items-center">
-                            <h1 className="fractal-text">Patrick and Tiziana's Wedding</h1>
-                            <div className="content">
+                    <header className="bg-white shadow-sm py-4 px-6 md:px-8 lg:px-12">
+                        <nav className="container mx-auto flex flex-wrap justify-center md:justify-between items-center">
+                            <h1 className="text-2xl font-bold text-blue-700 mb-4 md:mb-0">Patrick and Tiziana's Wedding</h1>
+                            <div className="flex flex-wrap gap-3">
                                 <button
                                     className={navLinkClasses('welcome')}
                                     onClick={() => setCurrentPage('welcome')}
@@ -189,38 +183,29 @@
                                     Gifts
                                 </button>
                                 <button
-                                    className={navLinkClasses('sample')}
-                                    onClick={() => setCurrentPage('sample')}
+                                    className={navLinkClasses('sample1')}
+                                    onClick={() => setCurrentPage('sample1')}
                                 >
-                                    Sample
+                                    Sample 1
                                 </button>
                             </div>
                         </nav>
                     </header>
-    
-                    <br/>
 
                     {/* Main Content Area */}
-                    <main className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-
-                    
-                        <div className="content">
+                    <main className="flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+                        <div className="bg-white rounded-lg shadow-lg p-6 md:p-8 lg:p-10 prose max-w-none">
                             {/* Markdown content will be rendered here */}
                             <div dangerouslySetInnerHTML={{ __html: parsedHtml }} />
                         </div>
                     </main>
 
-                    <br/><br/>
-
                     {/* Footer */}
-                    <footer className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                        <div className="content">
+                    <footer className="bg-gray-800 text-white py-4 px-6 md:px-8 lg:px-12 text-center text-sm">
+                        <div className="container mx-auto">
                             &copy; {new Date().getFullYear()} Patrick Koopmann and Tiziana. All rights reserved.
                         </div>
                     </footer>
-                </div>
-                </div>
-                <div className="column"></div>
                 </div>
             );
         }
