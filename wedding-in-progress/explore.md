@@ -3,7 +3,7 @@
 ## Haarlem
 
 Many of you are directly staying in Haarlem, where we live and where also the wedding ceremonies take place.
-Haarlem is a beautiful city with its own charme. Lesser known than Amsterdam, we hope that our wedding also gives
+Haarlem is a beautiful city with its own charme. Less known than Amsterdam, we hope that our wedding also gives
 us the opportunity to see this town which you otherwise may never have visited.
 
 ### Haarlem itself
