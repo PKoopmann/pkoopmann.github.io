@@ -1,12 +1,13 @@
 # Tips for your stay in the Netherlands
 
+## Cash or card? Card!!!
 
-## Buying Drugstore Items
+In The Netherlands, almost everything and everywhere you can use a bank card, and in some places they even do NOT accept cash!
+So, make sure you have a bank card with you for your shopping!
 
-Many light medicines such as paracetamol and cetirizine can just be bought at a supermarket, usually at a quite cheap price.
-At the same time, you may notice that hygiene and beauty products such as cremes, deodorants etc. are quite expensive here.
-For those who come with a plane and without liquids, and need for instance to buy sunscreen, but don't want to pay a 
-fortune for it, we recommend going to [Normal](https://maps.app.goo.gl/KwmmrhafgM58ibPF8) in the Haarlem city center, which is considerably cheaper than the alternatives Kruidvart and Ethos. 
+This is also why cash machines are a bit harder to find. We don't think you will need them, but if you do, often you find them in the supermarkets (see below).
+
+
 
 ## Supermarkets
 
@@ -22,9 +23,19 @@ Supermarkets you will find in Haarlem are:
 
 - Aldi (cheaper)
 
+
+## Buying Drugstore Items
+
+Many light medicines such as paracetamol and cetirizine can just be bought at a supermarket, usually at a quite cheap price.
+At the same time, you may notice that hygiene and beauty products such as cremes, deodorants etc. are quite expensive here.
+For those who come with a plane and without liquids, and need for instance to buy sunscreen, but don't want to pay a 
+fortune for it, we recommend going to [Normal](https://maps.app.goo.gl/KwmmrhafgM58ibPF8) in the Haarlem city center, which is considerably cheaper than the alternatives Kruidvart and Ethos. 
+
+
 ## Renting Bikes and public transport
 
 See section: Moving around
+
 
 ## Hairdressers
 
