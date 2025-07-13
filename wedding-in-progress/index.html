@@ -50,142 +50,53 @@
         markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
         document.head.appendChild(markedScript);
 
-        let welcome = ''
-        let gifts = ''
-        let movingAround = ''
-        let sample = ""
-        let explore = ''
-        let amenities = ''
-
-        fetch(`sample2.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            sample=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
-        fetch(`welcome.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            welcome=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
-        fetch(`gifts.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            gifts=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
-        fetch(`movingAround.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            movingAround=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
-
-        fetch(`explore.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            explore=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
-        fetch(`amenities.md?t=${new Date().getTime()}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-            return response.text();
-        }).then(text => {
-            amenities=text;
-        }).catch(error => {
-              console.error('Fetch error:', error);
-                    contentDisplay.textContent = 'Failed to load file content.';
-                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
-        });
-
         // Main App component
         function App() {
             const [currentPage, setCurrentPage] = React.useState('welcome');
             const [parsedHtml, setParsedHtml] = React.useState('');
 
             // Function to parse Markdown and set HTML
-            const parseAndSetHtml = (markdown) => {
-                // Ensure marked.js is loaded before trying to use it
-                if (window.marked) {
-                    setParsedHtml(window.marked.parse(markdown));
-                } else {
-                    // Fallback or loading indicator if marked.js isn't ready
-                    setParsedHtml('<p>Loading Markdown parser...</p>');
-                    console.warn('marked.js not yet loaded.');
-                }
-            };
-
-            // Effect to update content when currentPage changes
+            // Effect to fetch and update content when currentPage changes
             React.useEffect(() => {
-                let contentToParse = '';
-                switch (currentPage) {
-                    case 'welcome':
-                        contentToParse = welcome;
-                        break;
-                    case 'moving-around':
-                        contentToParse = movingAround;
-                        break;
-                    case 'gifts':
-                        contentToParse = gifts;
-                        break;
-                    case 'sample':
-                        contentToParse = sample;
-                        break;
-                    case 'explore':
-                        contentToParse = explore;
-                        break;
-                    case 'amenities':
-                        contentToParse = amenities;
-                        break;
-                    default:
-                        contentToParse = welcome;
-                }
-                parseAndSetHtml(contentToParse);
-            }, [currentPage]); // Re-run when currentPage changes
+                const fileName = currentPage+".md";
+
+
+                // Set a loading message immediately
+                setParsedHtml('<p class="has-text-grey">Loading content...</p>');
+
+                // Fetch the appropriate markdown file, adding a timestamp to prevent caching.
+                fetch(`${fileName}?t=${new Date().getTime()}`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! Status: ${response.status}`);
+                        }
+                        return response.text();
+                    })
+                    .then(text => {
+                        // This function will wait until the 'marked' library is loaded before parsing.
+                        const parseWhenReady = (markdownText) => {
+                            // Check if the 'marked' object is available on the window.
+                            if (window.marked) {
+                                // If it is, parse the markdown and update the state.
+                                setParsedHtml(window.marked.parse(markdownText));
+                            } else {
+                                // If not, wait 100ms and try again. This creates a simple
+                                // polling mechanism to handle the script's asynchronous loading.
+                                setTimeout(() => parseWhenReady(markdownText), 100);
+                            }
+                        };
+
+                        // Call the function to start the process.
+                        parseWhenReady(text);
+                    })
+                    .catch(error => {
+                        console.error('Fetch error:', error);
+                        setParsedHtml(`<p class="has-text-danger">Failed to load file: ${fileName}.</p>`);
+                    });
+
+            }, [currentPage]); // This effect re-runs whenever 'currentPage' changes
+
+
 
             // Tailwind CSS classes for common elements
             const navLinkClasses = (page) =>
@@ -216,8 +127,8 @@
                                     Welcome
                                 </button>
                                 <button
-                                    className={navLinkClasses('moving-around')}
-                                    onClick={() => setCurrentPage('moving-around')}
+                                    className={navLinkClasses('movingAround')}
+                                    onClick={() => setCurrentPage('movingAround')}
                                 >
                                     Moving Around
                                 </button>
@@ -240,8 +151,8 @@
                                     Gifts
                                 </button>
                                 <button
-                                    className={navLinkClasses('sample')}
-                                    onClick={() => setCurrentPage('sample')}
+                                    className={navLinkClasses('sample2')}
+                                    onClick={() => setCurrentPage('sample2')}
                                 >
                                     Sample
                                 </button>
