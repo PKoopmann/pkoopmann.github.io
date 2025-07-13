@@ -54,6 +54,8 @@
         let gifts = ''
         let movingAround = ''
         let sample = ""
+        let explore = ''
+        let amenities = ''
 
         fetch(`sample2.md?t=${new Date().getTime()}`)
         .then(response => {
@@ -111,9 +113,38 @@
                     statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
         });
 
+
+        fetch(`explore.md?t=${new Date().getTime()}`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            explore=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
+        fetch(`amenities.md?t=${new Date().getTime()}`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            amenities=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
         // Main App component
         function App() {
-            const [currentPage, setCurrentPage] = React.useState('content1');
+            const [currentPage, setCurrentPage] = React.useState('welcome');
             const [parsedHtml, setParsedHtml] = React.useState('');
 
             // Function to parse Markdown and set HTML
@@ -144,6 +175,12 @@
                     case 'sample':
                         contentToParse = sample;
                         break;
+                    case 'explore':
+                        contentToParse = explore;
+                        break;
+                    case 'amenities':
+                        contentToParse = amenities;
+                        break;
                     default:
                         contentToParse = welcome;
                 }
@@ -169,7 +206,8 @@
                     {/* Header and Navigation */}
                     <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
                         <nav className="content container mx-auto flex flex-wrap justify-center md:justify-between items-center">
-                            <p className="fractal-text">Patrick and Tiziana's Wedding</p>
+                         
+                            <img src="title.png"/>
                             <div className="content">
                                 <button
                                     className={navLinkClasses('welcome')}
@@ -182,6 +220,18 @@
                                     onClick={() => setCurrentPage('moving-around')}
                                 >
                                     Moving Around
+                                </button>
+                                <button
+                                    className={navLinkClasses('explore')}
+                                    onClick={() => setCurrentPage('explore')}
+                                >
+                                    Places to Explore
+                                </button>
+                                <button
+                                    className={navLinkClasses('amenities')}
+                                    onClick={() => setCurrentPage('amenities')}
+                                >
+                                    Tips
                                 </button>
                                 <button
                                     className={navLinkClasses('gifts')}
