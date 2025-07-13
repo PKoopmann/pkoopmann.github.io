@@ -12,15 +12,15 @@ fortune for it, we recommend going to [Normal](https://maps.app.goo.gl/Kwmmrhafg
 
 Supermarkets you will find in Haarlem are:
 
-Albert Hein (a bit expensive but better quality)
+- Albert Hein (a bit expensive but better quality)
 
-Jumbo (a bit expensive but better quality)
+- Jumbo (a bit expensive but better quality)
 
-Vomar (a bit cheaper)
+- Vomar (a bit cheaper)
 
-Dekamarkt (a bit cheaper)
+- Dekamarkt (a bit cheaper)
 
-Aldi (cheaper)
+- Aldi (cheaper)
 
 ## Renting Bikes and public transport
 
