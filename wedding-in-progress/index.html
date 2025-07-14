@@ -30,6 +30,10 @@
          font-family: 'UnifrakturMaguntia', sans-serif;
          font-size: 50px; /* Replace with your font name */
        }
+        .fill-space {
+            flex: 1;
+            text-align: center;
+        }
      </style>
     </style>
 </head>
@@ -54,11 +58,12 @@
         function App() {
             const [currentPage, setCurrentPage] = React.useState('welcome');
             const [parsedHtml, setParsedHtml] = React.useState('');
+            const [currentLanguage, setLanguage] = React.useState('en');
 
             // Function to parse Markdown and set HTML
             // Effect to fetch and update content when currentPage changes
             React.useEffect(() => {
-                const fileName = currentPage+".md";
+                const fileName = currentPage+".md" + (currentLanguage=='en' ? '' : ('-'+currentLanguage+'.md'));
 
 
                 // Set a loading message immediately
@@ -106,6 +111,9 @@
                 //    ? 'bg-blue-600 text-white shadow-md'
                 //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
+            const languageClass = (language) => 
+            (currentLanguage == language ? 'button is-info px-6' : 'button pr');
+
             return (
                 
                 <div className="columns">
@@ -119,7 +127,9 @@
                         <nav className="content container mx-auto flex flex-wrap justify-center md:justify-between items-center">
                          
                             <img src="title.png"/>
-                            <div className="content">
+                            
+                            <div className="navbar-menu">
+                              <div className="navbar-start">
                                 <button
                                     className={navLinkClasses('welcome')}
                                     onClick={() => setCurrentPage('welcome')}
@@ -151,6 +161,27 @@
                                     Gifts
                                 </button>
                             </div>
+                            <div className="navbar-end">
+                                <button
+                                    className={languageClass('en')}
+                                    onClick={() => setLanguage('en')}
+                                >
+                                    English
+                                </button>
+                                <button
+                                    className={languageClass('de')}
+                                    onClick={() => setLanguage('de')}
+                                >
+                                    Deutsch
+                                </button>
+                                <button
+                                    className={languageClass('it')}
+                                    onClick={() => setLanguage('it')}
+                                >
+                                    Italiano
+                                </button>
+                            </div>
+                          </div>
                         </nav>
                     </header>
     
