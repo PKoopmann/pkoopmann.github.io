@@ -1,90 +1,92 @@
-# Herum bewege
+# Wie man von A nach B kommt
 
-## öffentliche Verkehrsmittel
+## Öffentliche Verkehrsmittel
 
-*App*: ** 9292 ** (es funktioniert für jede Art von Transport, die zuverlässiger von Google Maps ist)
+*App*: **9292** (funktioniert für jede Art von Verkehrsmittel, und meistens besser als Google Maps)
 
-*Tickets*: Verwenden Sie Ihre Bankkarte (eine pro Person, auch die Kinder, wenn sie zu alt für Rabatte sind). Sie müssen nach Maschinen am Eingang und Ausgang von Stationen, Bussen und Straßenbahnen einchecken und sie überprüfen. Vergessen Sie nicht, ** auschecken ** Andernfalls berechnen sie Ihnen mehr Geld!
+*Tickets*: Ihr könnt einfach eure Bankkarte (Kredit oder Debit) als Ticket benutzen (eine pro Person, auch für Kinder die zu alt für den Discount sind). 
+Ihr müsst über die Maschinen am Eingang und Ausgang von Bahnhofen, Bussen und Straßenbahnen einchecken und ausschecken - beim Auschecken wird dann automatisch
+der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld!
 
 *Transportunternehmen*: NS (Züge), Connexxion (Busse, in und außerhalb von Städten), GVB (nur Amsterdam)
 
-*Kinder*: Kinder zahlen ein reduziertes Ticket in den Zügen und kostenlos in Connexxion-Bussen (falls jünger als 11): [Kinder im Zug] (https://www.ns.nl/en/tickets/railrunner) und [Kinder am Bus] (https://www.connexion.nl/en/en/en/en/en/en/en/en/en/en/en/en/en/en/en/en
+*Kinder*: Kinder zahlen ein reduziertes Ticket in den Zügen und fahren kostenlos in Connexxion-Bussen (falls sie jünger als 11 sind): [Kinder im Zug](https://www.ns.nl/en/tickets/railrunner) und [Kinder im Bus](https://www.connexxion.nl/en/shop/tickets/free-kids-day-ticket)
 
-! [Gerät zum Check in_1] (bild3.jpg)! [Gerät für Check in_2] (bild4.jpg)! [Gerät für das Check in_3] (picture5.jpg)
+![Gerät zum Check in_1](Picture3.jpg) ![Gerät für Check in_2](Picture4.jpg) ![Gerät für das Check in_3](Picture5.jpg)
 
 
 
 ## Fahrrad
 
-Das Fahrrad ist definitiv der beste Weg, um Ihre Zeit in den Niederlanden zu genießen!
-Sie können ein Fahrrad im Voraus mieten (empfohlen, wenn Sie sicher sind, dass Sie es sowieso mieten möchten!).
+Das Fahrrad ist definitiv der beste Weg, eure Zeit in den Niederlanden zu genießen!
+Ihr könnt Fahrräder im Voraus mieten (empfohlen, wenn ihr sicher seid, dass ihr es sowieso mieten möchtet!).
 
-Haarlem ist eine wunderschöne Stadt, um herumzuräumen. Darüber hinaus sind Sie in 20 Minuten Radfahren auf den Dünen und in 30 Minuten an den schönen Bloemendal Stränden!
+Haarlem ist eine wunderschöne Stadt, um mit dem Fahrrad zu fahren. Darüber hinaus seid ihr in 20 Minuten auf den Dünen und in 30 Minuten an den schönen Stränden von Bloemendal!
 
-! [Radfahrer in der Stadt] (Bild6.jpg)! [Radfahrer auf den Dünen] (Bild7.png)
+![Radfahrer in der Stadt](Picture6.jpg) ![Radfahrer auf den Dünen](Picture7.png)
 
-Beachten Sie: Wenn Sie von einer Stadt in eine andere wechseln möchten und es zu weit zum Fahrrad ist, können Sie Ihr Fahrrad nur in den Zeiten außerhalb der Spitzenzeiten und gegen eine Gebühr in den Zug nehmen. Infos hier: [Bikes-on-the-Train] (https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
-
-
-
-## für diejenigen, die in Camping de liede bleiben
-
-Die von Google Maps vorgeschlagene Reiseroute, um an uns zu fahren.
-
-! [Liede zu Hause] (Bild8.png)
-
-Die nächstgelegene Station ist die Haarlem Spaarnwoude Station. Nicht überdurchschnittlich zu Fuß, aber Sie können es tun (es dauert ungefähr 20 Minuten), wenn Sie ein Fahrrad haben, wäre es schöner und schneller.
+*Achtung:* Wenn ihr von einer Stadt in eine andere wechseln möchtet und es zu weit mit dem Fahrrad ist, können ihr euer Fahrrad nur außerhalb der Stoßzeiten und gegen eine Gebühr in den Zug nehmen. Infos hier: [Fahrräder im Zug](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
 
 
-## für diejenigen, die im Botschafter Hotel wohnen
+## Für diejenigen, die in Camping de Liede übernachten
 
-Sie sind mitten im Stadtzentrum genau!
+Die von Google Maps vorgeschlagene Reiseroute, um uns zu besuchen:
 
-Um an uns zu kommen, gehen Sie ungefähr 15 bis 20 Minuten oder Sie fahren in 5 Minuten oder nehmen Sie ein Taxi.
+![Von Liede zu uns](Picture8.png)
 
-! [Botschafter zu Hause] (Bild9.png)
+Die nächste Bahnhof von euch ist der Bahnhof Haarlem Spaarnwoude. Allerdings sind es zu diesem Bahnhof etwa 20 Minuten. Mit Fahrrad geht es schöner und schneller.
 
 
 
-## zur Kirche
+## Für diejenigen, die im Ambassador Hotel übernachten
+
+Ihr seid mitten im Stadtzentrum!
+
+Um uns zu besuchen, lauft ihr etwa 15 bis 20 Minuten, mit Fahrrad sind es 5, oder ihr nehmt einfach ein Taxi.
+
+![Vom Ambassador Hotel zu uns](Picture9.png)
+
+
+
+## Zur Kirche
 Die Kirche, in der wir heiraten, befindet sich in Korte Zijlweg 5, 2051 BD Overveen.
-Sie können dort ankommen:
+So kommt ihr dort hin:
 
-Mit dem Fahrrad (15 Minuten von zu Hause entfernt als Referenz)
+- mit dem Fahrrad (15 Minuten von uns entfernt, als Referenz);
 
-Mit dem Zug, am Bahnhof Overveen (eine Station nach Haarlem) und 7 Minuten laufen
+- mit dem Zug zum Bahnhof Overveen (eine Station nach Haarlem) und dann 7 Minuten laufen;
 
-! [OverveenStn_to_church] (bild11.png)
+![OverveenStn_to_church](Picture11.png)
 
-Mit dem Bus: Connexxion Bus (Linie 81) verbindet Haarlem das Stadtzentrum der Kirche und die Haltestelle befindet sich direkt vor der Kirche (10 Minuten von Haarlem Station entfernt, als Referenz)
+Mit dem Bus: mit dem Connexxion Bus (Linie 81) kommt ihr vom Haarlemer Stadtzentrum zur Kirche und die Haltestelle befindet sich direkt vor der Kirche (10 Minuten vom Haarlemer Bahnhof entfernt, als Referenz)
 
-! [connexxion_to_church] (bild13.png)
+![connexxion_to_church](Picture13.png)
 
-! [Kirche] (Bild12.png)
+![Kirche](Picture12.png)
 
 
 
-## ins Restaurant
+## Zum Restaurant
 Das Restaurant (Ambassador Hotel, Erdgeschoss) kann in etwa 30 Minuten von der Kirche aus erreicht werden:
 
-Durch Fahrrad (10-15 Minuten)
+- durch Fahrrad (10-15 Minuten)
 
-Mit dem Zug: Gehen
+- mit dem Zug: Zum Bahnhof Overveen laufen, Zug nach Haarlem nehmen (eine Station), von dort zum Restaurant laufen (insgesamt etwa 30 Minuten) 
 
-Mit Bus: Linie 81 Connexxion Bus von außerhalb der Kirche, halten Sie in Ruychaverstraat, um 11 Minuten zu gehen
+- mit dem Bus: die Linie 81 des Connexxion Bus von außerhalb der Kirche, bis nach Ruychaverstraat, dann 11 Minuten laufen
 
-! [connexxion_to_ambass] (bild14.png)
+![connexxion_to_ambass](Picture14.png)
 
-Zu Fuß, wenn es Ihnen nichts ausmacht, zu gehen! Ungefähr eine halbe Stunde
+Zu Fuß, wenn es euch nichts ausmacht, zu laufen! Ungefähr eine halbe Stunde
 
-! [onfoot_to_ambass] (bild16.png)
+![onfoot_to_ambass](Picture16.png)
 
-! [Botschafter] (Bild15.png)
+![Ambassador](Picture15.png)
 
 **WICHTIG**:
-Klingen diese Optionen unangemessen oder problematisch und möchten, dass wir für Sie einen Aufzug organisieren, z. von Taxi?
-Bitte setzen Sie sich mit uns in Verbindung und wir werden sehen, was wir tun können!
+Wenn keine dieser Optionen was für euch ist, lasst es uns wissen! Wir organisieren dann eine Reise per Auto oder Taxi.
+Bitte schreibt uns und wir werden sehen, was wir tun können!
 
 
 

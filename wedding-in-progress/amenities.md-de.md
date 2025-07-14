@@ -1,17 +1,17 @@
-# Tipps für Ihren Aufenthalt in den Niederlanden
+# Tipps für euren Aufenthalt in den Niederlanden
 
 ## Bargeld oder Karte? Karte!!!
 
-In den Niederlanden können fast alles und überall eine Bankkarte benutzen, und an einigen Stellen akzeptieren sie sogar kein Geld!
-Stellen Sie also sicher, dass Sie eine Bankkarte für Ihren Einkauf bei sich haben!
+In den Niederlanden könnt ihr für fast alles und überall eine Bankkarte benutzen, und an einigen Stellen akzeptieren sie sogar kein Bargeld!
+Achtet also darauf, immer eure eine Bankkarte dabei zu haben!
 
-Dies ist auch der Grund, warum Geldautomaten etwas schwerer zu finden sind. Wir glauben nicht, dass Sie sie brauchen werden, aber wenn Sie dies tun, finden Sie sie oft in den Supermärkten (siehe unten).
+Das ist auch der Grund, warum Geldautomaten etwas schwerer zu finden sind. Wir glauben nicht, dass ihr einen Geldautomaten brauchen werdet, aber falls doch, findet ihr diese oft in den Supermärkten (siehe unten).
 
 
 
 ## Supermärkte
 
-Supermärkte, die Sie in Haarlem finden, sind:
+Holländische Supermarktketten sind die folgenden:
 
 - Albert Heijn (etwas teuer, aber besserer Qualität)
 
@@ -23,37 +23,38 @@ Supermärkte, die Sie in Haarlem finden, sind:
 
 - Aldi (billiger)
 
+- Dirk (der billigste, aber glaube ich nicht in Haarlem zu finden)
+
 
 ## Kaufen von Drogerieartikeln
 
 Viele leichte Medikamente wie Paracetamol und Cetirizin können einfach in einem Supermarkt gekauft werden, normalerweise zu einem ziemlich günstigen Preis.
-Gleichzeitig stellen Sie möglicherweise fest, dass Hygiene- und Schönheitsprodukte wie Cremes, Deodorants usw. hier ziemlich teuer sind.
-Für diejenigen, die mit einem Flugzeug und ohne Flüssigkeiten kommen und für den Beispiel Sonnenschutzmittel kaufen müssen, aber keine bezahlen möchten
-Das Glück dafür empfehlen, zu [normal] (https://maps.app.goo.gl/kwmmrhafgm58ibpf8) im Innenstadt von Haarlem zu gehen, das erheblich billiger ist als die Alternativen Kruidvart und Ethos.
+Allerdings werdet ihr bald feststellen, dass Hygiene- und Schönheitsprodukte wie Cremes, Deodorants usw. hier ziemlich teuer sind.
+Für diejenigen, die mit einem Flugzeug und ohne Flüssigkeiten kommen und für den Beispiel Sonnenschutzmittel kaufen müssen, aber kein Vermögen dafür ausgeben wollen, denen empfehlen wir zu [Normal](https://maps.app.goo.gl/kwmmrhafgm58ibpf8) in der Innenstadt von Haarlem zu gehen. Normal ist deutlich billiger als die Alternativen Kruidvart und Ethos.
 
 
-## Mieten von Fahrrädern und öffentlichen Verkehrsmitteln
+## Mieten von Fahrrädern und öffentlichen Verkehrsmittel
 
-Siehe Abschnitt: Bewegen Sie herum
+Siehe Abschnitt: Moving Around
 
 
 ## Friseure
 
-Wenn Sie in Haarlem einen Friseur besuchen müssen, empfehlen wir Toni & Guy oder Carlah, sie sind gut und sprechen Englisch. Aber sie sind teuer und leider sind die Preise überall hoch, wo Sie hingehen.
-Überprüfen Sie ihre Websites, um einen Blick darauf zu werfen und/oder einen Termin zu vereinbaren:
+Falls du in Haarlem einen Friseur besuchen musst, empfehlen wir Toni&Guy und Carlah - die sind gut und sprechen Englisch. Allerdings sind sie auch teuer -  leider sind die Preise hier leider überall hoch.
+Überprüfen Sie die Websites, um einen Blick darauf zu werfen und/oder einen Termin zu vereinbaren:
 
-https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https://www.toniandguy.nl/salon/haarlem/
+[Tony&Guy](https://www.toniandguy.nl/salon/haarlem/)
 
-https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https://carlah.nl/nl/
+[Carlah](https://carlah.nl/nl/)
 
 
 ## Warnung: Segelveranstaltung diese Woche
 
-*Allgemeine Warnung: Es kann geschäftig sein, auf den Straßen, in den Zügen und auf dem Wasser mehr Zeit für alles!
+*Allgemeine Warnung: Es kann viel los sein auf den Straßen, in den Zügen!
 
-https://translate.google.com/translate?hl=en&sl=en&tl=de&u=https://www.sail.nl/en
+https://www.sail.nl/en
 
-! [Segel] (Bild1.png)! [Brücken] (Bild2.png)
+![Segel](Picture1.png) ![Brücken](Picture2.png)
 
 
 
