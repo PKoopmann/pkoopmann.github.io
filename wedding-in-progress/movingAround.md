@@ -46,6 +46,10 @@ To come to our place, you walk around 15-20 minutes, or you cycle in 5 minutes, 
 ![ambassador to home](Picture9.png) 
 
 
+## For those who are staying elsewhere or outside Haarlem
+
+Your reference point is the Haarlem station. It's in the middle of the city, 15 minutes on foot from where we live, and also it's 15 minutes on foot to the Ambassador hotel. So, at the end of the wedding celebrations, you only have a short walk to go to the station.
+
 
 ## To the church
 The Church where we get married is at Korte Zijlweg 5, 2051 BD Overveen.
