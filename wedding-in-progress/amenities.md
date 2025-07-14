@@ -24,6 +24,15 @@ Supermarkets you will find in Haarlem are:
 - Aldi (cheaper)
 
 
+
+## Sim cards
+
+If you need to buy a SIM card to use extra data, check if any of these solutions suit you:
+
+https://www.lebara.nl/en/prepaid/data-bundle-valuesim.html
+
+
+
 ## Buying Drugstore Items
 
 Many light medicines such as paracetamol and cetirizine can just be bought at a supermarket, usually at a quite cheap price.
