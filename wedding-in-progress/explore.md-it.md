@@ -2,51 +2,51 @@
 
 ## Haarlem
 
-Molti di voi soggiornano direttamente a Haarlem, dove viviamo e dove si svolgono anche le cerimonie nuziali.
-Haarlem è una bellissima città con il suo incantesimo. Meno conosciuto di Amsterdam, speriamo che il nostro matrimonio dia anche
-noi l'opportunità di vedere questa città che altrimenti potresti non aver mai visitato.
+Molti di voi soggiornano direttamente a Haarlem, dove viviamo noi e dove si svolgono anche le cerimonie nuziali.
+Haarlem è una incantevole citta'. Meno conosciuta di Amsterdam, speriamo che il nostro matrimonio vi dia anche
+ l'opportunità di vedere questa città che altrimenti potresti non aver mai visitato.
 
-### Haarlem stesso
+### Haarlem stessa
 
 Arrivi alla bella stazione storica [ferroviaria] (https://maps.app.goo.gl/niqlswytt6mtwsft7)
-In Jugendstil, dove su alcune piattaforme puoi ancora trovare il vecchio originale
-sale d'attesa per classi diverse (al giorno d'oggi ci sono solo due classi sulle tanne, c'erano cinque). Alcuni di questi
-Le sale d'attesa sono state ora riproposte e possono essere inserite, e ad esempio ora assumere la forma di un caffè.
+In Jugendstil, dove su alcune piattaforme puoi ancora trovare le vecchie originali
+sale d'attesa per classi diverse (al giorno d'oggi ci sono solo due classi sul treno, prima ce n'erano cinque). Alcune di queste
+sale d'attesa sono state ora riqualificate, ad esempio come bar.
 
-Lascia la statale di Train verso le stazioni. Per coloro che arrivano assetati, c'è un bel caffè ([Westhoff] (https://maps.app.goo.gl/CQFWAS6W93KGECED9)) e un pub
-([Wachtlokal] (https://maps.app.goo.gl/qql9wdkztrtqshqx6)) - Consiglio di provare una birra Moersleutel al bar, producono IPA davvero simpatici.
-Per vedere i bei pezzi della città, segui Kruisweg fino a vedere una cattedrale enorme - la [St. Chiesa Bavo] (https://maps.app.goo.gl/ggbutorj5uzalvcwa).
-Questa non è la chiesa in cui ci sposiamo, ma le celebrazioni del matrimonio saranno molto vicine a questa chiesa al [Ambassador] (https://maps.app.goo.gl/tbnjyfvcyx5xpujm6). Ora sei nel centro della città di Haarlem e ti invitiamo a esplorare l'area intorno a essa con le sue molte belle strade con le
-Tipiche vecchie case olandesi e vasi di fiori sui marciapiedi.
+Uscendo nel piazzale della stazione, per coloro che arrivano assetati, c'è un bel caffè ([Westhoff] (https://maps.app.goo.gl/CQFWAS6W93KGECED9)) e un pub
+([Wachtlokal] (https://maps.app.goo.gl/qql9wdkztrtqshqx6)) - Consiglio di provare una birra Moersleutel al bar, producono IPA davvero gustosa.
+Per vedere i punti belli della città, segui Kruisweg fino a vedere una cattedrale enorme - la [St. Chiesa Bavo] (https://maps.app.goo.gl/ggbutorj5uzalvcwa).
+Questa non è la chiesa in cui ci sposiamo, ma le celebrazioni del matrimonio saranno molto vicine a questa chiesa all' [Ambassador] (https://maps.app.goo.gl/tbnjyfvcyx5xpujm6). Ora sei nel centro della città di Haarlem e ti invitiamo a esplorare i dintorni, con le molte belle stradine con le
+tipiche vecchie case olandesi e vasi di fiori sui marciapiedi.
 
 Alcuni punti salienti:
 
 1. Ogni sabato c'è un ** mercato ** nella piazza vicino alla chiesa di Bavo
-2. Cammina lungo il fiume [Sparne] (https://maps.app.goo.gl/yfbfsuwrf666x1zjm9), a est della cattedrale, rilassati in uno dei tanti caffè e guarda le barche guidano.
-Puoi anche trovare un vento un olandese ** Windmill ** qui, il [Molen de Adriaan] (https://maps.app.goo.gl/hhkuw4v4h4zpxk5ea).
+2. Cammina lungo il fiume [Sparne] (https://maps.app.goo.gl/yfbfsuwrf666x1zjm9), a est della cattedrale, rilassati in uno dei tanti caffè e guarda le barche.
+C'e' anche un mulino olandese ** Windmill ** qui, il [Molen de Adriaan] (https://maps.app.goo.gl/hhkuw4v4h4zpxk5ea).
 3. Il [teylers musuem] (https://maps.app.goo.gl/drj6cbwi6ddehgoaa) è il ** più antico museo ** nei Paesi Bassi (dobbiamo ancora visitarlo).
-4. L'arte può essere trovata nel [Frans Hals Museum] (https://maps.app.goo.gl/twbuxcaqbwxwspxra)
-5. ** Il caffè fantasia ** viene venduto alle [caffetterie] (https://maps.app.goo.gl/3ltbqaqy2cu1t49c8), che ha diversi rami in Haarlem (anche qui] (https://maps.app.goo.gl/f7ytz9tagw73v2ona) e mosche; [qui] (https://maps.app.goo.gl/2eof98rqerudzmuv6)). Il preferito di Patrick, ma gli espressi non sono proprio nel tipico stile italiano)
-6. [Romeo '] dà panini molto belli ** in stile italiano ** - Gli italiani potrebbero saperlo, ma consigliamo a tutti gli altri di provarlo se non l'hai mai mangiato.
-Prova a Mortadella Special - Ci sono alcuni tempi di attesa ma l'esperienza vale la pena aspettare!
-7. Se stai cercando altri ** snack **: secondo la mia opinione (Patrick), i migliori falafel sono venduti a [syriusy] (https://maps.app.goo.gl/irca1mmogxqsmy9r9) e i migliori hamburger a [buns of glory] (https:/maps.app.gglea5ea5eagea e Ti dà anche una bella vista su Spaarne.
-8. The [Jopenkerk] (https://maps.app.goo.gl/menfskn7kycn31r17) è una chiesa che è stata trasformata in un ** birrificio ** - Puoi provare molte varianti della birra Jopen qui e anche mangiare un po 'di cibo.
-9. Se ti piacciono ** birre **, non lontano dal jopenkerk è anche la [bar Uiltje] (https://maps.app.goo.gl/y6ysvx32xccgygty5) che ha una vasta selezione di birre alla spina. Altro nel centro della città è il bierlokaal [de Uiver] (https://maps.app.goo.gl/nyr5hvxmipdb7Sox8) che ha anche molte birre diverse da provare alla spina.
-10. Per i ** Metalheads **: vicino alla chiesa di Bavo, c'è il [Wolfhound] (https://maps.app.goo.gl/7xy21hdtd14rqxdy7), un pub irlandese che di solito suona buona musica e ha bee birre. Secondo un amico, fanno anche buoni hamburger, ma non li ho ancora provati. La barra alternativa della città è il [anti-bar] (https://maps.app.goo.gl/bq9gwdbl8gjqwrx99), che si trova vicino al bar Uiltje menzionato sopra.
-11 Bavo Cathedral] (https://maps.app.goo.gl/jpu82bmiaypygvxc6).
-12. La migliore pizza (Patrick: "Ho mai mangiato al di fuori dell'Italia, oltre a quello che fa il mio futuro modo") viene servita al [Piccolo Forno] (https://maps.app.goo.gl/exb1ieomeyymuznwo7). Devi prenotare qui (la lista d'attesa avviene per impostazione predefinita, ma ciò non significa che non otterrai un posto). Gli italiani sono avvertiti: la maggior parte delle pizzerie non ti offrirà la stessa qualità a cui sei abituato. Tuttavia, Piccolo Forno è l'eccezione.
-13. Ma hey, sei nei Paesi Bassi. Forse vuoi provare anche qualcosa di tipico olandese. Quindi prova il loro cibo "borrel" (Borrel significa "aperitivo" in pratica): Bitterballen, Frikandellen, Kaastengels e Kaas Souffle!
+4. Arte puo' essere esplorata nel [Frans Hals Museum] (https://maps.app.goo.gl/twbuxcaqbwxwspxra)
+5. ** Il caffè fantasia ** viene venduto alle [caffetterie] (https://maps.app.goo.gl/3ltbqaqy2cu1t49c8), che ha diversi punti in Haarlem (anche qui] (https://maps.app.goo.gl/f7ytz9tagw73v2ona) e molto piccolo [qui] (https://maps.app.goo.gl/2eof98rqerudzmuv6)). Il preferito di Patrick, ma il caffe' espresso non e' proprio nel tipico stile italiano)
+6. [Romeo '] fa panini molto buoni ** in stile italiano ** - Gli italiani potrebbero conoscere questo tipo di sandwich, ma consigliamo a tutti gli altri di provarlo se non l'hanno mai mangiato.
+Prova a Mortadella Special - Bisogna aspettare un po' in fila ma ne vale la pena!
+7. Se stai cercando altri ** snack **: secondo la mia opinione (Patrick), i migliori falafel sono venduti a [syriusy] (https://maps.app.goo.gl/irca1mmogxqsmy9r9) e i migliori hamburger a [buns of glory] (https:/maps.app.gglea5ea5eagea che ha anche una bella vista sullo Spaarne.
+8. The [Jopenkerk] (https://maps.app.goo.gl/menfskn7kycn31r17) è una chiesa che è stata trasformata in un ** birrificio ** - Puoi provare molte varianti della birra Jopen qui e anche mangiare.
+9. Se ti piacciono ** le birre **, non lontano dal jopenkerk è anche la [bar Uiltje] (https://maps.app.goo.gl/y6ysvx32xccgygty5) che ha una vasta selezione di birre alla spina. Un altro posto nel centro della città è il bierlokaal [de Uiver] (https://maps.app.goo.gl/nyr5hvxmipdb7Sox8) che ha anch'esso molte birre diverse da provare alla spina.
+10. Per i ** Metalheads **: vicino alla chiesa di Bavo, c'è il [Wolfhound] (https://maps.app.goo.gl/7xy21hdtd14rqxdy7), un pub irlandese che di solito ha buona musica e birre buone. Secondo un amico, fanno anche buoni hamburger, ma non li ho ancora provati. Il bar alternativo della città è l' [anti-bar] (https://maps.app.goo.gl/bq9gwdbl8gjqwrx99), che si trova vicino al bar Uiltje menzionato sopra.
+11 Un po' più lontana dal centro, c'è anche un'altra cattedrale che è utilizzata come chiesa cattolica, il cui nome è molto simile all'altra e può creare confusione:Bavo Cathedral] (https://maps.app.goo.gl/jpu82bmiaypygvxc6).
+12. La migliore pizza (Patrick: "che io abbia mai mangiato al di fuori dell'Italia, oltre a quello che fa la mia futura moglie") viene servita al [Piccolo Forno] (https://maps.app.goo.gl/exb1ieomeyymuznwo7). Devi prenotare qui (la lista d'attesa avviene per impostazione predefinita, ma ciò non significa che non otterrai un posto). Gli italiani sono avvertiti: la maggior parte delle pizzerie non ti offrirà la stessa qualità a cui sei abituato. Tuttavia, Piccolo Forno è l'eccezione.
+13. Ma hey, sei nei Paesi Bassi. Forse vuoi provare anche qualcosa di tipico olandese. Quindi prova il loro cibo "borrel" (Borrel significa "aperitivo" in pratica): Bitterballen, Frikandellen, Kaastengels e Kaas Souffle! Inoltre, i "cuppetielli" di patatine fritte!
 
 ! [Grotemarkt] (Grote-Markt-Haarlem.jpg)! [Jopen] (2015_0512_Jopenkerk.jpg)! [Romeo] (romeo5.jfif)! [Borrel] (borrel.jpeg)
 
 
 
-### escursioni e pedalare intorno a Haarlem
+### escursioni e ciclare intorno a Haarlem
 
-I Paesi Bassi potrebbero non avere le montagne a cui sei abituato dalla Campania o dalla Sassonia, ma c'è ancora una buona natura da esplorare per coloro a cui piace camminare o fare un'escursione.
+I Paesi Bassi potrebbero non avere le montagne a cui sei abituato dalla Campania o dalla Sassonia, ma c'è ancora tanta natura da esplorare per coloro a cui piace camminare o fare un'escursione.
 Se hai qualche ora, ti consigliamo davvero di visitare ** National Park Zuid-Kennermerland **, in bici o di cibo. Se fai una passeggiata attraverso questo parco, incontrerai l'intera varietà di paesaggi olandesi: a partire da un paesaggio più forestale con laghi, andando oltre le dune aperte e finendo sulle grandi spiagge larghe sul mare aperto.
 
-Per raggiungerlo, potresti aver bisogno di una bici o di un'auto: la cosa migliore è arrivare al [Bezoekerzentrum] (https://maps.app.goo.gl/bwbtrfjgddh7lf9l9) di Zuid-Kennemerland. Da qui puoi continuare in bici o per cibo (il più delle volte hanno separati percorsi). Lo stesso Bezoekerzenturm offre cibo sorprendentemente buono - se arrivi a colazione, puoi avere uova Benedict qui, solo per darti un esempio. C'è anche un parco giochi per i bambini. A pochi metri di distanza c'è un bel lago con una spiaggia, che è una bella alternativa alle spiagge marine menzionate di seguito. Consiglio di seguire i segni di ** Vogelmeer ** (tedeschi, non confondermi, sharge le parole per "see" e "meer" - "zee" è il mare, un "meer" è un lago). Da Vogelmeer, puoi quindi camminare sulle dune aperte verso il mare, ad esempio uscire a ** Parnassia Beach **, che ha un club da spiaggia o in altri ingressi meno popolati alle spiagge.
+Per raggiungerlo, potresti aver bisogno di una bici o di un'auto: la cosa migliore è arrivare al [Bezoekerzentrum] (https://maps.app.goo.gl/bwbtrfjgddh7lf9l9) di Zuid-Kennemerland. Da qui puoi continuare in bici o a piedi (il più delle volte hanno percorsi  separati). Lo stesso Bezoekerzenturm offre cibo sorprendentemente buono - se arrivi a colazione, puoi avere uova Benedict qui, solo per darti un esempio. C'è anche un parco giochi per i bambini. A pochi metri di distanza c'è un bel lago con una spiaggia, che è una bella alternativa alle spiagge marine menzionate di seguito. Consiglio di seguire i segni di ** Vogelmeer ** (tedeschi, non confondetevi, gli olandsesi usano le parole "zee" per il mare, un "meer" per il lago). Da Vogelmeer, puoi quindi camminare sulle dune verso il mare, ad esempio verso ** Parnassia Beach **, che ha un club da spiaggia o  altri ingressi meno popolati alle spiagge.
 
 ! [Bisonti] (Bisonti.png)! [Park1] (Koevlak-National-Park-20-1.jpg)! [Park2] (Koevlak-National-Park-9.jpg)
 
