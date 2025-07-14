@@ -2,14 +2,14 @@
 
 ## Haarlem
 
-Molti di voi soggiornano direttamente a Haarlem, dove viviamo noi e dove si svolgono anche le cerimonie nuziali.
-Haarlem è una incantevole citta'. Meno conosciuta di Amsterdam, speriamo che il nostro matrimonio vi dia anche
+Molti di voi soggiornano direttamente a Haarlem, dove noi abitiamo e dove si svolgono anche i festeggiamenti del nostro matrimonio.
+Haarlem è una incantevole citta', meno conosciuta di Amsterdam. Speriamo che il nostro matrimonio ti dia anche
  l'opportunità di vedere questa città che altrimenti potresti non aver mai visitato.
 
-### Haarlem stessa
+### Haarlem citta'
 
 Arrivi alla bella stazione storica [ferroviaria] (https://maps.app.goo.gl/niqlswytt6mtwsft7)
-In Jugendstil, dove su alcune piattaforme puoi ancora trovare le vecchie originali
+in Jugendstil, dove su alcune piattaforme puoi ancora trovare le vecchie originali
 sale d'attesa per classi diverse (al giorno d'oggi ci sono solo due classi sul treno, prima ce n'erano cinque). Alcune di queste
 sale d'attesa sono state ora riqualificate, ad esempio come bar.
 
@@ -41,7 +41,7 @@ Prova a Mortadella Special - Bisogna aspettare un po' in fila ma ne vale la pena
 
 
 
-### escursioni e ciclare intorno a Haarlem
+### Escursioni e gite in bici intorno a Haarlem
 
 I Paesi Bassi potrebbero non avere le montagne a cui sei abituato dalla Campania o dalla Sassonia, ma c'è ancora tanta natura da esplorare per coloro a cui piace camminare o fare un'escursione.
 Se hai qualche ora, ti consigliamo davvero di visitare ** National Park Zuid-Kennermerland **, in bici o di cibo. Se fai una passeggiata attraverso questo parco, incontrerai l'intera varietà di paesaggi olandesi: a partire da un paesaggio più forestale con laghi, andando oltre le dune aperte e finendo sulle grandi spiagge larghe sul mare aperto.
@@ -51,21 +51,21 @@ Per raggiungerlo, potresti aver bisogno di una bici o di un'auto: la cosa miglio
 ! [Bisonti] (Bisonti.png)! [Park1] (Koevlak-National-Park-20-1.jpg)! [Park2] (Koevlak-National-Park-9.jpg)
 
 
-## spiagge della zona
+## Spiagge della zona
 
 
-Le spiagge dei Paesi Bassi sono di solito gratuite, quindi puoi semplicemente riposare ovunque tu ne abbia voglia. Le spiagge più popolate hanno bar direttamente sulla spiaggia dove tu
-Può andare a mangiare uno spuntino o bere qualcosa. Troverai anche trattori che guidano attraverso la sabbia vendendo gelati o snack per lo più a base di pesce. Must-Seties:
-The Haaring, che è una delicatezza olandese rinfrescante (pesce freddo) e kibbeling (pezzi di pesce fritti con salsa).
+Le spiagge dei Paesi Bassi sono di solito gratuite, quindi puoi semplicemente stare ovunque tu ne abbia voglia. Le spiagge più popolate hanno bar direttamente sulla spiaggia dove si
+può andare a mangiare uno spuntino o bere qualcosa. Troverai anche trattori che guidano attraverso la sabbia vendendo gelati o snack per lo più a base di pesce. Un classico:
+l'aringa, prodotto tipico olandese rinfrescante (pesce freddo) e kibbeling (pezzi di pesce fritti, con salsa opzionale).
 
-La spiaggia più popolare e facilmente raggiungibile sia da Haarlem che Amsterdam è in [Zandvoort] (https://maps.app.goo.gl/qxglgpeqsxeqneca9), che puoi raggiungere in treno. Questa è una spiaggia molto grande e turistica, che è anche per lo più controllata dalle guardie marine, quindi non devi preoccuparti di fare una nuotata. Zandfort stesso non è molto bello e si rivolge principalmente
-verso il turismo della spiaggia.
+La spiaggia più popolare e facilmente raggiungibile sia da Haarlem che Amsterdam è in [Zandvoort] (https://maps.app.goo.gl/qxglgpeqsxeqneca9), raggiungibile in treno. Questa è una spiaggia molto grande e turistica, che è anche per lo più controllata dalle guardaspiaggia, quindi non devi preoccuparti se vuoi fare una nuotata. Zandfort stesso non è molto bella e si concentra principalmente
+verso il turismo di spiaggia.
 
-Da Haarlem, un giro di Bicyle di 20 minuti verso est ti porta a [Bloemendaal an Zee] (https://maps.app.goo.gl/yaw29yizmedzzme6a), che è un po 'Quiter, ma offre ancora barre. Questa è la spiaggia più semplice raggiungibile in bici: fai il ciclo dritto tutto il tempo su una strada in bicicletta separata vicino all'autostrada.
+Da Haarlem, un giro di bici di 20 minuti verso est ti porta a [Bloemendaal an Zee] (https://maps.app.goo.gl/yaw29yizmedzzme6a), che è un po 'piu' tranquilla e ospita anch'essa strutture. Questa è la spiaggia più semplice da raggiungere in bici: tira dritto tutto il tempo su una ciclabile parallela a una strada principale.
 
-Poi c'è il [Parnassia-Strand] (https://maps.app.goo.gl/guhelpayp9pjdtpna), che può essere raggiunto dall'escursione o in bicicletta attraverso il parco nazionale ** Zuid-Kennermerland **-Mentre usuali anche un po 'impegnato nei giorni di sole, non devi camminare lontano se vuoi una situazione di silenzio per te stesso.
+Poi c'è la [Parnassia-Strand] (https://maps.app.goo.gl/guhelpayp9pjdtpna), che può essere raggiunta a piedi o in bicicletta attraverso il parco nazionale ** Zuid-Kennermerland **-Mentre solitamente anche un po' piena nei giorni di sole, non devi camminare molto lontano se vuoi un po' di quiete.
 
-Se non hai bisogno del mare aperto e preferisci alcuni alberi intorno a te, c'è anche una spiaggia al lago [het mer] (https://maps.app.goo.gl/ud8m5ocb1mnbgjnu9).
+Se non hai bisogno del mare aperto e preferisci alcuni alberi intorno a te, c'è anche una spiaggetta sul lago [het mer] (https://maps.app.goo.gl/ud8m5ocb1mnbgjnu9).
 
 ! [Parnassia] (Koevlak-national-park-14-Parnassia-beach.jpg)! [twed] (twed.png)
 
