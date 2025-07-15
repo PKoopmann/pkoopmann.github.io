@@ -38,7 +38,7 @@ Some highlights:
 13. But hey, you are in The Netherlands. Perhaps you want to try also something typical Dutch. Then try their "borrel" food (borrel means "aperitivo" in practice): bitterballen, frikandellen, kaastengels and kaas souffle!
 14. Don't forget to try the Dutch fries!
 
-![grotemarkt](Grote-Markt-haarlem.jpg)  ![Jopen](2015_0512_Jopenkerk.jpg)  ![Romeo](romeo5.jfif) ![borrel](borrel.jpeg)
+![grotemarkt](Grote-Markt-haarlem.jpg)  ![Jopen](2015_0512_Jopenkerk.jpg)  ![Romeo](romeo5.jfif) ![borrel](borrel.jpeg)  ![Fries](Patat-Amsterdam.jpg)
 
 
 
