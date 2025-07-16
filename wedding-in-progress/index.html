@@ -80,12 +80,12 @@
                 return buttonLabels[string][languages[currentLanguage]];
             }
             function button(string) {
-                return (<button
+                return (<a
                             className={navLinkClasses(string)}
                             onClick={() => setCurrentPage(string)}
                         >
                             {label(string)}
-                        </button>)
+                        </a>)
             }
 
             // Function to parse Markdown and set HTML
@@ -133,14 +133,14 @@
 
             // Tailwind CSS classes for common elements
             const navLinkClasses = (page) =>
-            (currentPage == page ? 'button is-active' : 'button');
+            (currentPage == page ? 'navbar-item is-active' : 'navbar-item');
                 //`px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200 ` +
                 //(currentPage === page
                 //    ? 'bg-blue-600 text-white shadow-md'
                 //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
             const languageClass = (language) => 
-            (currentLanguage == language ? 'button is-info ' : 'button is-dark');
+            (currentLanguage == language ? 'navbar-item is-active    ' : 'navbar-item is-dark');
 
             return (
                 
@@ -166,24 +166,25 @@
                                 {button('gifts')}
                               </div>
                               <div className="navbar-end">
-                                <button
+
+                                <a
                                     className={languageClass('en')}
                                     onClick={() => setLanguage('en')}
                                 >
-                                    English
-                                </button>
-                                <button
+                                    en
+                                </a>
+                                <a
                                     className={languageClass('de')}
                                     onClick={() => setLanguage('de')}
                                 >
-                                    Deutsch
-                                </button>
-                                <button
+                                    de
+                                </a>
+                                <a
                                     className={languageClass('it')}
                                     onClick={() => setLanguage('it')}
                                 >
-                                    Italiano
-                                </button>
+                                    it
+                                </a>
                             </div>
                           </div>
                         </nav>
