@@ -1,59 +1,65 @@
-# Suggerimenti per il tuo soggiorno nei Paesi Bassi
+# Consigli per il tuo soggiorno nei Paesi Bassi
 
-## contanti o carta bancaria? Carta !!!
+## Contanti o carta? Carta!!!
 
-Nei Paesi Bassi, per quasi tutto e quasi ovunque puoi usare una carta bancaria, e in alcuni luoghi non accettano persino contanti!
-Quindi, assicurati di avere una carta bancaria con te per i tuoi acquisti!
+Nei Paesi Bassi, praticamente ovunque puoi usare una carta bancaria, e in alcuni posti addirittura non accettano contanti!
+Quindi, assicurati di avere con te una carta per fare acquisti!
 
-Questo è anche il motivo per cui i bancomat sono un po 'più difficili da trovare. Non pensiamo che ne avrai bisogno, ma se lo fai, spesso li trovi nei supermercati (vedi sotto).
+Questo è anche il motivo per cui i bancomat sono un po’ più difficili da trovare. Non pensiamo che ne avrai bisogno, ma se ti servono, spesso si trovano nei supermercati (vedi sotto).
 
 
 
-## supermercati
+## Supermercati
 
 I supermercati che troverai in Haarlem sono:
 
 - Albert Heijn ( un po 'costoso ma migliore di qualità)
 
-- jumbo (un po 'costoso ma migliore di qualità)
+- Jumbo (un po 'costoso ma migliore di qualità)
 
-- vomar (un po 'più economico)
+- Vomar (un po 'più economico)
 
 - Dekamarkt (un po 'più economico)
 
 - Aldi (più economico)
 
 
+## SIM card
+
+Se hai bisogno di acquistare una SIM card per usare dati extra, controlla se una di queste soluzioni fa al caso tuo:
+
+https://www.lebara.nl/en/prepaid/data-bundle-valuesim.html
+
+
+
 ## Acquisto di prodotti di bellezza, per il corpo e parafarmaci
 
-Molti parafarmaci come il paracetamolo e la cetirizina possono essere acquistati in un supermercato, di solito a un prezzo abbastanza economico.
-Allo stesso tempo, potresti notare che i prodotti di igiene e di bellezza come creme, deodoranti ecc. sono piuttosto costosi qui.
-Per coloro che vengono con un aereo e senza liquidi e hanno bisogno ad esempio per acquistare la protezione solare, ma non vogliono pagare un
-fortuna per questo, ti consigliamo di andare a [normale] (https://maps.app.goo.gl/kwmmrhafgm58ibpf8) nel centro di Haarlem, che è considerevolmente più economico delle alternative Kruidvart ed Ethos.
+Molti farmaci leggeri come paracetamolo e cetirizina si possono acquistare direttamente al supermercato, di solito a un prezzo piuttosto basso.
+Allo stesso tempo, potresti notare che i prodotti per l’igiene e la bellezza come creme, deodoranti ecc. sono piuttosto costosi qui.
+Per chi arriva in aereo senza liquidi e ha bisogno, ad esempio, di acquistare una crema solare ma non vuole spendere una fortuna, consigliamo di andare da Normal nel centro di Haarlem, che è decisamente più economico rispetto alle alternative Kruidvart ed Ethos. [Normal](https://maps.app.goo.gl/kwmmrhafgm58ibpf8) nel centro di Haarlem, che è considerevolmente più economico delle alternative Kruidvart ed Ethos.
 
 
-## noleggio biciclette e trasporti pubblici
+## Noleggio biciclette e trasporti pubblici
 
-Vedi sezione: muoversi
+Vedi sezione: Moving around
 
 
-## parrucchieri
+## Parrucchieri
 
-Se hai bisogno di visitare un parrucchiere mentre sei a Haarlem, consigliamo Toni & Guy o CarlaH, sono buoni e parlano inglese. Ma sono costosi e sfortunatamente i prezzi sono alti ovunque tu vada.
-Controlla i loro siti web per dare un'occhiata e/o fissare un appuntamento:
+Se hai bisogno di andare dal parrucchiere mentre sei a Haarlem, consigliamo Tony & Guy o CarlaH: sono bravi e parlano inglese. Ma sono costosi, e purtroppo i prezzi sono alti ovunque.
+Controlla i loro siti web per dare un’occhiata o prendere un appuntamento:
 
-https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https://www.toniandguy.nl/salon/haarlem/
-
-https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https://carlah.nl/nl/
+https://www.toniandguy.nl/salon/haarlem/
+https://carlah.nl/nl/
 
 
 ## ATTENZIONE: evento Amsterdam SAIL questa settimana
 
-*Avvertenza generale: potrebbe esserci traffico, sulle strade, sui treni e sull'acqua, considera più tempo per tutto!* Se vuoi affittare qualcosa (bici, auto, barca, ecc.) ti consigliamo di ** prenotare in anticipo **
+*Avvertenza generale: potrebbe esserci traffico, sulle strade, sui treni e sull'acqua, prevedi più tempo per tutto!* Se vuoi noleggiare qualcosa (bici, auto, barca, ecc.) ti consigliamo di ** prenotare in anticipo **
 
-https://translate.google.com/translate?hl=en&sl=en&tl=it&u=https://www.sail.nl/en
+https://www.sail.nl/en
 
-! [SAIL] (Picture1.png)! [Bridges] (Picture2.png)
+![SAIL](Picture1.png)  ![Bridges](Picture2.png)
 
 
 
