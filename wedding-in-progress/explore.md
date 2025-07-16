@@ -27,7 +27,7 @@ Some highlights:
 3. The [Teylers musuem](https://maps.app.goo.gl/dRj6CbWi6DdeHgoaA) is the **oldest museum** in the Netherlands (we still have to visit it).
 4. Art can be found in the [Frans Hals museum](https://maps.app.goo.gl/TwBUxcAqBWxwSPXRA)
 5. **Fancy coffee** is sold at the [Coffee Habits](https://maps.app.goo.gl/3LtBQaQy2cu1T49C8), which has several branches in Haarlem (also [here](https://maps.app.goo.gl/F7Ytz9Tagw73V2oNA) and very small [here](https://maps.app.goo.gl/2Eof98RQerUdzmuV6)). Patrick's favourite, but the espressi are not really in the typical Italian style)
-6. [Romeo'] gives very nice **Italian style sandwiches** - the Italians might know this, but we recommend everyone else to try it if you have never eaten it.
+6. [Romeo'](https://maps.app.goo.gl/1w3HV9e3k8wfVhTg6) gives very nice **Italian style sandwiches** - the Italians might know this, but we recommend everyone else to try it if you have never eaten it.
    Try to Mortadella Special - there are some waiting times but the experience is worth the wait!
 7. If you are looking for other **snacks**: in my (Patrick's) opinion, the best falafels are sold at [Syriously](https://maps.app.goo.gl/irca1mmoGXqSmY9R9), and the best burgers at [Buns of Glory](https://maps.app.goo.gl/FjTber4eA5EgY9Wk6), which also gives you a nice view on the Spaarne. 
 8. The [Jopenkerk](https://maps.app.goo.gl/MEnFSkn7kYCN31R17) is a church that has been transformed into a **Brewery** - you can try many variants of the Jopen beer here and also eat some food.
