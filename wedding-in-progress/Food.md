@@ -11,7 +11,7 @@ The wedding day programme is as follows:
 
 # Food
 
-The food on the wedding day might not be what you are used to. This is why we think it's a good idea to share with you beforehand.
+The food on the wedding day might not be what you are used to. This is why we think it's a good idea to share details with you beforehand.
 
 ### Dinner with three courses (adults):
 
