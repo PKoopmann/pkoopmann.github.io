@@ -6,7 +6,7 @@ On this website you find useful information and/or tips about:
 - how to move around in Haarlem, Amsterdam and sorroundings
 - amenities (shops, hair-dressers, etc.)
 - nice things to do in Haarlem and Amsterdam, for those who are staying longer
-- day's schedule
+- wedding day's schedule
 - what is the gift policy at our wedding
 
 
