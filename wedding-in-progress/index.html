@@ -140,7 +140,7 @@
                 //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
             const languageClass = (language) => 
-            (currentLanguage == language ? 'navbar-item is-active    ' : 'navbar-item is-dark');
+            (currentLanguage == language ? 'navbar-item is-active ' : 'navbar-item');
 
             return (
                 
@@ -152,11 +152,36 @@
                 <div className="min-h-screen bg-gray-100 flex flex-col ">
                     {/* Header and Navigation */}
                     <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                        <nav className="content container mx-auto flex flex-wrap justify-center md:justify-between items-center">
                          
                             <img src="title.png"/>
-                            
-                            <div className="navbar-menu is-active">
+                            <div class="navbar-dropdown">
+                                {button('welcome')}
+                                {button('food')}
+                                {button('movingAround')}
+                                {button('explore')}
+                                {button('amenities')}
+                                {button('gifts')}
+                                <hr class="navbar-divider"/>
+                                <a
+                                    className={languageClass('en')}
+                                    onClick={() => setLanguage('en')}
+                                >
+                                    en
+                                </a>
+                                <a
+                                    className={languageClass('de')}
+                                    onClick={() => setLanguage('de')}
+                                >
+                                    de
+                                </a>
+                                <a
+                                    className={languageClass('it')}
+                                    onClick={() => setLanguage('it')}
+                                >
+                                    it
+                                </a>
+                            </div>
+                            <nav className="navbar-menu">
                               <div className="navbar-start">
                                 {button('welcome')}
                                 {button('food')}
@@ -165,7 +190,6 @@
                                 {button('amenities')}
                                 {button('gifts')}
                               </div>
-                              <div className="navabar-divider"></div>
                               <div className="navbar-end">
 
                                 <a
@@ -187,8 +211,7 @@
                                     it
                                 </a>
                             </div>
-                          </div>
-                        </nav>
+                          </nav>
                     </header>
     
                     <br/>
