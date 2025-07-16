@@ -1,95 +1,92 @@
 # Muoversi
 
-## trasporto pubblico
+## Trasporto pubblico
 
-*App*: ** 9292 ** (Funziona per qualsiasi tipo di trasporto, più affidabile di Google Maps)
+*App*: **9292** (Funziona per qualsiasi tipo di trasporto, più affidabile di Google Maps)
 
-*Biglietti*: usa la tua carta bancaria (una a persona, anche i bambini, se sono troppo grandi per gli sconti). Devi fare il check-in e controllare le macchinette all'ingresso e all'uscita di stazioni, autobus e tram. Non dimenticare ** il check-out ** altrimenti ti fanno pagare più soldi!
+*Biglietti*: usa la tua carta bancaria (una per persona, anche per i bambini, se sono troppo grandi per gli sconti). Devi fare check-in e check-out sulle macchinette all’ingresso e all’uscita di stazioni, autobus e tram. Non dimenticare di fare il check-out, altrimenti ti addebitano di più!
 
 *Compagnie di trasporto*: NS (treni), Connexxion (autobus, dentro e fuori le città), GVB (solo Amsterdam)
 
-*Bambini*: i bambini pagano un biglietto ridotto sui treni e viaggiano gratis sugli autobus Connexxion (se più giovani di 11): [bambini sul treno](https://www.ns.nl/en/tickets/railrunner) e [bambini sull'autobus](https://www.connexxion.nl/shop/tickets/free-day)
+*Bambini*: i bambini pagano un biglietto ridotto sui treni e viaggiano gratis sugli autobus Connexxion (se più giovani di 11): [bambini in treno](https://www.ns.nl/en/tickets/railrunner) e [bambini in autobus](https://www.connexxion.nl/shop/tickets/free-day)
 
-! [Dispositivo per il check in_1] (immagine3.jpg)! [Dispositivo per il check in_2] (immagine4.jpg)! [Dispositivo per il check in_3] (immagine5.jpg)
-
-
-
-Bicycle ##
-
-La bicicletta è sicuramente il modo migliore per godersi i Paesi Bassi!
-Puoi noleggiare una bici in anticipo (consigliato se sei sicuro di voler affittarla comunque!)
-
-Haarlem è una bellissima città per andare in bicicletta. Inoltre, in 20 minuti di bicicletta sei sulle dune e in 30 minuti sulle belle spiagge di Bloemendaal!
-
-! [Ciclista in città] (Picture6.jpg)! [Ciclista sulle dune] (Picture7.png)
-
-Sii consapevole: se vuoi spostarti da una città all'altra, ed è troppo lontano per andare in bicicletta, puoi portare la tua bici sul treno al di fuori dei tempi di punta e a pagamento. Info qui: [Bike-on-the-train] (https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
+![Dispositivo per il check in_1](Picture3.jpg) ![Dispositivo per il check in_2](Picture4.jpg) ![Dispositivo per il check in_3](Picture5.jpg)
 
 
 
-## per coloro che soggiornano al Camping de Liede
+## Bicicletta
 
-L'itinerario suggerito da Google Maps per andare in bicicletta al nostro posto è un po 'brutto, questo sembra più bello: https://maps.app.goo.gl/gwdrulyju6bk3fdwa
+La bicicletta è sicuramente il modo migliore per godersi il tempo nei Paesi Bassi! Puoi noleggiarne una in anticipo (consigliato se sei sicuro di volerla noleggiare comunque!), ecco due posti comodi a Haarlem, ma ce ne sono altri: [rent-a-bike-haarlem](https://www.rentabikehaarlem.nl) o [black-bikes](https://black-bikes.com/bike-rental-locations/haarlem/).
 
-! [Liede to Home] (Picture8.png)
+Haarlem è una città bellissima da girare in bici. Inoltre, in 20 minuti di pedalata sei tra le dune, e in 30 minuti sulle belle spiagge di Bloemendaal!
 
-La stazione più vicina è la stazione di Haarlem Spaarnwode. Non entusiastmante camminare verso lì, ma e' possibile farlo (ci vogliono circa 20 minuti), se hai una bici sarebbe più bello e più veloce.
+![cyclist in the city](Picture6.jpg)  ![cyclist on the dunes](Picture7.png)
 
-
-
-## per coloro che soggiornano all'Ambassador Hotel
-
-Ti trovi nel mezzo del centro della città!
-
-Per venire a casa nostra, cammini intorno a 15-20 minuti, o vai in bicicletta in 5 minuti o prendi un taxi.
-
-! [Ambasciatore a casa] (Picture9.Png)
-
-
-## per coloro che soggiornano da altre parti
-
-Il tuo punto di riferimento e' la stazione di Haarlem. E' nel centro citta', 15 minuti a piedi da casa nostra, ed e' anche 15 minuti a piedi dall"Ambassador hotel. Quindi, alla fine dei festeggiamenti, hai solo una breve passeggiata verso la stazione da fare.
+Attenzione: se vuoi spostarti da una città all’altra e la distanza è troppa per pedalare, puoi portare la bici sul treno solo negli orari non di punta e pagando un supplemento. Info qui: [Bike-on-the-train](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
 
 
-## in chiesa
-La chiesa in cui ci sposiamo è a Korte Zijlweg 5, 2051 BD Overveen.
-Puoi arrivarci:
+## Per coloro che soggiornano al Camping de Liede
 
-In bici (15 minuti da casa nostra, per riferimento)
+L’itinerario suggerito da Google Maps per arrivare in bici da noi è un po’ brutto, questo sembra più carino:
+https://maps.app.goo.gl/gWdruLYju6bk3fDWA
 
-In treno, scendere alla stazione Overveen (una fermata dopo Haarlem) e camminare per 7 minuti
+![liede to home](Picture8.png) 
 
-! [overveenstn_to_church] (foto11.png)
-
-In autobus: Connexxion Bus (linea 81) collega il centro della città di Haarlem con la chiesa e la fermata è proprio di fronte alla chiesa (a 10 minuti dalla stazione di Haarlem, per riferimento)
-
-! [Connexxion_to_Church] (Picture13.png)
-
-! [Chiesa] (foto12.png)
+La stazione più vicina è Haarlem Sparnwoude. Non è una passeggiata bellissima, ma si può fare (ci vogliono circa 20 minuti); se hai una bici è più piacevole e veloce.
 
 
+## Per coloro che soggiornano all'Ambassador Hotel
 
-## al ristorante
-Il ristorante (Ambassador Hotel, piano terra) può essere raggiunto in circa 30 minuti, dalla chiesa:
+Sei proprio nel centro della città!
 
-In bici (10-15 minuti)
+Per arrivare da noi, puoi camminare circa 15-20 minuti, oppure pedalare in 5 minuti, oppure prendere un taxi.
 
-In treno: cammina verso la stazione Overveen, treno per Haarlem, cammina verso il ristorante, tempo totale di circa 30 minuti
+![ambassador to home](Picture9.png) 
 
-In autobus: linea 81 Connexxion Bus da fuori dalla chiesa, scendi a Ruychaverstraat, cammina 11 minuti
 
-! [Connexxion_to_ambass] (Picture14.png)
+## Per coloro che soggiornano da altre parti
 
-A piedi, se non ti dispiace camminare! Circa mezz'ora
+Il tuo punto di riferimento è la stazione di Haarlem station. È nel centro della città, a 15 minuti a piedi da casa nostra, e anche a 15 minuti a piedi dall’Ambassador hotel. Quindi, alla fine dei festeggiamenti, ti basterà una breve passeggiata per tornare in stazione.
 
-! [Onfoot_to_ambass] (foto16.png)
 
-! [Ambass] (Picture15.png)
+
+## In chiesa
+La chiesa dove ci sposiamo si trova in Korte Zijlweg 5, 2051 BD Overveen. Puoi arrivarci:
+
+- In bici (15 minuti da casa nostra, come riferimento)
+
+- In treno, scendendo alla stazione Overveen (una fermata dopo Haarlem) e camminando 7 minuti
+
+![overveenstn_to_church](Picture11.png) 
+
+- In autobus: l’autobus [Connexxion] (linea 81) collega il centro di Haarlem con la chiesa e la fermata è proprio davanti alla chiesa (10 minuti dalla stazione di Haarlem, come riferimento)
+
+![connexxion_to_church](Picture13.png) 
+
+![church](Picture12.png) 
+
+
+
+## Al ristorante
+Il ristorante (Ambassador Hotel, piano terra) si raggiunge in circa 30 minuti dalla chiesa:
+
+- In bici (10-15 minuti)
+
+- In treno: cammina fino alla stazione di Overveen station, prendi il treno per Haarlem, cammina fino al ristorante – tempo totale circa 30 minuti
+
+- In autobus: linea 81 [Connexxion Bus] dalla chiesa, scendi a Ruychaverstraat cammina 11 minuti
+
+![connexxion_to_ambass](Picture14.png) 
+
+- A piedi, se non ti dispiace camminare! Circa mezz’ora
+
+![onfoot_to_ambass](Picture16.png) 
+
+![ambass](Picture15.png) 
 
 **IMPORTANTE**:
-Queste opzioni suonano irragionevoli o problematiche e vorresti che organizzassimo per te un passaggio, ad es. in taxi?
-Per favore, contattaci e vedremo cosa possiamo fare!
+Queste opzioni ti sembrano scomode o problematiche e vorresti che ti organizzassimo un passaggio, ad esempio in taxi? Contattaci e vedremo cosa possiamo fare!
 
 
 
