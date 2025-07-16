@@ -1,5 +1,7 @@
 # Posti da esplorare dentro e fuori Haarlem
 
+## Haarlem
+
 Haarlem è una città bellissima con un fascino tutto suo. Meno conosciuta di Amsterdam, speriamo che il nostro matrimonio sia anche l’occasione per scoprire questa città che altrimenti forse non avreste mai visitato.
 
 ### Haarlem in sé
