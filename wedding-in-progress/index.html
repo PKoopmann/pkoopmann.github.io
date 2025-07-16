@@ -54,11 +54,39 @@
         markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
         document.head.appendChild(markedScript);
 
+        const languages = {
+            "en":0,
+            "de":1,
+            "it":2
+        }
+
+        const buttonLabels = {
+            "welcome": ["Welcome","Wilkommen","Benvenuto"],
+            "food": ["Program", "Programm", "Programma"],
+            "amenities": ["Tips", "Generelle Tipps", "Dritte"],
+            "explore": ["Places to Explore", "Reisetipps", "Luoghi da esplorare"],
+            "gifts": ["Gifts", "Geschenke", "Regali"],
+            "movingAround": ["Moving Around", "Von A nach B", "Muoversi"],
+        }
+
+
         // Main App component
         function App() {
             const [currentPage, setCurrentPage] = React.useState('welcome');
             const [parsedHtml, setParsedHtml] = React.useState('');
             const [currentLanguage, setLanguage] = React.useState('en');
+
+            function label(string) {
+                return buttonLabels[string][languages[currentLanguage]];
+            }
+            function button(string) {
+                return (<button
+                            className={navLinkClasses(string)}
+                            onClick={() => setCurrentPage(string)}
+                        >
+                            {label(string)}
+                        </button>)
+            }
 
             // Function to parse Markdown and set HTML
             // Effect to fetch and update content when currentPage changes
@@ -112,7 +140,7 @@
                 //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
 
             const languageClass = (language) => 
-            (currentLanguage == language ? 'button is-info px-6' : 'button pr');
+            (currentLanguage == language ? 'button is-info ' : 'button is-dark');
 
             return (
                 
@@ -130,38 +158,14 @@
                             
                             <div className="navbar-menu">
                               <div className="navbar-start">
-                                <button
-                                    className={navLinkClasses('welcome')}
-                                    onClick={() => setCurrentPage('welcome')}
-                                >
-                                    Welcome
-                                </button>
-                                <button
-                                    className={navLinkClasses('movingAround')}
-                                    onClick={() => setCurrentPage('movingAround')}
-                                >
-                                    Moving Around
-                                </button>
-                                <button
-                                    className={navLinkClasses('explore')}
-                                    onClick={() => setCurrentPage('explore')}
-                                >
-                                    Places to Explore
-                                </button>
-                                <button
-                                    className={navLinkClasses('amenities')}
-                                    onClick={() => setCurrentPage('amenities')}
-                                >
-                                    Tips
-                                </button>
-                                <button
-                                    className={navLinkClasses('gifts')}
-                                    onClick={() => setCurrentPage('gifts')}
-                                >
-                                    Gifts
-                                </button>
-                            </div>
-                            <div className="navbar-end">
+                                {button('welcome')}
+                                {button('food')}
+                                {button('movingAround')}
+                                {button('explore')}
+                                {button('amenities')}
+                                {button('gifts')}
+                              </div>
+                              <div className="navbar-end">
                                 <button
                                     className={languageClass('en')}
                                     onClick={() => setLanguage('en')}

@@ -41,7 +41,7 @@ Per chi arriva in aereo senza liquidi e ha bisogno, ad esempio, di acquistare un
 
 ## Noleggio biciclette e trasporti pubblici
 
-Vedi sezione: Moving around
+Vedi sezione: Muoversi
 
 
 ## Parrucchieri

@@ -1,4 +1,4 @@
-# Wedding day programme
+# Wedding Day Programme
 
 The wedding day programme is as follows:
 
