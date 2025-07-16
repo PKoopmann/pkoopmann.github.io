@@ -1,73 +1,64 @@
-# Luoghi da esplorare dentro e intorno a Haarlem
+# Posti da esplorare dentro e fuori Haarlem
 
 ## Haarlem
 
-Molti di voi soggiornano direttamente a Haarlem, dove viviamo e dove si svolgono anche le cerimonie nuziali.
-Haarlem è una bellissima città con il suo incantesimo. Meno conosciuto di Amsterdam, speriamo che il nostro matrimonio dia anche
-noi l'opportunità di vedere questa città che altrimenti potresti non aver mai visitato.
+Haarlem è una città bellissima con un fascino tutto suo. Meno conosciuta di Amsterdam, speriamo che il nostro matrimonio sia anche l’occasione per scoprire questa città che altrimenti forse non avreste mai visitato.
 
-### Haarlem stesso
+### Haarlem in sé
 
-Arrivi alla bella stazione storica [ferroviaria] (https://maps.app.goo.gl/niqlswytt6mtwsft7)
-In Jugendstil, dove su alcune piattaforme puoi ancora trovare il vecchio originale
-sale d'attesa per classi diverse (al giorno d'oggi ci sono solo due classi sulle tanne, c'erano cinque). Alcuni di questi
-Le sale d'attesa sono state ora riproposte e possono essere inserite, e ad esempio ora assumere la forma di un caffè.
+Arrivate alla graziosa storica [stazione](https://maps.app.goo.gl/niqLSWyTT6mtwSfT7) in stile Jugendstil, dove su alcune banchine si trovano ancora le vecchie sale d’attesa originali per le diverse classi (oggigiorno ci sono solo 2 classi sui treni, prima ce n'erano cinque). Alcune di queste sale d’attesa sono state riconvertite e sono accessibili, ad esempio sotto forma di caffè.
 
-Lascia la statale di Train verso le stazioni. Per coloro che arrivano assetati, c'è un bel caffè ([Westhoff] (https://maps.app.goo.gl/CQFWAS6W93KGECED9)) e un pub
-([Wachtlokal] (https://maps.app.goo.gl/qql9wdkztrtqshqx6)) - Consiglio di provare una birra Moersleutel al bar, producono IPA davvero simpatici.
-Per vedere i bei pezzi della città, segui Kruisweg fino a vedere una cattedrale enorme - la [St. Chiesa Bavo] (https://maps.app.goo.gl/ggbutorj5uzalvcwa).
-Questa non è la chiesa in cui ci sposiamo, ma le celebrazioni del matrimonio saranno molto vicine a questa chiesa al [Ambassador] (https://maps.app.goo.gl/tbnjyfvcyx5xpujm6). Ora sei nel centro della città di Haarlem e ti invitiamo a esplorare l'area intorno a essa con le sue molte belle strade con le
-Tipiche vecchie case olandesi e vasi di fiori sui marciapiedi.
+Uscite dalla stazione in direzione dello stationsplein (piazzale della stazione). Per chi arriva assetato, c’è un bel caffè ([Westhoff](https://maps.app.goo.gl/CqFWAS6W93KguCED9)) e un pub ([Wachtlokal](https://maps.app.goo.gl/qQL9WdKZTRTqsHqx6)) – consiglio di provare una birra Moersleutel al bar, fanno delle ottime IPA.  
+Per vedere le parti più belle della città, seguite il Kruisweg finché non vedete una grande cattedrale – la [St. Bavo Church](https://maps.app.goo.gl/ggBUToRJ5uZaLVcWA).  
+Non è la chiesa dove ci sposiamo, ma i festeggiamenti si terranno molto vicino, presso l’[Ambassador](https://maps.app.goo.gl/TBnjYfvcYx5Xpujm6). Siete ora nel centro di Haarlem, e vi invitiamo a esplorare la zona circostante con le sue tante stradine caratteristiche, le tipiche case olandesi antiche e i vasi di fiori sui marciapiedi.
 
 Alcuni punti salienti:
 
-1. Ogni sabato c'è un ** mercato ** nella piazza vicino alla chiesa di Bavo
-2. Cammina lungo il fiume [Sparne] (https://maps.app.goo.gl/yfbfsuwrf666x1zjm9), a est della cattedrale, rilassati in uno dei tanti caffè e guarda le barche guidano.
-Puoi anche trovare un vento un olandese ** Windmill ** qui, il [Molen de Adriaan] (https://maps.app.goo.gl/hhkuw4v4h4zpxk5ea).
-3. Il [teylers musuem] (https://maps.app.goo.gl/drj6cbwi6ddehgoaa) è il ** più antico museo ** nei Paesi Bassi (dobbiamo ancora visitarlo).
-4. L'arte può essere trovata nel [Frans Hals Museum] (https://maps.app.goo.gl/twbuxcaqbwxwspxra)
-5. ** Il caffè fantasia ** viene venduto alle [caffetterie] (https://maps.app.goo.gl/3ltbqaqy2cu1t49c8), che ha diversi rami in Haarlem (anche qui] (https://maps.app.goo.gl/f7ytz9tagw73v2ona) e mosche; [qui] (https://maps.app.goo.gl/2eof98rqerudzmuv6)). Il preferito di Patrick, ma gli espressi non sono proprio nel tipico stile italiano)
-6. [Romeo '] dà panini molto belli ** in stile italiano ** - Gli italiani potrebbero saperlo, ma consigliamo a tutti gli altri di provarlo se non l'hai mai mangiato.
-Prova a Mortadella Special - Ci sono alcuni tempi di attesa ma l'esperienza vale la pena aspettare!
-7. Se stai cercando altri ** snack **: secondo la mia opinione (Patrick), i migliori falafel sono venduti a [syriusy] (https://maps.app.goo.gl/irca1mmogxqsmy9r9) e i migliori hamburger a [buns of glory] (https:/maps.app.gglea5ea5eagea e Ti dà anche una bella vista su Spaarne.
-8. The [Jopenkerk] (https://maps.app.goo.gl/menfskn7kycn31r17) è una chiesa che è stata trasformata in un ** birrificio ** - Puoi provare molte varianti della birra Jopen qui e anche mangiare un po 'di cibo.
-9. Se ti piacciono ** birre **, non lontano dal jopenkerk è anche la [bar Uiltje] (https://maps.app.goo.gl/y6ysvx32xccgygty5) che ha una vasta selezione di birre alla spina. Altro nel centro della città è il bierlokaal [de Uiver] (https://maps.app.goo.gl/nyr5hvxmipdb7Sox8) che ha anche molte birre diverse da provare alla spina.
-10. Per i ** Metalheads **: vicino alla chiesa di Bavo, c'è il [Wolfhound] (https://maps.app.goo.gl/7xy21hdtd14rqxdy7), un pub irlandese che di solito suona buona musica e ha bee birre. Secondo un amico, fanno anche buoni hamburger, ma non li ho ancora provati. La barra alternativa della città è il [anti-bar] (https://maps.app.goo.gl/bq9gwdbl8gjqwrx99), che si trova vicino al bar Uiltje menzionato sopra.
-11 Bavo Cathedral] (https://maps.app.goo.gl/jpu82bmiaypygvxc6).
-12. La migliore pizza (Patrick: "Ho mai mangiato al di fuori dell'Italia, oltre a quello che fa il mio futuro modo") viene servita al [Piccolo Forno] (https://maps.app.goo.gl/exb1ieomeyymuznwo7). Devi prenotare qui (la lista d'attesa avviene per impostazione predefinita, ma ciò non significa che non otterrai un posto). Gli italiani sono avvertiti: la maggior parte delle pizzerie non ti offrirà la stessa qualità a cui sei abituato. Tuttavia, Piccolo Forno è l'eccezione.
-13. Ma hey, sei nei Paesi Bassi. Forse vuoi provare anche qualcosa di tipico olandese. Quindi prova il loro cibo "borrel" (Borrel significa "aperitivo" in pratica): Bitterballen, Frikandellen, Kaastengels e Kaas Souffle!
+1. Ogni sabato c’è un **mercato** nella piazza vicino alla chiesa di Bavo.  
+2. Passeggiate lungo il fiume [Sparne](https://maps.app.goo.gl/YfBFSUWRF66X1zjm9), a est della cattedrale, rilassatevi in uno dei tanti caffè e guardate passare le barche.  
+   Qui si trova anche un **mulino a vento** olandese, il [Molen de Adriaan](https://maps.app.goo.gl/hHkuw4V4h4Zpxk5EA).  
+3. Il [Teylers musuem](https://maps.app.goo.gl/dRj6CbWi6DdeHgoaA) è il **museo più antico** dei Paesi Bassi (dobbiamo ancora visitarlo).  
+4. L’arte si trova al [Frans Hals museum](https://maps.app.goo.gl/TwBUxcAqBWxwSPXRA).  
+5. Il **caffè gourmet** si trova al [Coffee Habits](https://maps.app.goo.gl/3LtBQaQy2cu1T49C8), che ha diverse sedi a Haarlem (anche [qui](https://maps.app.goo.gl/F7Ytz9Tagw73V2oNA) e molto piccola [qui](https://maps.app.goo.gl/2Eof98RQerUdzmuV6)). I preferiti di Patrick, ma l'espresso non e' nello stile italiano.  
+6. [Romeo](https://maps.app.goo.gl/1w3HV9e3k8wfVhTg6) offre ottimi **panini in stile italiano** – gli italiani forse già lo conoscono, ma lo consigliamo a tutti gli altri se non li avete mai provati.  
+   Prova il Mortadella Special – bisogna aspettare un po' ma ne vale la pena!  
+7. Se cercate altri **snack**: secondo me (Patrick), i migliori falafel si trovano da [Syriously](https://maps.app.goo.gl/irca1mmoGXqSmY9R9), e i migliori hamburger da [Buns of Glory](https://maps.app.goo.gl/FjTber4eA5EgY9Wk6), che offre anche una bella vista sullo Spaarne.  
+8. La [Jopenkerk](https://maps.app.goo.gl/MEnFSkn7kYCN31R17) è una chiesa trasformata in **birrificio** – qui potete provare molte varianti della birra Jopen e anche mangiare qualcosa.  
+9. Se vi piacciono le **birre**, non lontano dalla Jopenkerk c’è anche l'[Uiltje bar](https://maps.app.goo.gl/y6YsvX32xccgYgTy5) con un’ampia selezione di birre alla spina. Più in centro c’è il Bierlokaal [de Uiver](https://maps.app.goo.gl/nYr5HVxmiPDb7Sox8), anch’esso con molte birre diverse alla spina.  
+10. Per gli **amanti del metal**: vicino alla chiesa di Bavo c’è il [Wolfhound](https://maps.app.goo.gl/7Xy21hDTd14RQXdy7), un pub irlandese che di solito mette buona musica e ha ottime birre. Secondo un amico, fa anche dei buoni burger, ma non abbiamo ancora provato. Il bar alternativo della città è l’[Anti-Bar](https://maps.app.goo.gl/BQ9gWDbL8gjQwRx99), vicino al bar Uiltje menzionato sopra.  
+11. Un po’ più lontano dal centro, c’è un’altra cattedrale ancora in uso come chiesa cattolica, con un nome molto simile all’altra: la St. Bavo cathedral.  
+12. La miglior pizza (Patrick: "di fatto la miglior pizza che abbia mai mangiato fuori dall'Italia, eccetto quella che fa la mia futura moglie") si trova al [Piccolo Forno](https://maps.app.goo.gl/ExB1ieoMEymuZNwo7). È necessario prenotare (la lista d'attesa appare di default, ma non significa che e' sempre pieno e non riuscirai ad andarci). Attenti, italiani: la gran parte delle pizzerie non offre la qualita' a cui siete abituati, ma Piccolo Forno e' l'eccezione.
+13. Ma ehi, siete nei Paesi Bassi. Forse volete provare anche qualcosa di tipico olandese. Allora provate il cibo da "borrel" (borrel significa "aperitivo" in pratica): bitterballen, frikandellen, kaastengels e kaas soufflé!  
+14. Non dimenticate di provare le patatine fritte olandesi!
 
-! [Grotemarkt] (Grote-Markt-Haarlem.jpg)! [Jopen] (2015_0512_Jopenkerk.jpg)! [Romeo] (romeo5.jfif)! [Borrel] (borrel.jpeg)
+![grotemarkt](Grote-Markt-haarlem.jpg)  ![Jopen](2015_0512_Jopenkerk.jpg)  ![Romeo](romeo5.jfif) ![borrel](borrel.jpeg)  ![Fries](Patat-Amsterdam.jpg)
 
+---
 
+### Escursioni e giri in bici nei dintorni di Haarlem
 
-### escursioni e pedalare intorno a Haarlem
+I Paesi Bassi forse non hanno le montagne a cui siete abituati in Campania o Sassonia, ma ci sono comunque bei paesaggi da esplorare per chi ama camminare o fare escursioni.  
+Se avete qualche ora, vi consigliamo vivamente di visitare il **Parco Nazionale Zuid-Kennemerland**, sia in bici che a piedi. Camminando in questo parco, incontrerete tutta la varietà del paesaggio olandese: si parte da una zona più boschiva con laghi, si attraversano le dune aperte e si arriva alle ampie spiagge sul mare aperto.
 
-I Paesi Bassi potrebbero non avere le montagne a cui sei abituato dalla Campania o dalla Sassonia, ma c'è ancora una buona natura da esplorare per coloro a cui piace camminare o fare un'escursione.
-Se hai qualche ora, ti consigliamo davvero di visitare ** National Park Zuid-Kennermerland **, in bici o di cibo. Se fai una passeggiata attraverso questo parco, incontrerai l'intera varietà di paesaggi olandesi: a partire da un paesaggio più forestale con laghi, andando oltre le dune aperte e finendo sulle grandi spiagge larghe sul mare aperto.
-
-Per raggiungerlo, potresti aver bisogno di una bici o di un'auto: la cosa migliore è arrivare al [Bezoekerzentrum] (https://maps.app.goo.gl/bwbtrfjgddh7lf9l9) di Zuid-Kennemerland. Da qui puoi continuare in bici o per cibo (il più delle volte hanno separati percorsi). Lo stesso Bezoekerzenturm offre cibo sorprendentemente buono - se arrivi a colazione, puoi avere uova Benedict qui, solo per darti un esempio. C'è anche un parco giochi per i bambini. A pochi metri di distanza c'è un bel lago con una spiaggia, che è una bella alternativa alle spiagge marine menzionate di seguito. Consiglio di seguire i segni di ** Vogelmeer ** (tedeschi, non confondermi, sharge le parole per "see" e "meer" - "zee" è il mare, un "meer" è un lago). Da Vogelmeer, puoi quindi camminare sulle dune aperte verso il mare, ad esempio uscire a ** Parnassia Beach **, che ha un club da spiaggia o in altri ingressi meno popolati alle spiagge.
-
-! [Bisonti] (Bisonti.png)! [Park1] (Koevlak-National-Park-20-1.jpg)! [Park2] (Koevlak-National-Park-9.jpg)
-
-
-## spiagge della zona
+Per raggiungerlo, potreste aver bisogno di una bici, un’auto o un autobus: l’ideale è arrivare al [Bezoekerzentrum](https://maps.app.goo.gl/BwBTRFJGDDh7Lf9L9) di Zuid-Kennemerland. Da qui potete proseguire in bici o a piedi (il piu' delle volte, la ciclabile e i percorsi a piedi sono separati). Il Bezoekerzentrum offre sorprendentemente buon cibo – se arrivate per colazione, potete ordinare le uova alla Benedict, per esempio. C’è anche un parco giochi per bambini. A pochi metri c’è un bel lago con una spiaggia, una buona alternativa alle spiagge marine menzionate sotto. Consiglio di seguire i cartelli per il **Vogelmeer** (da non confondersi – "zee" e' il mare, a "meer" e' il lago). Dal Vogelmeer potete poi camminare sulle dune aperte verso il mare, ad esempio uscendo alla Parnassia beach, dove c’è uno stabilimento balneare, oppure in altri accessi meno affollati alle spiagge.
 
 
-Le spiagge dei Paesi Bassi sono di solito gratuite, quindi puoi semplicemente riposare ovunque tu ne abbia voglia. Le spiagge più popolate hanno bar direttamente sulla spiaggia dove tu
-Può andare a mangiare uno spuntino o bere qualcosa. Troverai anche trattori che guidano attraverso la sabbia vendendo gelati o snack per lo più a base di pesce. Must-Seties:
-The Haaring, che è una delicatezza olandese rinfrescante (pesce freddo) e kibbeling (pezzi di pesce fritti con salsa).
+![bisonti](bisonti.png)  ![park1](koevlak-national-park-20-1.jpg)  ![park2](koevlak-national-park-9.jpg)
 
-La spiaggia più popolare e facilmente raggiungibile sia da Haarlem che Amsterdam è in [Zandvoort] (https://maps.app.goo.gl/qxglgpeqsxeqneca9), che puoi raggiungere in treno. Questa è una spiaggia molto grande e turistica, che è anche per lo più controllata dalle guardie marine, quindi non devi preoccuparti di fare una nuotata. Zandfort stesso non è molto bello e si rivolge principalmente
-verso il turismo della spiaggia.
 
-Da Haarlem, un giro di Bicyle di 20 minuti verso est ti porta a [Bloemendaal an Zee] (https://maps.app.goo.gl/yaw29yizmedzzme6a), che è un po 'Quiter, ma offre ancora barre. Questa è la spiaggia più semplice raggiungibile in bici: fai il ciclo dritto tutto il tempo su una strada in bicicletta separata vicino all'autostrada.
+## Spiagge nei dintorni
 
-Poi c'è il [Parnassia-Strand] (https://maps.app.goo.gl/guhelpayp9pjdtpna), che può essere raggiunto dall'escursione o in bicicletta attraverso il parco nazionale ** Zuid-Kennermerland **-Mentre usuali anche un po 'impegnato nei giorni di sole, non devi camminare lontano se vuoi una situazione di silenzio per te stesso.
+Le spiagge nei Paesi Bassi sono solitamente gratuite, quindi potete semplicemente fermarvi dove preferite. Le spiagge più frequentate hanno bar direttamente sulla sabbia dove potete mangiare uno snack o bere qualcosa. Troverete anche trattori che passano sulla sabbia vendendo gelati o, più spesso, snack a base di pesce. Da provare assolutamente: le aringhe, una fresca specialità olandese (pesce freddo), e il Kibbeling (bocconcini di pesce fritti con salsa opzionale).
 
-Se non hai bisogno del mare aperto e preferisci alcuni alberi intorno a te, c'è anche una spiaggia al lago [het mer] (https://maps.app.goo.gl/ud8m5ocb1mnbgjnu9).
+La spiaggia più popolare e facilmente raggiungibile sia da Haarlem che da Amsterdam è quella di [Zandvoort](https://maps.app.goo.gl/QxgLGpEqsXeQNeCa9), raggiungibile in treno. È una spiaggia molto grande e turistica, per lo più sorvegliata da bagnini – quindi potete fare il bagno in tranquillità. Zandvoort in sé non è molto bella e si rivolge principalmente al turismo balneare.
 
-! [Parnassia] (Koevlak-national-park-14-Parnassia-beach.jpg)! [twed] (twed.png)
+Da Haarlem, una pedalata diretta di 20 minuti verso est vi porta a [Bloemendaal an Zee](https://maps.app.goo.gl/YAW29yiZmEDZzmE6A), che è un po’ più tranquilla, ma offre comunque bar. È la spiaggia più facile da raggiungere in bici – basta pedalare sempre dritto su una pista ciclabile separata accanto alla strada principale.
+
+Poi c’è la [Parnassia-Strand](https://maps.app.goo.gl/GuHeLPAyP9PJDtpNA), raggiungibile a piedi o in bici attraverso il parco nazionale Zuid-Kennermerland – anche se di solito è un po’ affollata nelle giornate di sole, non dovrete camminare molto per trovare un angolo tranquillo tutto per voi.
+
+Se non avete bisogno del mare aperto e preferite un po’ di alberi intorno, c’è anche una spiaggia sul lago [Het Wed](https://maps.app.goo.gl/ud8m5oCB1MNbgJNU9).
+
+![parnassia](koevlak-national-park-14-parnassia-beach.jpg)   ![twed](twed.png)
 
 ## Amsterdam
 

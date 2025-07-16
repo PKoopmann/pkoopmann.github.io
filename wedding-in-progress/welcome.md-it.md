@@ -1,14 +1,13 @@
 
-** Benvenuti nel nostro sito Web di nozze con informazioni utili sul nostro matrimonio! **
+**Benvenuti sul nostro sito del matrimonio**
 
-Su questo sito Web trovi informazioni utili:
-- su come muoversi a Haarlem, Amsterdam e dintorni
-- Suggerimenti sui servizi (negozi, capelli, ecc.)
-- Qual è la politica regalo al nostro matrimonio
-- Belle cose da fare a Haarlem e Amsterdam, per coloro che rimangono più a lungo
+Su questo sito troverete informazioni utili e/o consigli su:
 
-Ci dispiace, oggi tutto \ 'e in inglese. una opzione italiano divino.
+- come muoversi a Haarlem, Amsterdam e dintorni
+- servizi (negozi, parrucchieri, ecc.)
+- cose belle da fare a Haarlem e dintorni, per chi si ferma più a lungo
+- programma del giorno del matrimonio
+- politica regali al nostro matrimonio
 
-Scusa, momentaneamente noch alles auf Englisch - Eine deutsche variante kommt jedoch bald!
 
-! [Corpse Bride] (Corpse Bride.jpg)
+![corpsebride](corpsebride.jpg)

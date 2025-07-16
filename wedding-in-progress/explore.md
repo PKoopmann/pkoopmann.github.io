@@ -27,7 +27,7 @@ Some highlights:
 3. The [Teylers musuem](https://maps.app.goo.gl/dRj6CbWi6DdeHgoaA) is the **oldest museum** in the Netherlands (we still have to visit it).
 4. Art can be found in the [Frans Hals museum](https://maps.app.goo.gl/TwBUxcAqBWxwSPXRA)
 5. **Fancy coffee** is sold at the [Coffee Habits](https://maps.app.goo.gl/3LtBQaQy2cu1T49C8), which has several branches in Haarlem (also [here](https://maps.app.goo.gl/F7Ytz9Tagw73V2oNA) and very small [here](https://maps.app.goo.gl/2Eof98RQerUdzmuV6)). Patrick's favourite, but the espressi are not really in the typical Italian style)
-6. [Romeo'] gives very nice **Italian style sandwiches** - the Italians might know this, but we recommend everyone else to try it if you have never eaten it.
+6. [Romeo'](https://maps.app.goo.gl/1w3HV9e3k8wfVhTg6) gives very nice **Italian style sandwiches** - the Italians might know this, but we recommend everyone else to try it if you have never eaten it.
    Try to Mortadella Special - there are some waiting times but the experience is worth the wait!
 7. If you are looking for other **snacks**: in my (Patrick's) opinion, the best falafels are sold at [Syriously](https://maps.app.goo.gl/irca1mmoGXqSmY9R9), and the best burgers at [Buns of Glory](https://maps.app.goo.gl/FjTber4eA5EgY9Wk6), which also gives you a nice view on the Spaarne. 
 8. The [Jopenkerk](https://maps.app.goo.gl/MEnFSkn7kYCN31R17) is a church that has been transformed into a **Brewery** - you can try many variants of the Jopen beer here and also eat some food.
@@ -36,8 +36,9 @@ Some highlights:
 11. A bit further away from the center, there is also another cathedral which is still used as a Catholic church, confusingly named very similar to the other one: the [St. Bavo cathedral](https://maps.app.goo.gl/jPU82bMiAyPYGvxc6).  
 12. The best pizza (Patrick: "indeed the best I have ever eaten outside of Italy, besides the one my future wife makes") is served at the [Piccolo Forno](https://maps.app.goo.gl/ExB1ieoMEymuZNwo7). You need to reserve here (the waiting list happens by default, but it doesn't mean you won't get a seat). Italians be warned: most pizzerie won't offer you the same quality that you are used to. However, Piccolo Forno is the exception.
 13. But hey, you are in The Netherlands. Perhaps you want to try also something typical Dutch. Then try their "borrel" food (borrel means "aperitivo" in practice): bitterballen, frikandellen, kaastengels and kaas souffle!
+14. Don't forget to try the Dutch fries!
 
-![grotemarkt](Grote-Markt-haarlem.jpg)  ![Jopen](2015_0512_Jopenkerk.jpg)  ![Romeo](romeo5.jfif) ![borrel](borrel.jpeg)
+![grotemarkt](Grote-Markt-haarlem.jpg)  ![Jopen](2015_0512_Jopenkerk.jpg)  ![Romeo](romeo5.jfif) ![borrel](borrel.jpeg)  ![Fries](Patat-Amsterdam.jpg)
 
 
 
@@ -46,7 +47,7 @@ Some highlights:
 The Netherlands may not have the mountains you are used to from Campania or Saxony, but there is still nice nature to explore for those who like to walk or hike.
 If you have a few hours, we really recommend to visit **National Park Zuid-Kennermerland**, either by bike or by foot. If you take a walk through this park, you will encounter the whole variety of Dutch landscape: starting with a more forestly landscape with lakes, going over the open dunes and ending on the large wide beaches at the open sea. 
 
-To reach it, you may need a bike or car: best is to get to the [Bezoekerzentrum](https://maps.app.goo.gl/BwBTRFJGDDh7Lf9L9) of Zuid-Kennemerland. From here you can either continue by bike or by food (most of the time, they have separated paths). The Bezoekerzenturm itself offers surprsingly good food - if you arrive for breakfast, you can have Eggs Benedict here, just to give you an example. There is also a playground for the kids. A few meters away there is a nice lake with a beach, which is a nice alternative to the sea beaches mentioned below. I recommend to follow the signs to **Vogelmeer** (Germans, don't get confused, Dutch switch the words for "See" and "Meer" - "zee" is the sea, a "meer" is a lake). From Vogelmeer, you can then walk over the open dunes towards the sea, for instance getting out at **Parnassia beach**, which has a beach club, or at other less populated entrances to the beaches. 
+To reach it, you may need a bike or car, or a bus: best is to get to the [Bezoekerzentrum](https://maps.app.goo.gl/BwBTRFJGDDh7Lf9L9) of Zuid-Kennemerland. From here you can either continue by bike or by food (most of the time, they have separated paths). The Bezoekerzenturm itself offers surprsingly good food - if you arrive for breakfast, you can have Eggs Benedict here, just to give you an example. There is also a playground for the kids. A few meters away there is a nice lake with a beach, which is a nice alternative to the sea beaches mentioned below. I recommend to follow the signs to **Vogelmeer** (Germans, don't get confused, Dutch switch the words for "See" and "Meer" - "zee" is the sea, a "meer" is a lake). From Vogelmeer, you can then walk over the open dunes towards the sea, for instance getting out at **Parnassia beach**, which has a beach club, or at other less populated entrances to the beaches. 
 
 ![bisonti](bisonti.png)  ![park1](koevlak-national-park-20-1.jpg)  ![park2](koevlak-national-park-9.jpg)
 

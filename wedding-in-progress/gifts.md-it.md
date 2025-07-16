@@ -1,41 +1,33 @@
 # Regali
 
-** Non ci aspettiamo alcun regalo! **
+**Non ci aspettiamo alcun regalo!**
 
 
-Sappiamo quanto sia costoso per tutti voi unirti a noi
-momento speciale, e ne siamo estremamente grati!
-Forse una bella carta con un messaggio personale sarebbe un
-Memoria molto bello di essere lì!
+Sappiamo quanto sia costoso per tutti voi partecipare a questo momento speciale, e vi siamo estremamente grati per questo!
+Forse una bella cartolina con un messaggio personale sarebbe un ricordo meraviglioso della vostra presenza!
 
-! [Regali] (foto19.png)
+![Gifts](Picture19.png)
 
 
-Per coloro che dicono "Ehi, vogliamo comunque darti
-qualcosa "e si chiedono se abbiamo creato un registro di nozze con le cose di cui abbiamo bisogno per la nostra casa, vorremmo dire: viviamo già insieme,
-avere un appartamento completamente arredato e molto poco spazio rimasto
-Per gli oggetti, motivo per cui non abbiamo creato una lista dei desideri.
+Per chi dice “Ehi, vogliamo comunque farvi un regalo” e si chiede se abbiamo creato una lista nozze con cose utili per la casa, vorremmo dire: viviamo già insieme, abbiamo un appartamento completamente arredato e pochissimo spazio per altri oggetti, motivo per cui non abbiamo creato una wishlist.
 
-<img src u003d "Picture20.png" alt u003d "No WishList" Style u003d "Larghezza: 300px;"/>
+<img src="Picture20.png" alt="No Wishlist" style="width:300px;"/>
 
 
-Ancora non felice e insisti ancora a darci
-Qualcosa di più della tua presenza o della tua carta?
-Quindi, se vuoi, potresti dare un piccolo contributo al nostro
-Lune di luna di miele in Messico, su Riviera Maya,
-Accade a ottobre: utilizziamo PayPal, vedi sotto i nostri indirizzi e -mail.
+Non siete ancora soddisfatti e insistete per farci un regalo oltre alla vostra presenza o alla vostra cartolina?
+Allora, se volete, potete fare un piccolo contributo per la nostra luna di miele in Messico, sulla Riviera Maya, che si terrà a ottobre: usiamo Paypal, trovate qui sotto i nostri indirizzi email.
+
 
 tiziana.bellomo@gmail.com
 
-O
+oppure
 
 p.k.koopmann@vu.nl
 
 (Per favore aggiungi una nota in modo che sappiamo chi sei :))
 
 
-! [Honeymoon] (foto21.png)
+![Honeymoon](Picture21.png)
 
 
-** IMPORTANTE: per favore non contagiti
-Il giorno del matrimonio! **
+**IMPORTANTE: per favore niente contanti il giorno del matrimonio!**
