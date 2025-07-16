@@ -95,7 +95,7 @@
 
 
                 // Set a loading message immediately
-                setParsedHtml('<p class="has-text-grey">Loading content...</p>');
+                setParsedHtml('<p className="has-text-grey">Loading content...</p>');
 
                 // Fetch the appropriate markdown file, adding a timestamp to prevent caching.
                 fetch(`${fileName}?t=${new Date().getTime()}`)
@@ -152,16 +152,20 @@
                 <div className="min-h-screen bg-gray-100 flex flex-col ">
                     {/* Header and Navigation */}
                     <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
-                         
                             <img src="title.png"/>
-                            <div class="navbar-dropdown">
+                            <span className="is-hidden-fullhd">
+                            <div className="navbar-item has-dropdown is-hoverable">
+                                <a className="navbar-link">
+                                    {label(currentPage)}
+                                </a>
+                            <div className="navbar-dropdown">
                                 {button('welcome')}
                                 {button('food')}
                                 {button('movingAround')}
                                 {button('explore')}
                                 {button('amenities')}
                                 {button('gifts')}
-                                <hr class="navbar-divider"/>
+                                <hr className="navbar-divider"/>
                                 <a
                                     className={languageClass('en')}
                                     onClick={() => setLanguage('en')}
@@ -181,6 +185,8 @@
                                     it
                                 </a>
                             </div>
+                            </div></span>
+                            <span className="is-hidden-desktop-only is-hidden-widescreen-only is-hidden-touch">
                             <nav className="navbar-menu">
                               <div className="navbar-start">
                                 {button('welcome')}
@@ -212,6 +218,7 @@
                                 </a>
                             </div>
                           </nav>
+                          </span>
                     </header>
     
                     <br/>
