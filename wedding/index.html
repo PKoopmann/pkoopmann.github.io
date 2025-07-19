@@ -1,40 +1,256 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Coming Soon</title>
-  <style>
-    body {
-      margin: 0;
-      background-color: black;
-      color: white;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
-
-    .image-container {
-      width: 600px;
-      height: 600px;
-      background-color: #333;
-      background-image: url('version-1-drawing-2.2bm-lighter.png'); /* Replace with your image path */
-      background-size: cover;
-      background-position: center;
-      margin-bottom: 30px;
-    }
-
-    h1 {
-      font-size: 3em;
-      margin: 0;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/slate/bulmaswatch.min.css">
+    <title>Patrick and Tiziana's Wedding</title>
+    <!-- Tailwind CSS CDN -->
+    <!--<script src="https://cdn.tailwindcss.com"></script>-->
+    <!-- Inter Font (optional, but good for consistent design) -->
+    <!--<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">-->
+    
+    <link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+    <style>
+        /* Add a little extra padding to the section for better spacing */
+        body
+        .main-section {
+            padding: 3rem 1.5rem;
+        }
+        /* Style for code blocks inside the .content class */
+        .content pre {
+            background-color: #282c34; /* A dark background for code */
+            color: #abb2bf;
+            padding: 1.25em;
+            border-radius: 6px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+       .fractal-text {
+         font-family: 'UnifrakturMaguntia', sans-serif;
+         font-size: 50px; /* Replace with your font name */
+       }
+        .fill-space {
+            flex: 1;
+            text-align: center;
+        }
+     </style>
+    </style>
 </head>
 <body>
-  <div class="image-container"></div>
-  <h1>Website with more information coming soon!</h1>
+    <div id="root"></div>
+
+    <!-- React and ReactDOM CDNs -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <!-- Babel CDN for in-browser JSX transformation -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- Your React App component and rendering logic -->
+    <script type="text/babel">
+        // Load marked.js from CDN
+        // This script will be available globally as 'marked'
+        const markedScript = document.createElement('script');
+        markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+        document.head.appendChild(markedScript);
+
+        const languages = {
+            "en":0,
+            "de":1,
+            "it":2
+        }
+
+        const buttonLabels = {
+            "welcome": ["Welcome","Wilkommen","Benvenuto"],
+            "food": ["Program", "Programm", "Programma"],
+            "amenities": ["Tips", "Generelle Tipps", "Dritte"],
+            "explore": ["Places to Explore", "Reisetipps", "Luoghi da esplorare"],
+            "gifts": ["Gifts", "Geschenke", "Regali"],
+            "movingAround": ["Moving Around", "Von A nach B", "Muoversi"],
+        }
+
+
+        // Main App component
+        function App() {
+            const [currentPage, setCurrentPage] = React.useState('welcome');
+            const [parsedHtml, setParsedHtml] = React.useState('');
+            const [currentLanguage, setLanguage] = React.useState('en');
+
+            function label(string) {
+                return buttonLabels[string][languages[currentLanguage]];
+            }
+            function button(string) {
+                return (<a
+                            className={navLinkClasses(string)}
+                            onClick={() => setCurrentPage(string)}
+                        >
+                            {label(string)}
+                        </a>)
+            }
+
+            // Function to parse Markdown and set HTML
+            // Effect to fetch and update content when currentPage changes
+            React.useEffect(() => {
+                const fileName = currentPage+".md" + (currentLanguage=='en' ? '' : ('-'+currentLanguage+'.md'));
+
+
+                // Set a loading message immediately
+                setParsedHtml('<p className="has-text-grey">Loading content...</p>');
+
+                // Fetch the appropriate markdown file, adding a timestamp to prevent caching.
+                fetch(`${fileName}?t=${new Date().getTime()}`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! Status: ${response.status}`);
+                        }
+                        return response.text();
+                    })
+                    .then(text => {
+                        // This function will wait until the 'marked' library is loaded before parsing.
+                        const parseWhenReady = (markdownText) => {
+                            // Check if the 'marked' object is available on the window.
+                            if (window.marked) {
+                                // If it is, parse the markdown and update the state.
+                                setParsedHtml(window.marked.parse(markdownText));
+                            } else {
+                                // If not, wait 100ms and try again. This creates a simple
+                                // polling mechanism to handle the script's asynchronous loading.
+                                setTimeout(() => parseWhenReady(markdownText), 100);
+                            }
+                        };
+
+                        // Call the function to start the process.
+                        parseWhenReady(text);
+                    })
+                    .catch(error => {
+                        console.error('Fetch error:', error);
+                        setParsedHtml(`<p class="has-text-danger">Failed to load file: ${fileName}.</p>`);
+                    });
+
+            }, [currentPage,currentLanguage]); // This effect re-runs whenever 'currentPage' changes
+
+
+
+            // Tailwind CSS classes for common elements
+            const navLinkClasses = (page) =>
+            (currentPage == page ? 'navbar-item is-active' : 'navbar-item');
+                //`px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200 ` +
+                //(currentPage === page
+                //    ? 'bg-blue-600 text-white shadow-md'
+                //    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
+
+            const languageClass = (language) => 
+            (currentLanguage == language ? 'navbar-item is-active ' : 'navbar-item');
+
+            return (
+                
+                <div className="columns">
+                <div className="column"></div>
+                
+                <div className="column is-half">
+                    <br/>
+                <div className="min-h-screen bg-gray-100 flex flex-col ">
+                    {/* Header and Navigation */}
+                    <header className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+                            <img src="title.png"/>
+                            <span className="is-hidden-fullhd">
+                            <div className="navbar-item has-dropdown is-hoverable">
+                                <a className="navbar-link">
+                                    {label(currentPage)}
+                                </a>
+                            <div className="navbar-dropdown">
+                                {button('welcome')}
+                                {button('food')}
+                                {button('movingAround')}
+                                {button('explore')}
+                                {button('amenities')}
+                                {button('gifts')}
+                                <hr className="navbar-divider"/>
+                                <a
+                                    className={languageClass('en')}
+                                    onClick={() => setLanguage('en')}
+                                >
+                                    en
+                                </a>
+                                <a
+                                    className={languageClass('de')}
+                                    onClick={() => setLanguage('de')}
+                                >
+                                    de
+                                </a>
+                                <a
+                                    className={languageClass('it')}
+                                    onClick={() => setLanguage('it')}
+                                >
+                                    it
+                                </a>
+                            </div>
+                            </div></span>
+                            <span className="is-hidden-desktop-only is-hidden-widescreen-only is-hidden-touch">
+                            <nav className="navbar-menu">
+                              <div className="navbar-start">
+                                {button('welcome')}
+                                {button('food')}
+                                {button('movingAround')}
+                                {button('explore')}
+                                {button('amenities')}
+                                {button('gifts')}
+                              </div>
+<!--                          <div className="navbar-end">
+
+                                <a
+                                    className={languageClass('en')}
+                                    onClick={() => setLanguage('en')}
+                                >
+                                    en
+                                </a>
+                                <a
+                                    className={languageClass('de')}
+                                    onClick={() => setLanguage('de')}
+                                >
+                                    de
+                                </a>
+                                <a
+                                    className={languageClass('it')}
+                                    onClick={() => setLanguage('it')}
+                                >
+                                    it
+                                </a>
+                            </div>-->
+                          </nav>
+                          </span>
+                    </header>
+    
+                    <br/>
+
+                    {/* Main Content Area */}
+                    <main className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+
+                    
+                        <div className="content">
+                            {/* Markdown content will be rendered here */}
+                            <div dangerouslySetInnerHTML={{ __html: parsedHtml }} />
+                        </div>
+                    </main>
+
+                    <br/><br/>
+
+                    {/* Footer */}
+                    <footer className="content flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+                        <div className="content">
+                            &copy; {new Date().getFullYear()} Patrick Koopmann and Tiziana. All rights reserved.
+                        </div>
+                    </footer>
+                </div>
+                </div>
+                <div className="column"></div>
+                </div>
+            );
+        }
+
+        // Render the React App into the 'root' div
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
 </body>
 </html>

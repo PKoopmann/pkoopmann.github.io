@@ -1,0 +1,11 @@
+fetch('content.md')
+  .then(response => response.text())
+  .then(markdown => {
+    console.log("Geladener Markdown-Inhalt:", markdown); // Debug-Ausgabe
+    const html = marked.parse(markdown);
+    document.getElementById('content').innerHTML = html;
+  })
+  .catch(error => {
+    document.getElementById('content').innerText = 'Fehler beim Laden der Datei.';
+    console.error(error);
+  });
