@@ -4,7 +4,7 @@
 
 *App*: **9292** (Funziona per qualsiasi tipo di trasporto, più affidabile di Google Maps)
 
-*Biglietti*: usa la tua carta bancaria (una per persona, anche per i bambini, se sono troppo grandi per gli sconti). Devi fare check-in e check-out sulle macchinette all’ingresso e all’uscita di stazioni, autobus e tram. Non dimenticare di fare il check-out, altrimenti ti addebitano di più!
+*Biglietti*: usa la tua carta bancaria (una per persona, anche per i bambini, se sono troppo grandi per gli sconti). Devi fare check-in e check-out sulle macchinette all’ingresso e all’uscita di stazioni, autobus e tram. Non dimenticare di fare il check-out, altrimenti ti addebitano di più! Se non puoi usare una carta bancaria o se la tua carta non funziona, usa il tuo smartphone per acquistare i biglietti tramite l'app della compagnia con cui viaggi (vedi sotto). A volte acquistare i biglietti tramite l'app consente di risparmiare, soprattutto se comprati in anticipo.
 
 *Compagnie di trasporto*: NS (treni), Connexxion (autobus, dentro e fuori le città), GVB (solo Amsterdam)
 
