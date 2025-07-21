@@ -27,6 +27,16 @@ Haarlem is a beautiful city to cycle around. Moreover, in 20 minutes cycling you
 Be aware: if you want to move from a city to another, and it’s too far to cycle, you can take your bike on the train only in the off-peaks times and for a fee. Info here: [bikes-on-the-train](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
 
+## Taxi
+
+If you want to use taxi, it may be not cheap, but if you share it with a few people it may be a good option.
+
+Here are a few options (they all have apps):
+
+- Staxi: (they have fixed prices once you book, similar to Uber but cheaper): https://www.staxi.nl/en/
+- Taxi Haarlem: (discounts if booking in advance): https://sneleentaxi.nl/
+- Uber (absolutely NOT the cheapest!): https://www.uber.com/nl/en/
+
 
 ## For those who are staying at Camping De Liede
 
@@ -88,7 +98,7 @@ The restaurant (Ambassador Hotel, ground floor) can be reached in around 30 mins
 ![ambass](Picture15.png) 
 
 **IMPORTANT**: 
-Do these options sound unreasonable or problematic and you would like us to organize for you a lift, e.g. by taxi?
+Do these options sound unreasonable or problematic and you would like us to organize for you a lift by taxi?
 Please get in touch and we will see what we can do!
 
 
