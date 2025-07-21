@@ -26,6 +26,7 @@ oppure
 
 (Per favore aggiungi una nota in modo che sappiamo chi sei :))
 
+Nel caso in cui tu non usi PayPal, faccelo sapere tramite gli indirizzi email sopra indicati per discutere modalità alternative.
 
 ![Honeymoon](Picture21.png)
 
