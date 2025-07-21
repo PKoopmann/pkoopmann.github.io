@@ -25,7 +25,7 @@ Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
 happening on October: we use Paypal, see below our email addresses.
 
-tiziana.bellomo@gmail.com
+![TizianaEmail](Screenshot_2025-07-21-09-31-51-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 or
 
