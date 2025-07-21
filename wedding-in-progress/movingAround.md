@@ -5,6 +5,7 @@
 *App*: **9292** (it works for any type of transport, more reliable of Google Maps)
 
 *Tickets*: use your bank card (one per person, also the kids, if they are too old for discounts). You need to check in and check out on machines at the entrance and exit of stations, buses and trams. Don’t forget **checking out** otherwise they charge you more money!
+If you can't use a bank card or your bank card doesn't work, then use your smartphone to buy tickets, using the app of the specific company you are travelling with (see below). Sometimes buying tickets on the app saves some money if you buy in advance.
 
 *Transport companies*: NS (Trains), Connexxion (buses, in and out of cities), GVB (Amsterdam only)
 
