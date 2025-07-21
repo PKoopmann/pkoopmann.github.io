@@ -29,7 +29,7 @@ tiziana.bellomo@gmail.com
 
 or
 
-p.k.koopmann@vu.nl
+![PatrickEmail](Screenshot_2025-07-21-09-31-13-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 (please add a note so we know who you are :))
 
