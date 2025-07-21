@@ -25,6 +25,18 @@ Haarlem è una città bellissima da girare in bici. Inoltre, in 20 minuti di ped
 Attenzione: se vuoi spostarti da una città all’altra e la distanza è troppa per pedalare, puoi portare la bici sul treno solo negli orari non di punta e pagando un supplemento. Info qui: [Bike-on-the-train](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
 
+## Taxi
+
+Se vuoi usare il taxi, potrebbe non essere economico, ma se lo condividi con altre persone può diventare un’opzione conveniente.
+
+Ecco alcune opzioni (tutte hanno un’app):
+
+- Staxi: offre tariffe fisse al momento della prenotazione, simile a Uber ma più economico: https://www.staxi.nl/en/
+
+- Taxi Haarlem: applica sconti se si prenota in anticipo: https://sneleentaxi.nl/
+
+- Uber: assolutamente NON l’opzione più economica!: https://www.uber.com/nl/en/
+
 
 ## Per coloro che soggiornano al Camping de Liede
 
@@ -86,7 +98,7 @@ Il ristorante (Ambassador Hotel, piano terra) si raggiunge in circa 30 minuti da
 ![ambass](Picture15.png) 
 
 **IMPORTANTE**:
-Queste opzioni ti sembrano scomode o problematiche e vorresti che ti organizzassimo un passaggio, ad esempio in taxi? Contattaci e vedremo cosa possiamo fare!
+Queste opzioni ti sembrano scomode o problematiche e vorresti che ci occupassimo noi di organizzarti un passaggio in taxi? Contattaci e vedremo cosa possiamo fare!
 
 
 
