@@ -17,15 +17,16 @@ Per chi dice “Ehi, vogliamo comunque farvi un regalo” e si chiede se abbiamo
 Non siete ancora soddisfatti e insistete per farci un regalo oltre alla vostra presenza o alla vostra cartolina?
 Allora, se volete, potete fare un piccolo contributo per la nostra luna di miele in Messico, sulla Riviera Maya, che si terrà a ottobre: usiamo Paypal, trovate qui sotto i nostri indirizzi email.
 
-
-tiziana.bellomo@gmail.com
+![TizianaEmail](Screenshot_2025-07-21-09-31-51-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 oppure
 
-p.k.koopmann@vu.nl
+![PatrickEmail](Screenshot_2025-07-21-09-31-13-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 
 (Per favore aggiungi una nota in modo che sappiamo chi sei :))
 
+Nel caso in cui tu non usi PayPal, faccelo sapere tramite gli indirizzi email sopra indicati per discutere modalità alternative.
 
 ![Honeymoon](Picture21.png)
 

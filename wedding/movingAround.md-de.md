@@ -6,7 +6,7 @@
 
 *Tickets*: Ihr könnt einfach eure Bankkarte (Kredit oder Debit) als Ticket benutzen (eine pro Person, auch für Kinder die zu alt für den Discount sind). 
 Ihr müsst über die Maschinen am Eingang und Ausgang von Bahnhofen, Bussen und Straßenbahnen einchecken und ausschecken - beim Auschecken wird dann automatisch
-der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld!
+der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld! Wenn Sie keine Bankkarte verwenden können oder Ihre Karte nicht funktioniert, nutzen Sie Ihr Smartphone, um Tickets über die App des jeweiligen Verkehrsunternehmens zu kaufen (siehe unten). Manchmal kann man durch den Kauf über die App Geld sparen, besonders wenn man im Voraus bucht.
 
 *Transportunternehmen*: NS (Züge), Connexxion (Busse, in und außerhalb von Städten), GVB (nur Amsterdam)
 
@@ -27,6 +27,18 @@ Haarlem ist eine wunderschöne Stadt, um mit dem Fahrrad zu fahren. Darüber hin
 
 *Achtung:* Wenn ihr von einer Stadt in eine andere wechseln möchtet und es zu weit mit dem Fahrrad ist, können ihr euer Fahrrad nur außerhalb der Stoßzeiten und gegen eine Gebühr in den Zug nehmen. Infos hier: [Fahrräder im Zug](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
+
+## Taxi
+
+Wenn du ein Taxi benutzen möchtest, ist das möglicherweise nicht ganz günstig – aber wenn du es mit ein paar Personen teilst, kann es eine gute Option sein.
+
+Hier sind einige Möglichkeiten (alle haben eine App):
+
+Staxi: feste Preise nach der Buchung, ähnlich wie Uber, aber günstiger – https://www.staxi.nl/en/
+
+Taxi Haarlem: Rabatte bei Vorausbuchung – https://sneleentaxi.nl/
+
+Uber: absolut NICHT die günstigste Option! – https://www.uber.com/nl/en/
 
 
 ## Für diejenigen, die in Camping de Liede übernachten
@@ -85,8 +97,9 @@ Zu Fuß, wenn es euch nichts ausmacht, zu laufen! Ungefähr eine halbe Stunde
 ![Ambassador](Picture15.png)
 
 **WICHTIG**:
-Wenn keine dieser Optionen was für euch ist, lasst es uns wissen! Wir organisieren dann eine Reise per Auto oder Taxi.
-Bitte schreibt uns und wir werden sehen, was wir tun können!
+Klingen diese Optionen für dich unzumutbar oder problematisch, und möchtest du, dass wir eine Taxifahrt für dich organisieren?
+
+Dann nimm gern Kontakt mit uns auf – wir schauen, was wir für dich tun können!
 
 
 
