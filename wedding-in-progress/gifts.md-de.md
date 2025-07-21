@@ -34,6 +34,7 @@ oder
 
 (Bitte fügen Sie eine Notiz hinzu, damit wir wissen, wer Sie sind :))
 
+Falls Sie kein PayPal verwenden, lassen Sie es uns über die oben genannten E-Mail-Adressen wissen, damit wir alternative Möglichkeiten besprechen können.
 
 ! [Flitterwochen] (Bild21.png)
 
