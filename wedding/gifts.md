@@ -25,11 +25,11 @@ Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
 happening on October: we use Paypal, see below our email addresses.
 
-![TizianaEmail](Screenshot_2025-07-21-09-31-51-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+TODO
 
 or
 
-![PatrickEmail](Screenshot_2025-07-21-09-31-13-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+TODO
 
 
 (please add a note so we know who you are :))

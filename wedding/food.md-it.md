@@ -2,11 +2,11 @@
 
 l programma del giorno del matrimonio è il seguente:
 
-Liturgia del matrimonio nella [Church of Overveen] (15:00)
-Foto con gli ospiti (16:00)
-Tutti si dirigono verso l’[Ambassador] entro le 18:00, mentre noi facciamo alcune foto nel centro città
-Ricevimento e cena all’[Ambassador] (fino alle 20:00 circa)
-Torta seguita da festa (fino alle 24:00)
+1. Liturgia del matrimonio nella [Church of Overveen] (15:00)
+2. Foto con gli ospiti (16:00)
+3. Tutti si dirigono verso l’[Ambassador] entro le 18:00, mentre noi facciamo alcune foto nel centro città
+4. Ricevimento e cena all’[Ambassador] (fino alle 20:00 circa)
+5. Torta seguita da festa (fino alle 24:00)
 
 
 # Banchetto
