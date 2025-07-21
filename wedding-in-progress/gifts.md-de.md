@@ -25,11 +25,12 @@ Wenn Sie möchten, können Sie unseren kleinen Beitrag zu unserem leisten
 Flitterwochen in Mexiko, auf Riviera Maya,
 Im Oktober geschieht: Wir verwenden PayPal, siehe unten unsere E -Mail -Adressen.
 
-tiziana.bellomo@gmail.com
+![TizianaEmail](Screenshot_2025-07-21-09-31-51-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 oder
 
-p.K.koopmann@vu.nl
+![PatrickEmail](Screenshot_2025-07-21-09-31-13-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 
 (Bitte fügen Sie eine Notiz hinzu, damit wir wissen, wer Sie sind :))
 
