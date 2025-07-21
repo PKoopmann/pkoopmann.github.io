@@ -6,7 +6,7 @@
 
 *Tickets*: Ihr könnt einfach eure Bankkarte (Kredit oder Debit) als Ticket benutzen (eine pro Person, auch für Kinder die zu alt für den Discount sind). 
 Ihr müsst über die Maschinen am Eingang und Ausgang von Bahnhofen, Bussen und Straßenbahnen einchecken und ausschecken - beim Auschecken wird dann automatisch
-der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld!
+der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld! Wenn Sie keine Bankkarte verwenden können oder Ihre Karte nicht funktioniert, nutzen Sie Ihr Smartphone, um Tickets über die App des jeweiligen Verkehrsunternehmens zu kaufen (siehe unten). Manchmal kann man durch den Kauf über die App Geld sparen, besonders wenn man im Voraus bucht.
 
 *Transportunternehmen*: NS (Züge), Connexxion (Busse, in und außerhalb von Städten), GVB (nur Amsterdam)
 
