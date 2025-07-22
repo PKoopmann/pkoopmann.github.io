@@ -5,8 +5,9 @@
 *App*: **9292** (funktioniert für jede Art von Verkehrsmittel, und meistens besser als Google Maps)
 
 *Tickets*: Ihr könnt einfach eure Bankkarte (Kredit oder Debit) als Ticket benutzen (eine pro Person, auch für Kinder die zu alt für den Discount sind). 
-Ihr müsst über die Maschinen am Eingang und Ausgang von Bahnhofen, Bussen und Straßenbahnen einchecken und ausschecken - beim Auschecken wird dann automatisch
-der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ansonsten kostet es mehr Geld! Wenn Sie keine Bankkarte verwenden können oder Ihre Karte nicht funktioniert, nutzen Sie Ihr Smartphone, um Tickets über die App des jeweiligen Verkehrsunternehmens zu kaufen (siehe unten). Manchmal kann man durch den Kauf über die App Geld sparen, besonders wenn man im Voraus bucht.
+Über die Maschinen am Eingang und Ausgang von Bahnhofen, Bussen und Straßenbahnen checkt ihr ein und aus - beim Auschecken wird dann automatisch
+der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** --- ansonsten kostet es mehr Geld! Wenn ihr keine Bankkarte verwenden möchtet oder eure Karte nicht funktioniert, kauf am besten die Tickets über die App des jeweiligen Verkehrsunternehmens (siehe unten). Manchmal kann man durch den Kauf über die App Geld sparen, besonders wenn man im Voraus bucht. Ticket-Automaten gibt es schon auch, sind aber nicht mehr so verbreitet hier. Erwartet keine Ticketautomaten
+in der Strassenbahn wie in Dresden.
 
 *Transportunternehmen*: NS (Züge), Connexxion (Busse, in und außerhalb von Städten), GVB (nur Amsterdam)
 
@@ -18,19 +19,19 @@ der beste Preis für die Reise berechnet. Vergesst nicht, **auszuchecken** - ans
 
 ## Fahrrad
 
-Das Fahrrad ist definitiv der beste Weg, eure Zeit in den Niederlanden zu genießen!
+Das Fahrrad ist definitiv das beste Transportmittel in den Niederlanden.
 Ihr könnt Fahrräder im Voraus mieten (empfohlen, wenn ihr sicher seid, dass ihr es sowieso mieten möchtet!).
 
-Haarlem ist eine wunderschöne Stadt, um mit dem Fahrrad zu fahren. Darüber hinaus seid ihr in 20 Minuten auf den Dünen und in 30 Minuten an den schönen Stränden von Bloemendal!
+Haarlem ist eine wunderschöne Stadt, um mit dem Fahrrad zu fahren. Darüber hinaus seid ihr von Haarlem in 20 Minuten auf den Dünen und in 30 Minuten an den schönen Stränden von Bloemendal!
 
 ![Radfahrer in der Stadt](Picture6.jpg) ![Radfahrer auf den Dünen](Picture7.png)
 
-*Achtung:* Wenn ihr von einer Stadt in eine andere wechseln möchtet und es zu weit mit dem Fahrrad ist, können ihr euer Fahrrad nur außerhalb der Stoßzeiten und gegen eine Gebühr in den Zug nehmen. Infos hier: [Fahrräder im Zug](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
+*Achtung:* Wenn ihr mit dem Fahrrad in die nächste Stadt wollt und es zu weit zum Radeln ist, achtet darauf dass ihr ihr euer Fahrrad nur außerhalb der Stoßzeiten und gegen eine Gebühr in den Zug nehmen könnt. Weitere Infos hier: [Fahrräder im Zug](https://www.ns.nl/en/travel-information/bikes-on-the-train.html)
 
 
 ## Taxi
 
-Wenn du ein Taxi benutzen möchtest, ist das möglicherweise nicht ganz günstig – aber wenn du es mit ein paar Personen teilst, kann es eine gute Option sein.
+Taxi's kosten hier ähnlich viel wie in Deutschland – aber wenn ihr es mit ein paar Personen teilt, kann das eine gute Option sein.
 
 Hier sind einige Möglichkeiten (alle haben eine App):
 
@@ -38,16 +39,17 @@ Staxi: feste Preise nach der Buchung, ähnlich wie Uber, aber günstiger – htt
 
 Taxi Haarlem: Rabatte bei Vorausbuchung – https://sneleentaxi.nl/
 
-Uber: absolut NICHT die günstigste Option! – https://www.uber.com/nl/en/
+Uber: ja, Uber gibt es hier, ist aber absolut NICHT die günstigste Option! – https://www.uber.com/nl/en/
 
 
 ## Für diejenigen, die in Camping de Liede übernachten
 
-Die von Google Maps vorgeschlagene Reiseroute, um uns zu besuchen:
+Die von Google Maps vorgeschlagene Reiseroute, um uns zu besuchen, ist diese:
 
 ![Von Liede zu uns](Picture8.png)
 
-Die nächste Bahnhof von euch ist der Bahnhof Haarlem Spaarnwoude. Allerdings sind es zu diesem Bahnhof etwa 20 Minuten. Mit Fahrrad geht es schöner und schneller.
+Der nächste Bahnhof von euch ist der Bahnhof Haarlem Spaarnwoude. 
+Allerdings sind es zu diesem Bahnhof etwa 20 Minuten Fußweg. Mit Fahrrad ist es schöner und schneller.
 
 
 
@@ -82,24 +84,24 @@ Mit dem Bus: mit dem Connexxion Bus (Linie 81) kommt ihr vom Haarlemer Stadtzent
 ## Zum Restaurant
 Das Restaurant (Ambassador Hotel, Erdgeschoss) kann in etwa 30 Minuten von der Kirche aus erreicht werden:
 
-- durch Fahrrad (10-15 Minuten)
+- mit dem Fahrrad (10-15 Minuten)
 
-- mit dem Zug: Zum Bahnhof Overveen laufen, Zug nach Haarlem nehmen (eine Station), von dort zum Restaurant laufen (insgesamt etwa 30 Minuten) 
+- mit dem Zug: Zum Bahnhof Overveen laufen, Zug nach Haarlem nehmen (eine Station), von dort zum Restaurant laufen (insgesamt etwa 30 Minuten, aber eine schöne Route) 
 
-- mit dem Bus: die Linie 81 des Connexxion Bus von außerhalb der Kirche, bis nach Ruychaverstraat, dann 11 Minuten laufen
+- mit dem Bus: die Linie 81 des Connexxion Bus (hält nahe der Kirche), bis nach Ruychaverstraat, dann 11 Minuten laufen
 
 ![connexxion_to_ambass](Picture14.png)
 
-Zu Fuß, wenn es euch nichts ausmacht, zu laufen! Ungefähr eine halbe Stunde
+Zu Fuß, wenn es euch nichts ausmacht, zu laufen: ungefähr eine halbe Stunde
 
 ![onfoot_to_ambass](Picture16.png)
 
 ![Ambassador](Picture15.png)
 
 **WICHTIG**:
-Klingen diese Optionen für dich unzumutbar oder problematisch, und möchtest du, dass wir eine Taxifahrt für dich organisieren?
+Klingen diese Optionen für euch unzumutbar oder problematisch, und ihr möchtet, dass wir eine Taxifahrt organisieren?
 
-Dann nimm gern Kontakt mit uns auf – wir schauen, was wir für dich tun können!
+Dann nehmt gern Kontakt mit uns auf – wir schauen, was wir für euch tun können!
 
 
 

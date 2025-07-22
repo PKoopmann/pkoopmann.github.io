@@ -6,7 +6,7 @@ Auf dieser Website finden ihr hilfreiche Informationen:
 - darüber, wie ihr von A nach B kommt 
 - falls ihr länger hier seid: Tipps dazu was man in Haarlem, Amsterdam und Umgebung tolles machen kann 
 - generelle Tipps zu Geschäften, Frisören etc.
-- wie wir es mit Hochzeitsgeschenken halten?
+- wie wir es mit Hochzeitsgeschenken halten
 
 
 ![Corpse Bride](corpsebride.jpg)
