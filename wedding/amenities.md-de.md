@@ -2,8 +2,8 @@
 
 ## Bargeld oder Karte? Karte!!!
 
-In den Niederlanden könnt ihr für fast alles und überall eine Bankkarte benutzen, und an einigen Stellen akzeptieren sie sogar kein Bargeld!
-Achtet also darauf, immer eure eine Bankkarte dabei zu haben!
+In den Niederlanden könnt ihr für fast alles und überall eine Bankkarte benutzen, und an einigen Stellen akzeptieren sie sogar kein Bargeld.
+Achtet also darauf, immer eure eine Bankkarte dabei zu haben.
 
 Das ist auch der Grund, warum Geldautomaten etwas schwerer zu finden sind. Wir glauben nicht, dass ihr einen Geldautomaten brauchen werdet, aber falls doch, findet ihr diese oft in den Supermärkten (siehe unten).
 

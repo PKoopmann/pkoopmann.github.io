@@ -1,11 +1,12 @@
 
-**Willkommen auf unserer Hochzeitswebsite mit nützlichen Informationen über unsere Hochzeit!**
+**Willkommen auf unserer Hochzeitswebsite mit Informationen über unsere Hochzeit!**
 
-Auf dieser Website finden Sie nützliche Informationen:
-- darüber, wie man sich in Haarlem, Amsterdam und Umgebung bewegen kann
-- generelle Tipps zu verschiedenen Annehmlichkeiten (Geschäfte, Frisuren usw.)
-- was man so in Haarlem, Amsterdam und Umgebung nettes tun kann (für diejenigen, die länger bleiben)
-- Wie läuft es mit Hochzeitsgeschenken?
+Auf dieser Website finden ihr hilfreiche Informationen:
+- zum Programm
+- darüber, wie ihr von A nach B kommt 
+- falls ihr länger hier seid: Tipps dazu was man in Haarlem, Amsterdam und Umgebung tolles machen kann 
+- generelle Tipps zu Geschäften, Frisören etc.
+- wie wir es mit Hochzeitsgeschenken halten
 
 
 ![Corpse Bride](corpsebride.jpg)

@@ -1,43 +1,45 @@
 # Geschenke
 
-** Wir erwarten kein Geschenk! **
+**Wir erwarten kein Geschenk!**
+
+Wir wissen, dass es nicht billig ist, uns hier in Haarlem zu besuchen,
+und sind euch dafür sehr dankbar!
+Eine schöne Karte mit einer persönlichen Nachricht wäre vielleicht
+eine schöne Erinnerung daran, dass ihr hier wart.
+
+![Geschenke](Picture19.png)
+
+Wenn ihr jetzt denkt: "Moment mal, wir wollen aber trotzdem was geben. Gibt es irgendwo
+eine Hochzeitswunschliste wie bei anderen Hochzeiten?" --- Nee, so eine Liste haben wir
+wirklich nicht. Wir wohnen bereits lange zusammen, sind seid Oktober in unserer gemeinsamen
+Wohnung in Haarlem, und die ist bereits fertig eingerichtet und hat ehrlich gesagt garnicht
+mehr soviel Platz übrig. Dementsprechend haben wir keine Wunschliste mit Dingen, die man sich
+typischerweise bei einer Hochzeit wünscht. 
+
+<img src="Picture20.png" alt="No Wishlist" style="width:300px;"/>
+
+Wenn ihr wirklich darauf besteht uns etwas zu geben, zusätzlich zu eurer Anwesenheit,
+ist tatsächlich Geld das, was wir im Moment am ehesten gebrauchen können. Ihr könnt uns
+einen Beitrag zu unseren Flitterwochen in Mexiko, an der Riviera Maya, schicken. 
+
+![Flitterwochen](Picture21.png)
 
 
-Wir wissen, wie teuer es für Sie alle ist, sich uns dafür anzuschließen
-Besonderer Moment, und dafür sind wir sehr dankbar!
-Vielleicht wäre eine schöne Karte mit einer persönlichen Nachricht eine
-Sehr schöne Erinnerung daran, dass du da bist!
+Wir wollten unsere Bankdaten nicht hier auf der Webseite veröffentlichen. Wenn ihr Paypal
+benutzt, könnt ihr unsere Email-Adressen verwenden:
 
-! [Geschenke] (Bild19.png)
-
-
-Für diejenigen, die sagen: „Hey, wir wollen es dir sowieso geben
-Etwas “und sie fragen sich, ob wir eine Hochzeitsregistrierung mit Dingen geschaffen haben, die wir für unser Zuhause brauchen, möchten wir sagen: Wir leben bereits zusammen.
-Haben Sie eine voll möblierte Wohnung und nur sehr wenig Platz übrig
-Für Objekte haben wir keine Wunschliste erstellt.
-
-<img src u003d "picture20.png" alt u003d "no wishlist" style u003d "width: 300px;"/>
-
-
-Immer noch nicht glücklich und Sie bestehen immer noch darauf, uns zu geben
-Etwas mehr als Ihre Anwesenheit oder Ihre Karte?
-Wenn Sie möchten, können Sie unseren kleinen Beitrag zu unserem leisten
-Flitterwochen in Mexiko, auf Riviera Maya,
-Im Oktober geschieht: Wir verwenden PayPal, siehe unten unsere E -Mail -Adressen.
-
-![TizianaEmail](Screenshot_2025-07-21-09-31-51-91_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Tiziana's email (hidden)](email-tiziana.png)
 
 oder
 
-![PatrickEmail](Screenshot_2025-07-21-09-31-13-11_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Patrick's email (hidden)](email-patrick.png)
 
 
-(Bitte fügen Sie eine Notiz hinzu, damit wir wissen, wer Sie sind :))
+(Bitte Betreff hinzufügen, damit wir auch wissen, wer ihr seid :) )
 
-Falls Sie kein PayPal verwenden, lassen Sie es uns über die oben genannten E-Mail-Adressen wissen, damit wir alternative Möglichkeiten besprechen können.
-
-! [Flitterwochen] (Bild21.png)
+Falls PayPal nicht euer Ding ist, schickt uns eine Email, und wir schicken euch unsere Bankdaten.
 
 
-** Wichtig: Bitte kein Geld auf
-Der Hochzeitstag! **
+**Wichtig: Bitte kein Bargeld am Hochzeitstag!**
+
+Wir heiraten in einem Hotel und möchten nicht so gerne viel Bargeld dort herumliegen haben.
