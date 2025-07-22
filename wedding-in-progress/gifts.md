@@ -25,16 +25,17 @@ Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
 happening on October: we use Paypal, see below our email addresses.
 
-TODO
+![Tiziana's email (hidden)](email-tiziana.png)
+
 
 or
 
-TODO
+![Patrick's email (hidden)](email-patrick.png)
 
 
 (please add a note so we know who you are :))
 
-In case you don't use PayPal, let us know via the email addresses above to discuss alternative ways.
+In case you don't use PayPal: let us know via the email addresses above to discuss alternative ways. (We didn't want to publish our bank details on the open web.)
 
 ![Honeymoon](Picture21.png)
 
