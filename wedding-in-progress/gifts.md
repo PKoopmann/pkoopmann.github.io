@@ -23,19 +23,9 @@ Still not happy and you still insist on giving us
 something more than your presence or your card?
 Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
-happening on October: we use Paypal, see below our email addresses.
-
-![Tiziana's email (hidden)](email-tiziana.png)
-
-
-or
-
-![Patrick's email (hidden)](email-patrick.png)
-
+happening on October: for security and privacy reasons, our details are not shared here, see email sent by Patrick on 24th of July.
 
 (please add a note so we know who you are :))
-
-In case you don't use PayPal: let us know via the email addresses above to discuss alternative ways. (We didn't want to publish our bank details on the open web.)
 
 ![Honeymoon](Picture21.png)
 
