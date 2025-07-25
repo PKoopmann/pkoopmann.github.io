@@ -35,3 +35,5 @@ For security and privacy reasons, our details are not shared here, see email sen
 
 **IMPORTANT: please no cash on
 the wedding day!**
+
+The venue is a hotel and we want to avoid to leave valuables laying around.
