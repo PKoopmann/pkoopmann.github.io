@@ -25,19 +25,9 @@ einen Beitrag zu unseren Flitterwochen in Mexiko, an der Riviera Maya, schicken.
 ![Flitterwochen](Picture21.png)
 
 
-Wir wollten unsere Bankdaten nicht hier auf der Webseite veröffentlichen. Wenn ihr Paypal
-benutzt, könnt ihr unsere Email-Adressen verwenden:
-
-![Tiziana's email (hidden)](email-tiziana.png)
-
-oder
-
-![Patrick's email (hidden)](email-patrick.png)
-
+Wir wollten unsere Bankdaten nicht hier auf der Webseite veröffentlichen. Bitte beachten die E-Mail von Patrick vom 24. Juli.
 
 (Bitte Betreff hinzufügen, damit wir auch wissen, wer ihr seid :) )
-
-Falls PayPal nicht euer Ding ist, schickt uns eine Email, und wir schicken euch unsere Bankdaten.
 
 
 **Wichtig: Bitte kein Bargeld am Hochzeitstag!**
