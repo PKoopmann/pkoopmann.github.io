@@ -1,4 +1,4 @@
-*Warnung --- KI-generiert und noch nicht ueberprueft*
+*Warnung --- mit KI übersetzt und noch nicht ueberprueft*
 
 # Places to explore in and around Haarlem
 
