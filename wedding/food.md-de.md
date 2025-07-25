@@ -27,13 +27,15 @@ Das Essen an unserem Hochzeitstag ist vielleicht nicht das, was ihr gewohnt seid
 
 #### Kinder und Jugendliche
 
-Für die Kids und Teens gibt’s ein kinderfreundliches Zwei-Gänge-Menü als Alternative zum Erwachsenen-Menü.
+Für die Kids und Teenager gibt’s ein kinderfreundliches Zwei-Gänge-Menü als Alternative zum Erwachsenen-Menü.
 
 ### Hochzeitstorte
 
+Dient quasi als Nachtisch.
+
 ### Echte Niederländische Snacks während der Party
 
-### Mitternachts-Pommes 
+### Mitternachts-Snack: Holländische Fritten
 
 \* Für alle, die uns Bescheid gesagt haben, gibt’s natürlich eine vegetarische Alternative.
 
