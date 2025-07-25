@@ -23,11 +23,14 @@ Still not happy and you still insist on giving us
 something more than your presence or your card?
 Then, if you want to, you could give a small contribution to our
 honeymoon in Mexico, on Riviera Maya,
-happening on October: for security and privacy reasons, our details are not shared here, see email sent by Patrick on 24th of July.
-
-(please add a note so we know who you are :))
+happening on October.
 
 ![Honeymoon](Picture21.png)
+
+
+For security and privacy reasons, our details are not shared here, see email sent by Patrick on 24th of July.
+
+(please add a note so we know who you are :))
 
 
 **IMPORTANT: please no cash on
