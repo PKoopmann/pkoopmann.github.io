@@ -25,3 +25,5 @@ Per motivi di sicurezza e riservatezza, i nostri dati non vengono condivisi qui.
 
 
 **IMPORTANTE: per favore niente contanti il giorno del matrimonio!**
+
+La location è un hotel e vogliamo evitare di lasciare cose di valore incustodite.
