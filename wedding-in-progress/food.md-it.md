@@ -9,7 +9,7 @@ l programma del giorno del matrimonio è il seguente:
 5. Torta seguita da festa (fino alle 24:00)
 
 
-# Banchetto
+# Vivande
 
 Il banchetto del giorno del matrimonio potrebbe non essere quello a cui siete abituati. Ecco perché pensiamo sia una buona idea condividere i dettagli con voi in anticipo.
 
