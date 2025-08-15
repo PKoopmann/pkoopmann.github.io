@@ -35,7 +35,7 @@ Taxi's kosten hier ähnlich viel wie in Deutschland – aber wenn ihr es mit ein
 
 Hier sind einige Möglichkeiten (alle haben eine App):
 
-Staxi: feste Preise nach der Buchung, ähnlich wie Uber, aber günstiger – https://www.staxi.nl/en/
+~Staxi: feste Preise nach der Buchung, ähnlich wie Uber, aber günstiger – https://www.staxi.nl/en/~ *Entgegen unserer ursprünglichen Annahme ist Staxi nicht in Haarlem verfügbar*
 
 Taxi Haarlem: Rabatte bei Vorausbuchung – https://sneleentaxi.nl/
 

@@ -33,7 +33,7 @@ If you want to use taxi, it may be not cheap, but if you share it with a few peo
 
 Here are a few options (they all have apps):
 
-- Staxi: (they have fixed prices once you book, similar to Uber but cheaper): https://www.staxi.nl/en/
+- ~Staxi: (they have fixed prices once you book, similar to Uber but cheaper): https://www.staxi.nl/en/~ *Staxi is not available in Haarlem*
 - Taxi Haarlem: (discounts if booking in advance): https://sneleentaxi.nl/
 - Uber (absolutely NOT the cheapest!): https://www.uber.com/nl/en/
 

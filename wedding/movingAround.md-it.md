@@ -31,7 +31,7 @@ Se vuoi usare il taxi, potrebbe non essere economico, ma se lo condividi con alt
 
 Ecco alcune opzioni (tutte hanno un’app):
 
-- Staxi: offre tariffe fisse al momento della prenotazione, simile a Uber ma più economico: https://www.staxi.nl/en/
+- ~Staxi: offre tariffe fisse al momento della prenotazione, simile a Uber ma più economico: https://www.staxi.nl/en/~ *Staxi non è disponibile in Haarlem.*
 
 - Taxi Haarlem: applica sconti se si prenota in anticipo: https://sneleentaxi.nl/
 
