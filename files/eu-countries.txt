@@ -1,0 +1,62 @@
+eu_country(Austria).
+eu_country(Belgium).
+eu_country(Bulgaria).
+eu_country(Croatia).
+eu_country(Cyprus).
+eu_country(Czechia).
+eu_country(Denmark).
+eu_country(Estonia).
+eu_country(Finland).
+eu_country(France).
+eu_country(Germany).
+eu_country(Greece).
+eu_country(Hungary).
+eu_country(Ireland).
+eu_country(Italy).
+eu_country(Latvia).
+eu_country(Lithuania).
+eu_country(Luxembourg).
+eu_country(Malta).
+eu_country(Netherlands).
+eu_country(Poland).
+eu_country(Portugal).
+eu_country(Romania).
+eu_country(Slovakia).
+eu_country(Slovenia).
+eu_country(Spain).
+eu_country(Sweden).
+
+landborder(Austria, Czechia).
+landborder(Austria, Germany).
+landborder(Austria, Hungary).
+landborder(Austria, Italy).
+landborder(Austria, Slovakia).
+landborder(Austria, Slovenia).
+landborder(Belgium, France).
+landborder(Belgium, Germany).
+landborder(Belgium, Luxembourg).
+landborder(Belgium, Netherlands).
+landborder(Bulgaria, Greece).
+landborder(Bulgaria, Romania).
+landborder(Croatia, Hungary).
+landborder(Croatia, Slovenia).
+landborder(Czechia, Germany).
+landborder(Czechia, Poland).
+landborder(Czechia, Slovakia).
+landborder(Denmark, Germany).
+landborder(Estonia, Latvia).
+landborder(Finland, Sweden).
+landborder(France, Germany).
+landborder(France, Italy).
+landborder(France, Luxembourg).
+landborder(France, Spain).
+landborder(Germany, Luxembourg).
+landborder(Germany, Netherlands).
+landborder(Germany, Poland).
+landborder(Hungary, Romania).
+landborder(Hungary, Slovakia).
+landborder(Italy, Slovenia).
+landborder(Latvia, Lithuania).
+landborder(Poland, Slovakia).
+landborder(Portugal, Spain).
+
