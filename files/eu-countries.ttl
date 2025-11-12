@@ -1,0 +1,70 @@
+@prefix : <http://example.org/geo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#
+# EU Countries (:EUCountry)
+#
+:Austria a :EUCountry .
+:Belgium a :EUCountry .
+:Bulgaria a :EUCountry .
+:Croatia a :EUCountry .
+:Cyprus a :EUCountry .
+:Czechia a :EUCountry .
+:Denmark a :EUCountry .
+:Estonia a :EUCountry .
+:Finland a :EUCountry .
+:France a :EUCountry .
+:Germany a :EUCountry .
+:Greece a :EUCountry .
+:Hungary a :EUCountry .
+:Ireland a :EUCountry .
+:Italy a :EUCountry .
+:Latvia a :EUCountry .
+:Lithuania a :EUCountry .
+:Luxembourg a :EUCountry .
+:Malta a :EUCountry .
+:Netherlands a :EUCountry .
+:Poland a :EUCountry .
+:Portugal a :EUCountry .
+:Romania a :EUCountry .
+:Slovakia a :EUCountry .
+:Slovenia a :EUCountry .
+:Spain a :EUCountry .
+:Sweden a :EUCountry .
+
+#
+# Land Border Relationships (:hasLandBorderWith)
+#
+:Austria :hasLandBorderWith :Czechia .
+:Austria :hasLandBorderWith :Germany .
+:Austria :hasLandBorderWith :Hungary .
+:Austria :hasLandBorderWith :Italy .
+:Austria :hasLandBorderWith :Slovakia .
+:Austria :hasLandBorderWith :Slovenia .
+:Belgium :hasLandBorderWith :France .
+:Belgium :hasLandBorderWith :Germany .
+:Belgium :hasLandBorderWith :Luxembourg .
+:Belgium :hasLandBorderWith :Netherlands .
+:Bulgaria :hasLandBorderWith :Greece .
+:Bulgaria :hasLandBorderWith :Romania .
+:Croatia :hasLandBorderWith :Hungary .
+:Croatia :hasLandBorderWith :Slovenia .
+:Czechia :hasLandBorderWith :Germany .
+:Czechia :hasLandBorderWith :Poland .
+:Czechia :hasLandBorderWith :Slovakia .
+:Denmark :hasLandBorderWith :Germany .
+:Estonia :hasLandBorderWith :Latvia .
+:Finland :hasLandBorderWith :Sweden .
+:France :hasLandBorderWith :Germany .
+:France :hasLandBorderWith :Italy .
+:France :hasLandBorderWith :Luxembourg .
+:France :hasLandBorderWith :Spain .
+:Germany :hasLandBorderWith :Luxembourg .
+:Germany :hasLandBorderWith :Netherlands .
+:Germany :hasLandBorderWith :Poland .
+:Hungary :hasLandBorderWith :Romania .
+:Hungary :hasLandBorderWith :Slovakia .
+:Italy :hasLandBorderWith :Slovenia .
+:Latvia :hasLandBorderWith :Lithuania .
+:Poland :hasLandBorderWith :Slovakia .
+:Portugal :hasLandBorderWith :Spain .

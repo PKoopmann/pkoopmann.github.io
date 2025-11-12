@@ -1,4 +1,4 @@
-eu_country(Austria).
+eu_countryAustria).
 eu_country(Belgium).
 eu_country(Bulgaria).
 eu_country(Croatia).
@@ -26,7 +26,7 @@ eu_country(Slovenia).
 eu_country(Spain).
 eu_country(Sweden).
 
-landborder(Austria, Czechia).
+land_border(Austria, Czechia).
 land_border(Austria, Germany).
 land_border(Austria, Hungary).
 land_border(Austria, Italy).
