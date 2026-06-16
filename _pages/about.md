@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-#### News
-
-![Book cover: Theory and Applications of Craig Interpolation](/images/taci_cover_400_border.png)
-
-*"Theory and Applications of Craig Interpolation"*, edited by Balder ten Cate, Jean Christoph Jung, Patrick Koopmann, Christoph Wernhard and Frank Wolter
-To appear in 2026; open access; preprints already available
-
-
-#### About me
 I am an assistant professor in the Knowledge in AI group at the Vrije
 Universiteit Amsterdam. My research interests are in knowledge
 representation, automated reasoning annd theoretical computer science,
