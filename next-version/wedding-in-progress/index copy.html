@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/slate/bulmaswatch.min.css">
+    <title>Patrick and Tiziana's Wedding</title>
+    <!-- Tailwind CSS CDN -->
+    <!--<script src="https://cdn.tailwindcss.com"></script>-->
+    <!-- Inter Font (optional, but good for consistent design) -->
+    <!--<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">-->
+    
+    
+    <!--<style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        /* Basic styling for markdown content to make it look good with Tailwind's prose */
+        .prose h1 { @apply text-4xl font-extrabold mb-4; }
+        .prose h2 { @apply text-3xl font-bold mb-3 mt-6; }
+        .prose h3 { @apply text-2xl font-semibold mb-2 mt-5; }
+        .prose p { @apply mb-4 leading-relaxed; }
+        .prose ul { @apply list-disc pl-5 mb-4; }
+        .prose ol { @apply list-decimal pl-5 mb-4; }
+        .prose li { @apply mb-1; }
+        .prose a { @apply text-blue-600 hover:underline; }
+        .prose pre { @apply bg-gray-800 text-white p-4 rounded-md overflow-x-auto; }
+        .prose code { @apply font-mono text-sm bg-gray-200 px-1 py-0.5 rounded; }
+        .prose blockquote { @apply border-l-4 border-blue-500 pl-4 italic text-gray-600; }
+        .prose table { @apply w-full border-collapse my-4; }
+        .prose th, .prose td { @apply border border-gray-300 p-2 text-left; }
+        .prose th { @apply bg-gray-100 font-semibold; }
+        .prose img { @apply max-w-full h-auto rounded-lg my-4; }
+    </style>-->
+</head>
+<body>
+    <div id="root"></div>
+
+    <!-- React and ReactDOM CDNs -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <!-- Babel CDN for in-browser JSX transformation -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- Your React App component and rendering logic -->
+    <script type="text/babel">
+        // Load marked.js from CDN
+        // This script will be available globally as 'marked'
+        const markedScript = document.createElement('script');
+        markedScript.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+        document.head.appendChild(markedScript);
+
+        let welcome = 'error loading...'
+        let gifts = 'error loading...'
+        let movingAround = 'error loading...'
+        let sample1 = "error loading..."
+
+        fetch('sample2.md')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            sample1=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
+        fetch('welcome.md')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            welcome=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
+        fetch('gifts.md')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            gifts=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
+        fetch('movingAround.md')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.text();
+        }).then(text => {
+            movingAround=text;
+        }).catch(error => {
+              console.error('Fetch error:', error);
+                    contentDisplay.textContent = 'Failed to load file content.';
+                    statusMessage.textContent = `Error: ${error.message}. Check the console for more details.`;
+        });
+
+        // Main App component
+        function App() {
+            const [currentPage, setCurrentPage] = React.useState('content1');
+            const [parsedHtml, setParsedHtml] = React.useState('');
+
+            // Function to parse Markdown and set HTML
+            const parseAndSetHtml = (markdown) => {
+                // Ensure marked.js is loaded before trying to use it
+                if (window.marked) {
+                    setParsedHtml(window.marked.parse(markdown));
+                } else {
+                    // Fallback or loading indicator if marked.js isn't ready
+                    setParsedHtml('<p>Loading Markdown parser...</p>');
+                    console.warn('marked.js not yet loaded.');
+                }
+            };
+
+            // Effect to update content when currentPage changes
+            React.useEffect(() => {
+                let contentToParse = '';
+                switch (currentPage) {
+                    case 'welcome':
+                        contentToParse = welcome;
+                        break;
+                    case 'moving-around':
+                        contentToParse = movingAround;
+                        break;
+                    case 'gifts':
+                        contentToParse = gifts;
+                        break;
+                    case 'sample1':
+                        contentToParse = sample1;
+                        break;
+                    default:
+                        contentToParse = '# Page Not Found\n\nSorry, the requested page does not exist.';
+                }
+                parseAndSetHtml(contentToParse);
+            }, [currentPage]); // Re-run when currentPage changes
+
+            // Tailwind CSS classes for common elements
+            const navLinkClasses = (page) =>
+                `px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200 ` +
+                (currentPage === page
+                    ? 'bg-blue-600 text-white shadow-md'
+                    : 'text-gray-700 hover:bg-blue-100 hover:text-blue-700');
+
+            return (
+                <div className="min-h-screen bg-gray-100 font-sans text-gray-800 flex flex-col">
+                    {/* Header and Navigation */}
+                    <header className="bg-white shadow-sm py-4 px-6 md:px-8 lg:px-12">
+                        <nav className="container mx-auto flex flex-wrap justify-center md:justify-between items-center">
+                            <h1 className="text-2xl font-bold text-blue-700 mb-4 md:mb-0">Patrick and Tiziana's Wedding</h1>
+                            <div className="flex flex-wrap gap-3">
+                                <button
+                                    className={navLinkClasses('welcome')}
+                                    onClick={() => setCurrentPage('welcome')}
+                                >
+                                    Welcome
+                                </button>
+                                <button
+                                    className={navLinkClasses('moving-around')}
+                                    onClick={() => setCurrentPage('moving-around')}
+                                >
+                                    Moving Around
+                                </button>
+                                <button
+                                    className={navLinkClasses('gifts')}
+                                    onClick={() => setCurrentPage('gifts')}
+                                >
+                                    Gifts
+                                </button>
+                                <button
+                                    className={navLinkClasses('sample1')}
+                                    onClick={() => setCurrentPage('sample1')}
+                                >
+                                    Sample 1
+                                </button>
+                            </div>
+                        </nav>
+                    </header>
+
+                    {/* Main Content Area */}
+                    <main className="flex-grow container mx-auto p-6 md:p-8 lg:p-12">
+                        <div className="bg-white rounded-lg shadow-lg p-6 md:p-8 lg:p-10 prose max-w-none">
+                            {/* Markdown content will be rendered here */}
+                            <div dangerouslySetInnerHTML={{ __html: parsedHtml }} />
+                        </div>
+                    </main>
+
+                    {/* Footer */}
+                    <footer className="bg-gray-800 text-white py-4 px-6 md:px-8 lg:px-12 text-center text-sm">
+                        <div className="container mx-auto">
+                            &copy; {new Date().getFullYear()} Patrick Koopmann and Tiziana. All rights reserved.
+                        </div>
+                    </footer>
+                </div>
+            );
+        }
+
+        // Render the React App into the 'root' div
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

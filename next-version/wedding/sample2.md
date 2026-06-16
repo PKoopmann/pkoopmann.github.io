@@ -1,0 +1,18 @@
+# Exploring Content 2
+
+This section demonstrates another markdown page.
+
+## Data Table Example:
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
+## Image Example (Placeholder):
+
+![Placeholder Image](https://placehold.co/600x400/FF5733/FFFFFF?text=Content+Image)
+
+## More Text:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
