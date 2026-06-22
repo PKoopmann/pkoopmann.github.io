@@ -33,4 +33,4 @@ The volume "Theory and Applications of Craig Interpolation", edited by me, Balde
 
 [Link](https://ubiquitypress.com/books/e/128)
 
-<img src='/images/taci_cover_400_border.png' style="width:400px;">
+<img src='/images/taci_cover_400_border.png' style="width:200px;">
