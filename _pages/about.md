@@ -29,8 +29,8 @@ topics on this page. Don't be afraid to contact me by email.
 
 ## News
 
-The volume "Theory and Applications of Craig Interpolation", edited by me, Balder ten Cate, Jean Cristoph Jung, Christoph Wernhard and Frank Wolter, will be published this year as Open Access by Ubiquity Press. Preprints of all chapters are available [here](https://cibd.bitbucket.io/taci/).
+The volume ["Theory and Applications of Craig Interpolation"](https://ubiquitypress.com/books/e/128), edited by Balder ten Cate, Jean Cristoph Jung, Christoph Wernhard, Frank Wolter and me, will be published this year as Open Access by Ubiquity Press. 
 
-[Link](https://ubiquitypress.com/books/e/128)
+[<img src='/images/taci_cover_400_border.png' style="width:200px;">](https://ubiquitypress.com/books/e/128)
 
-<img src='/images/taci_cover_400_border.png' style="width:200px;">
+Preprints of all chapters are available [here](https://cibd.bitbucket.io/taci/).
