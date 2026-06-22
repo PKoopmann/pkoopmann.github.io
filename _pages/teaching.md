@@ -5,12 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I will be giving the Knowledge Representation lecture for students in
-the Master's program for Artificial Intelligence in period 2 of
-academic year 2023/2024, as well as the Logic and Sets lecture for the
-Bachelor for Artificial Intelligence.
+I am currently teaching the following courses at the Vrije Universiteit Amsterdam:
 
+- Knowledge Representation (MSc AI) since 2023/2024
+- Formal Logic for Artificial Intelligence (BSc AI) since 2024/2025, together with Dr. Vera Stebletsova
 
+Courses I gave in the past:
+- Logic and Sets (VU Amsterdam) 2023/2024 
+- Logic-Based Ontology Engineering (TU Dresden, Germany), 2021/2022 and 2022/2023
+- Semantic Technologies (UWTH Stuttgart, Germany), 2021/2022
+- Applications of Logic for Artificial Intelligence (TU Dresden, Germany), 2021-2024 
 
 If you want to do a bachelor or master thesis, don't be afraid to send
 me an email. I have a range of topics on my webpage, and I can give
