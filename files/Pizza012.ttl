@@ -1,0 +1,850 @@
+@prefix : <http://www.co-ode.org/ontologies/pizza/pizza.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+: a owl:Ontology .
+
+:hasTopping a owl:ObjectProperty ;
+    rdfs:domain :Pizza ;
+    rdfs:range :Topping .
+
+:pizza1 a :Pizza ;
+    rdfs:label "pizza1" ;
+    :hasTopping :cheese4,
+        :meat11,
+        :meat5,
+        :veg16 .
+
+:pizza10 a :Pizza ;
+    rdfs:label "pizza10" ;
+    :hasTopping :cheese5,
+        :meat2,
+        :meat4,
+        :meat9,
+        :veg16,
+        :veg19 .
+
+:pizza100 a :Pizza ;
+    rdfs:label "pizza100" ;
+    :hasTopping :cheese3,
+        :meat8,
+        :veg21 .
+
+:pizza11 a :Pizza ;
+    rdfs:label "pizza11" ;
+    :hasTopping :cheese2,
+        :meat7,
+        :veg11,
+        :veg17 .
+
+:pizza12 a :Pizza ;
+    rdfs:label "pizza12" ;
+    :hasTopping :cheese1,
+        :cheese3,
+        :cheese8,
+        :meat1,
+        :meat9,
+        :veg15 .
+
+:pizza13 a :Pizza ;
+    rdfs:label "pizza13" ;
+    :hasTopping :cheese2,
+        :meat12,
+        :veg21 .
+
+:pizza14 a :Pizza ;
+    rdfs:label "pizza14" ;
+    :hasTopping :cheese3,
+        :meat11,
+        :meat8,
+        :meat9,
+        :veg3 .
+
+:pizza15 a :Pizza ;
+    rdfs:label "pizza15" ;
+    :hasTopping :cheese5,
+        :meat8,
+        :veg10,
+        :veg19,
+        :veg21 .
+
+:pizza16 a :Pizza ;
+    rdfs:label "pizza16" ;
+    :hasTopping :cheese4,
+        :veg11,
+        :veg9 .
+
+:pizza17 a :Pizza ;
+    rdfs:label "pizza17" ;
+    :hasTopping :cheese7,
+        :veg8 .
+
+:pizza18 a :Pizza ;
+    rdfs:label "pizza18" ;
+    :hasTopping :cheese5,
+        :cheese8,
+        :meat1,
+        :meat9,
+        :veg3 .
+
+:pizza19 a :Pizza ;
+    rdfs:label "pizza19" ;
+    :hasTopping :cheese8,
+        :meat10,
+        :meat9,
+        :veg3,
+        :veg7 .
+
+:pizza2 a :Pizza ;
+    rdfs:label "pizza2" ;
+    :hasTopping :cheese4,
+        :cheese8,
+        :veg2,
+        :veg4 .
+
+:pizza20 a :Pizza ;
+    rdfs:label "pizza20" ;
+    :hasTopping :cheese3,
+        :cheese5,
+        :meat12 .
+
+:pizza21 a :Pizza ;
+    rdfs:label "pizza21" ;
+    :hasTopping :cheese4,
+        :meat6,
+        :veg1,
+        :veg5 .
+
+:pizza22 a :Pizza ;
+    rdfs:label "pizza22" ;
+    :hasTopping :cheese8,
+        :meat10,
+        :veg14,
+        :veg24 .
+
+:pizza23 a :Pizza ;
+    rdfs:label "pizza23" ;
+    :hasTopping :cheese5,
+        :meat6 .
+
+:pizza24 a :Pizza ;
+    rdfs:label "pizza24" ;
+    :hasTopping :cheese6,
+        :veg12 .
+
+:pizza25 a :Pizza ;
+    rdfs:label "pizza25" ;
+    :hasTopping :cheese2,
+        :cheese6,
+        :cheese8,
+        :meat12,
+        :veg24 .
+
+:pizza26 a :Pizza ;
+    rdfs:label "pizza26" ;
+    :hasTopping :cheese1,
+        :meat9,
+        :veg15,
+        :veg19 .
+
+:pizza27 a :Pizza ;
+    rdfs:label "pizza27" ;
+    :hasTopping :cheese5,
+        :meat12,
+        :meat2,
+        :meat3,
+        :veg13,
+        :veg6 .
+
+:pizza28 a :Pizza ;
+    rdfs:label "pizza28" ;
+    :hasTopping :cheese6,
+        :meat4 .
+
+:pizza29 a :Pizza ;
+    rdfs:label "pizza29" ;
+    :hasTopping :cheese3,
+        :cheese8,
+        :meat10,
+        :meat6,
+        :meat9,
+        :veg4 .
+
+:pizza3 a :Pizza ;
+    rdfs:label "pizza3" ;
+    :hasTopping :cheese3,
+        :cheese7,
+        :meat1 .
+
+:pizza30 a :Pizza ;
+    rdfs:label "pizza30" ;
+    :hasTopping :cheese3,
+        :cheese5,
+        :meat5,
+        :veg18,
+        :veg6,
+        :veg9 .
+
+:pizza31 a :Pizza ;
+    rdfs:label "pizza31" ;
+    :hasTopping :cheese4,
+        :cheese8,
+        :meat11,
+        :veg13,
+        :veg2,
+        :veg6 .
+
+:pizza32 a :Pizza ;
+    rdfs:label "pizza32" ;
+    :hasTopping :cheese1,
+        :cheese3 .
+
+:pizza33 a :Pizza ;
+    rdfs:label "pizza33" ;
+    :hasTopping :cheese4,
+        :cheese6,
+        :meat7,
+        :veg1,
+        :veg13 .
+
+:pizza34 a :Pizza ;
+    rdfs:label "pizza34" ;
+    :hasTopping :cheese7,
+        :meat8 .
+
+:pizza35 a :Pizza ;
+    rdfs:label "pizza35" ;
+    :hasTopping :cheese1,
+        :cheese3,
+        :cheese8 .
+
+:pizza36 a :Pizza ;
+    rdfs:label "pizza36" ;
+    :hasTopping :cheese5,
+        :meat10,
+        :veg23 .
+
+:pizza37 a :Pizza ;
+    rdfs:label "pizza37" ;
+    :hasTopping :cheese2,
+        :cheese6,
+        :cheese8,
+        :veg6 .
+
+:pizza38 a :Pizza ;
+    rdfs:label "pizza38" ;
+    :hasTopping :cheese2,
+        :meat4 .
+
+:pizza39 a :Pizza ;
+    rdfs:label "pizza39" ;
+    :hasTopping :cheese7,
+        :meat8,
+        :veg16,
+        :veg2 .
+
+:pizza4 a :Pizza ;
+    rdfs:label "pizza4" ;
+    :hasTopping :cheese2,
+        :cheese4,
+        :veg15,
+        :veg16,
+        :veg23 .
+
+:pizza40 a :Pizza ;
+    rdfs:label "pizza40" ;
+    :hasTopping :cheese4,
+        :cheese7,
+        :cheese8,
+        :meat12,
+        :veg17,
+        :veg2 .
+
+:pizza41 a :Pizza ;
+    rdfs:label "pizza41" ;
+    :hasTopping :cheese7,
+        :meat1,
+        :meat2,
+        :meat4,
+        :veg11,
+        :veg6 .
+
+:pizza42 a :Pizza ;
+    rdfs:label "pizza42" ;
+    :hasTopping :cheese2,
+        :cheese4,
+        :cheese8,
+        :meat1,
+        :veg1 .
+
+:pizza43 a :Pizza ;
+    rdfs:label "pizza43" ;
+    :hasTopping :cheese2,
+        :meat11,
+        :veg11 .
+
+:pizza44 a :Pizza ;
+    rdfs:label "pizza44" ;
+    :hasTopping :cheese8,
+        :meat6,
+        :veg14,
+        :veg18,
+        :veg6 .
+
+:pizza45 a :Pizza ;
+    rdfs:label "pizza45" ;
+    :hasTopping :cheese4,
+        :veg2 .
+
+:pizza46 a :Pizza ;
+    rdfs:label "pizza46" ;
+    :hasTopping :cheese2,
+        :cheese8,
+        :meat10,
+        :meat2,
+        :meat3 .
+
+:pizza47 a :Pizza ;
+    rdfs:label "pizza47" ;
+    :hasTopping :cheese5,
+        :meat11,
+        :meat8 .
+
+:pizza48 a :Pizza ;
+    rdfs:label "pizza48" ;
+    :hasTopping :cheese3,
+        :meat12 .
+
+:pizza49 a :Pizza ;
+    rdfs:label "pizza49" ;
+    :hasTopping :cheese1,
+        :meat6 .
+
+:pizza5 a :Pizza ;
+    rdfs:label "pizza5" ;
+    :hasTopping :cheese1,
+        :cheese5,
+        :veg1,
+        :veg15,
+        :veg3 .
+
+:pizza50 a :Pizza ;
+    rdfs:label "pizza50" ;
+    :hasTopping :cheese4,
+        :cheese6,
+        :meat11,
+        :meat9,
+        :veg16,
+        :veg9 .
+
+:pizza51 a :Pizza ;
+    rdfs:label "pizza51" ;
+    :hasTopping :cheese5,
+        :meat8 .
+
+:pizza52 a :Pizza ;
+    rdfs:label "pizza52" ;
+    :hasTopping :cheese5,
+        :cheese6,
+        :veg23,
+        :veg7 .
+
+:pizza53 a :Pizza ;
+    rdfs:label "pizza53" ;
+    :hasTopping :cheese2,
+        :cheese7,
+        :cheese8,
+        :meat12,
+        :meat5,
+        :meat8 .
+
+:pizza54 a :Pizza ;
+    rdfs:label "pizza54" ;
+    :hasTopping :cheese8,
+        :meat7,
+        :meat9,
+        :veg16,
+        :veg17,
+        :veg22 .
+
+:pizza55 a :Pizza ;
+    rdfs:label "pizza55" ;
+    :hasTopping :cheese5,
+        :cheese6,
+        :meat5,
+        :meat6,
+        :veg15,
+        :veg18 .
+
+:pizza56 a :Pizza ;
+    rdfs:label "pizza56" ;
+    :hasTopping :cheese6,
+        :veg1 .
+
+:pizza57 a :Pizza ;
+    rdfs:label "pizza57" ;
+    :hasTopping :cheese6,
+        :meat7 .
+
+:pizza58 a :Pizza ;
+    rdfs:label "pizza58" ;
+    :hasTopping :cheese2,
+        :cheese7,
+        :meat6,
+        :veg13 .
+
+:pizza59 a :Pizza ;
+    rdfs:label "pizza59" ;
+    :hasTopping :cheese5,
+        :meat5 .
+
+:pizza6 a :Pizza ;
+    rdfs:label "pizza6" ;
+    :hasTopping :cheese1,
+        :cheese2 .
+
+:pizza60 a :Pizza ;
+    rdfs:label "pizza60" ;
+    :hasTopping :cheese6,
+        :cheese8,
+        :veg1,
+        :veg12,
+        :veg20 .
+
+:pizza61 a :Pizza ;
+    rdfs:label "pizza61" ;
+    :hasTopping :cheese6,
+        :cheese8,
+        :meat11,
+        :meat3,
+        :meat4 .
+
+:pizza62 a :Pizza ;
+    rdfs:label "pizza62" ;
+    :hasTopping :cheese6,
+        :meat6,
+        :veg20 .
+
+:pizza63 a :Pizza ;
+    rdfs:label "pizza63" ;
+    :hasTopping :cheese3,
+        :meat1,
+        :meat8,
+        :veg18,
+        :veg20,
+        :veg5 .
+
+:pizza64 a :Pizza ;
+    rdfs:label "pizza64" ;
+    :hasTopping :cheese7,
+        :cheese8,
+        :veg7 .
+
+:pizza65 a :Pizza ;
+    rdfs:label "pizza65" ;
+    :hasTopping :cheese3,
+        :cheese7,
+        :meat2,
+        :veg5 .
+
+:pizza66 a :Pizza ;
+    rdfs:label "pizza66" ;
+    :hasTopping :cheese8,
+        :meat11 .
+
+:pizza67 a :Pizza ;
+    rdfs:label "pizza67" ;
+    :hasTopping :cheese1,
+        :cheese3,
+        :cheese8,
+        :meat11,
+        :veg2 .
+
+:pizza68 a :Pizza ;
+    rdfs:label "pizza68" ;
+    :hasTopping :cheese1,
+        :cheese7 .
+
+:pizza69 a :Pizza ;
+    rdfs:label "pizza69" ;
+    :hasTopping :cheese4,
+        :cheese7,
+        :veg13,
+        :veg16,
+        :veg23,
+        :veg5 .
+
+:pizza7 a :Pizza ;
+    rdfs:label "pizza7" ;
+    :hasTopping :cheese2,
+        :veg3 .
+
+:pizza70 a :Pizza ;
+    rdfs:label "pizza70" ;
+    :hasTopping :cheese7,
+        :meat3,
+        :veg23,
+        :veg7 .
+
+:pizza71 a :Pizza ;
+    rdfs:label "pizza71" ;
+    :hasTopping :cheese1,
+        :cheese7 .
+
+:pizza72 a :Pizza ;
+    rdfs:label "pizza72" ;
+    :hasTopping :cheese6,
+        :meat9 .
+
+:pizza73 a :Pizza ;
+    rdfs:label "pizza73" ;
+    :hasTopping :cheese4,
+        :cheese5,
+        :meat3,
+        :meat7,
+        :veg8 .
+
+:pizza74 a :Pizza ;
+    rdfs:label "pizza74" ;
+    :hasTopping :cheese2,
+        :meat12,
+        :veg12,
+        :veg3,
+        :veg7 .
+
+:pizza75 a :Pizza ;
+    rdfs:label "pizza75" ;
+    :hasTopping :cheese1,
+        :meat4,
+        :meat8,
+        :veg12,
+        :veg18,
+        :veg24 .
+
+:pizza76 a :Pizza ;
+    rdfs:label "pizza76" ;
+    :hasTopping :cheese1,
+        :cheese6,
+        :meat10,
+        :meat3,
+        :meat9,
+        :veg14 .
+
+:pizza77 a :Pizza ;
+    rdfs:label "pizza77" ;
+    :hasTopping :cheese1,
+        :cheese7,
+        :meat11,
+        :meat6,
+        :veg6,
+        :veg7 .
+
+:pizza78 a :Pizza ;
+    rdfs:label "pizza78" ;
+    :hasTopping :cheese2,
+        :cheese6,
+        :cheese7,
+        :meat1,
+        :veg5 .
+
+:pizza79 a :Pizza ;
+    rdfs:label "pizza79" ;
+    :hasTopping :cheese1,
+        :cheese2,
+        :meat10,
+        :meat2,
+        :veg17,
+        :veg6 .
+
+:pizza8 a :Pizza ;
+    rdfs:label "pizza8" ;
+    :hasTopping :cheese1,
+        :cheese3,
+        :cheese4 .
+
+:pizza80 a :Pizza ;
+    rdfs:label "pizza80" ;
+    :hasTopping :cheese2,
+        :cheese3 .
+
+:pizza81 a :Pizza ;
+    rdfs:label "pizza81" ;
+    :hasTopping :cheese5,
+        :cheese8,
+        :veg1 .
+
+:pizza82 a :Pizza ;
+    rdfs:label "pizza82" ;
+    :hasTopping :cheese3,
+        :cheese8,
+        :meat11,
+        :veg24,
+        :veg7 .
+
+:pizza83 a :Pizza ;
+    rdfs:label "pizza83" ;
+    :hasTopping :cheese6,
+        :cheese8,
+        :meat8 .
+
+:pizza84 a :Pizza ;
+    rdfs:label "pizza84" ;
+    :hasTopping :cheese2,
+        :cheese3,
+        :cheese6,
+        :meat10,
+        :veg21,
+        :veg7 .
+
+:pizza85 a :Pizza ;
+    rdfs:label "pizza85" ;
+    :hasTopping :cheese5,
+        :meat5 .
+
+:pizza86 a :Pizza ;
+    rdfs:label "pizza86" ;
+    :hasTopping :cheese1,
+        :cheese2,
+        :meat2 .
+
+:pizza87 a :Pizza ;
+    rdfs:label "pizza87" ;
+    :hasTopping :cheese1,
+        :cheese6,
+        :meat6,
+        :veg13 .
+
+:pizza88 a :Pizza ;
+    rdfs:label "pizza88" ;
+    :hasTopping :cheese2,
+        :cheese6,
+        :veg6 .
+
+:pizza89 a :Pizza ;
+    rdfs:label "pizza89" ;
+    :hasTopping :cheese2,
+        :cheese4,
+        :cheese5,
+        :meat3,
+        :veg1 .
+
+:pizza9 a :Pizza ;
+    rdfs:label "pizza9" ;
+    :hasTopping :cheese6,
+        :meat6,
+        :veg12 .
+
+:pizza90 a :Pizza ;
+    rdfs:label "pizza90" ;
+    :hasTopping :cheese1,
+        :veg21 .
+
+:pizza91 a :Pizza ;
+    rdfs:label "pizza91" ;
+    :hasTopping :cheese4,
+        :meat11,
+        :meat7,
+        :veg5 .
+
+:pizza92 a :Pizza ;
+    rdfs:label "pizza92" ;
+    :hasTopping :cheese6,
+        :meat12,
+        :veg13,
+        :veg16,
+        :veg9 .
+
+:pizza93 a :Pizza ;
+    rdfs:label "pizza93" ;
+    :hasTopping :cheese6,
+        :meat11,
+        :veg16,
+        :veg18,
+        :veg5 .
+
+:pizza94 a :Pizza ;
+    rdfs:label "pizza94" ;
+    :hasTopping :cheese1,
+        :veg14 .
+
+:pizza95 a :Pizza ;
+    rdfs:label "pizza95" ;
+    :hasTopping :cheese5,
+        :meat10,
+        :meat4,
+        :veg19,
+        :veg22,
+        :veg24 .
+
+:pizza96 a :Pizza ;
+    rdfs:label "pizza96" ;
+    :hasTopping :cheese4,
+        :cheese8 .
+
+:pizza97 a :Pizza ;
+    rdfs:label "pizza97" ;
+    :hasTopping :cheese2,
+        :cheese6 .
+
+:pizza98 a :Pizza ;
+    rdfs:label "pizza98" ;
+    :hasTopping :cheese1,
+        :cheese5 .
+
+:pizza99 a :Pizza ;
+    rdfs:label "pizza99" ;
+    :hasTopping :cheese4,
+        :meat4,
+        :meat9,
+        :veg9 .
+
+:veg10 a :VegetableTopping ;
+    rdfs:label "veg10" .
+
+:veg22 a :VegetableTopping ;
+    rdfs:label "veg22" .
+
+:veg4 a :VegetableTopping ;
+    rdfs:label "veg4" .
+
+:veg8 a :VegetableTopping ;
+    rdfs:label "veg8" .
+
+:Topping a owl:Class .
+
+:veg20 a :VegetableTopping ;
+    rdfs:label "veg20" .
+
+:veg11 a :VegetableTopping ;
+    rdfs:label "veg11" .
+
+:veg14 a :VegetableTopping ;
+    rdfs:label "veg14" .
+
+:veg17 a :VegetableTopping ;
+    rdfs:label "veg17" .
+
+:veg19 a :VegetableTopping ;
+    rdfs:label "veg19" .
+
+:veg12 a :VegetableTopping ;
+    rdfs:label "veg12" .
+
+:veg15 a :VegetableTopping ;
+    rdfs:label "veg15" .
+
+:veg21 a :VegetableTopping ;
+    rdfs:label "veg21" .
+
+:veg23 a :VegetableTopping ;
+    rdfs:label "veg23" .
+
+:veg24 a :VegetableTopping ;
+    rdfs:label "veg24" .
+
+:veg9 a :VegetableTopping ;
+    rdfs:label "veg9" .
+
+:meat5 a :MeatTopping ;
+    rdfs:label "meat5" .
+
+:meat7 a :MeatTopping ;
+    rdfs:label "meat7" .
+
+:veg18 a :VegetableTopping ;
+    rdfs:label "veg18" .
+
+:veg2 a :VegetableTopping ;
+    rdfs:label "veg2" .
+
+:veg3 a :VegetableTopping ;
+    rdfs:label "veg3" .
+
+:CheeseTopping a owl:Class ;
+    rdfs:subClassOf :Topping .
+
+:meat1 a :MeatTopping ;
+    rdfs:label "meat1" .
+
+:meat2 a :MeatTopping ;
+    rdfs:label "meat2" .
+
+:meat3 a :MeatTopping ;
+    rdfs:label "meat3" .
+
+:veg13 a :VegetableTopping ;
+    rdfs:label "veg13" .
+
+:veg5 a :VegetableTopping ;
+    rdfs:label "veg5" .
+
+:meat4 a :MeatTopping ;
+    rdfs:label "meat4" .
+
+:veg1 a :VegetableTopping ;
+    rdfs:label "veg1" .
+
+:veg7 a :VegetableTopping ;
+    rdfs:label "veg7" .
+
+:meat10 a :MeatTopping ;
+    rdfs:label "meat10" .
+
+:meat12 a :MeatTopping ;
+    rdfs:label "meat12" .
+
+:veg16 a :VegetableTopping ;
+    rdfs:label "veg16" .
+
+:veg6 a :VegetableTopping ;
+    rdfs:label "veg6" .
+
+:MeatTopping a owl:Class ;
+    rdfs:subClassOf :Topping .
+
+:meat6 a :MeatTopping ;
+    rdfs:label "meat6" .
+
+:meat8 a :MeatTopping ;
+    rdfs:label "meat8" .
+
+:meat9 a :MeatTopping ;
+    rdfs:label "meat9" .
+
+:meat11 a :MeatTopping ;
+    rdfs:label "meat11" .
+
+:cheese7 a :CheeseTopping ;
+    rdfs:label "cheese7" .
+
+:cheese3 a :CheeseTopping ;
+    rdfs:label "cheese3" .
+
+:cheese4 a :CheeseTopping ;
+    rdfs:label "cheese4" .
+
+:cheese1 a :CheeseTopping ;
+    rdfs:label "cheese1" .
+
+:cheese5 a :CheeseTopping ;
+    rdfs:label "cheese5" .
+
+:cheese2 a :CheeseTopping ;
+    rdfs:label "cheese2" .
+
+:VegetableTopping a owl:Class ;
+    rdfs:subClassOf :Topping .
+
+:cheese6 a :CheeseTopping ;
+    rdfs:label "cheese6" .
+
+:cheese8 a :CheeseTopping ;
+    rdfs:label "cheese8" .
+
+:Pizza a owl:Class .
+
+[] a owl:AllDifferent ;
+    rdfs:label "All toppings are distinct" ;
+    owl:members ( :veg1 :veg2 :veg3 :veg4 :veg5 :veg6 :veg7 :veg8 :veg9 :veg10 :veg11 :veg12 :veg13 :veg14 :veg15 :veg16 :veg17 :veg18 :veg19 :veg20 :veg21 :veg22 :veg23 :veg24 :meat1 :meat2 :meat3 :meat4 :meat5 :meat6 :meat7 :meat8 :meat9 :meat10 :meat11 :meat12 :cheese1 :cheese2 :cheese3 :cheese4 :cheese5 :cheese6 :cheese7 :cheese8 ) .
+
