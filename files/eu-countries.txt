@@ -1,4 +1,4 @@
-eu_countryAustria).
+eu_country(Austria).
 eu_country(Belgium).
 eu_country(Bulgaria).
 eu_country(Croatia).

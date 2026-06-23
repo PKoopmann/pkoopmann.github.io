@@ -21,27 +21,16 @@ at The University of Manchester. Afterwards, I worked as postdoctocal
 researcher at the University of Oxford as well as at the Technical
 University of Dresden. 
 
-Currently, one important research focus of mine is explainability: In particular,
-how to explain results produced by a description logic reasoner. Why
-was something derived? Why was something else not derived? How do I
-have to fix my ontology/my data so that I get the expected result? In
-order to approach these problems, I am investigating explanation
-techniques such as proofs, counterinterpretations and abduction, both
-from the perspective of theoretical computer science (decidability and
-complexity) and from a practical perspective (how to implement
-efficient and usable algorithms to produce these
-explanations). To bring the developed techniques to the user, and
-actually improve their ontology development experience, I am involved
-in the development of graphical frontends of these algorithms, which
-take the form of web applications and plugins for ontology editors.
-
-Other research topics I am interested in are learning of concept
-descriptions, ontology modularization and forgetting,
-ontology-mediated query answering, probabilistic and temporal
-extensions of description logics and query answering, as well as
-integrations of ontologies into other formalisms such as automated
-planning or probabilistic model checking. 
+My research evolves around foundational topics in knowledge representation and computational logic, considering both theoretical results and practical implementations. Research topics include explanations of logical reasoning, abductive reasoning, Craig interpolation, temporal and probabilistic logics, inconsistency-tolerant reasoning, integrating ontologies into other formalisms, and knowledge base repairs.
 
 If you are a master student at the VU Amsterdam and want to write a
 Bachelor or Master thesis with me, you can find a list of current
 topics on this page. Don't be afraid to contact me by email.
+
+## News
+
+The volume ["Theory and Applications of Craig Interpolation"](https://ubiquitypress.com/books/e/128), edited by Balder ten Cate, Jean Cristoph Jung, Christoph Wernhard, Frank Wolter and me, will be published this year as Open Access by Ubiquity Press. 
+
+[<img src='/images/taci_cover_400_border.png' style="width:200px;">](https://ubiquitypress.com/books/e/128)
+
+Preprints of all chapters are available [here](https://cibd.bitbucket.io/taci/).
