@@ -21,7 +21,7 @@ at The University of Manchester. Afterwards, I worked as postdoctocal
 researcher at the University of Oxford as well as at the Technical
 University of Dresden. 
 
-My research evolves around foundational topics in knowledge representation and computational logic, considering both theoretical results and practical implementations. Research topics include explanations of logical reasoning, abductive reasoning, Craig interpolation, temporal and probabilistic logics, inconsistency-tolerant reasoning, integrating ontologies into other formalisms, and knowledge base repairs.
+My research revolves around foundational topics in knowledge representation and computational logic, considering both theoretical results and practical implementations. Research topics include explanations of logical reasoning, abductive reasoning, Craig interpolation, temporal and probabilistic logics, inconsistency-tolerant reasoning, integrating ontologies into other formalisms, and knowledge base repairs.
 
 If you are a master student at the VU Amsterdam and want to write a
 Bachelor or Master thesis with me, you can find a list of current
