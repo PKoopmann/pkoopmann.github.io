@@ -1,13 +1,6 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+# Bibliography of Patrick Koopmann
 
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NvNt7roAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>,</u> as well as on <u><a href="https://dblp.org/pid/33/10169.html">DBLP</a>.</u>
-
-
+> Source: [DBLP](https://dblp.org/pid/33/10169.html)  
 > **105 publications** across 15 years
 
 ## 2026
