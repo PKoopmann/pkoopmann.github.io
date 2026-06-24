@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NvNt7roAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>,</u> as well as on <u><a href="https://dblp.org/pid/33/10169.html">DBLP</a>.</u>
 
 
-> **105 publications** across 15 years
+> **105 publications** across 15 years (last updated 24/06/2026)
 
 ## 2026
 
@@ -17,12 +17,12 @@ author_profile: true
 
 ## 2025
 
+- Lidia Tendera, Yazmín Ibáñez-García, and Patrick Koopmann: [Proceedings of the 38th International Workshop on Description Logics - DL 2025, Opole, Poland, September 3-6, 2025](https://ceur-ws.org/Vol-4091). *DL*, 2025. *Edited Proceedings.*
 - Franz Baader, Stefan Borgwardt, Filippo De Bortoli, and Patrick Koopmann: [Concrete Domains Meet Expressive Cardinality Restrictions in Description Logics](https://doi.org/10.1007/978-3-031-99984-0_35). In *CADE*: 676-695, 2025. *Conference / Workshop Paper.*
 - Franz Baader, Stefan Borgwardt, Filippo De Bortoli, and Patrick Koopmann: [Concrete Domains Meet Expressive Cardinality Restrictions in Description Logics (Extended Abstract)](https://ceur-ws.org/Vol-4091/paper20.pdf). In *DL*, 2025. *Conference / Workshop Paper.*
 - Ruud van Bakel, Michael Cochez, and Patrick Koopmann: [Towards Conceptual Clustering in EL with Simulation Graphs](https://ceur-ws.org/Vol-4091/paper07.pdf). In *DL*, 2025. *Conference / Workshop Paper.*
 - Anselm Haak, Patrick Koopmann, Yasir Mahmood, and Anni-Yasmin Turhan: [Why not? Developing ABox Abduction Beyond Repairs](https://ceur-ws.org/Vol-4091/paper25.pdf). In *DL*, 2025. *Conference / Workshop Paper.*
 - Patrick Koopmann: [Explaining Reasoning Results for Description Logic Ontologies (Invited Paper)](https://doi.org/10.4230/OASIcs.RW.2024/2025.6). In *RW*: 6:1-6:29, 2025. *Conference / Workshop Paper.*
-- Lidia Tendera, Yazmín Ibáñez-García, and Patrick Koopmann: [Proceedings of the 38th International Workshop on Description Logics - DL 2025, Opole, Poland, September 3-6, 2025](https://ceur-ws.org/Vol-4091). *DL*, 2025. *Edited Proceedings.*
 - Franz Baader, Stefan Borgwardt, Filippo De Bortoli, and Patrick Koopmann: [Concrete Domains Meet Expressive Cardinality Restrictions in Description Logics (Extended Version)](https://doi.org/10.48550/arXiv.2505.21103). *CoRR* abs/2505.21103, 2025. *Preprint.*
 - Anselm Haak, Patrick Koopmann, Yasir Mahmood, and Anni-Yasmin Turhan: [Why not? Developing ABox Abduction beyond Repairs](https://doi.org/10.48550/arXiv.2507.21955). *CoRR* abs/2507.21955, 2025. *Preprint.*
 - Patrick Koopmann, Christoph Wernhard, and Frank Wolter: [Interpolation in Classical Propositional Logic](https://doi.org/10.48550/arXiv.2508.11449). *CoRR* abs/2508.11449, 2025. *Preprint.*
@@ -57,8 +57,8 @@ author_profile: true
 
 ## 2022
 
-- Franz Baader, Patrick Koopmann, Friedrich Michel, Anni-Yasmin Turhan, and Benjamin Zarrieß: [Efficient TBox Reasoning with Value Restrictions using the ℱℒ](https://doi.org/10.1017/S1471068421000466). *Theory Pract. Log. Program.* 22(2): 162-192, 2022. *Journal Article.*
-- Fajar Haifani, Patrick Koopmann, Sophie Tourret, and Christoph Weidenbach: [Connection-Minimal Abduction in ](https://doi.org/10.1007/978-3-031-10769-6_12). In *IJCAR*: 188-207, 2022. *Conference / Workshop Paper.*
+- Franz Baader, Patrick Koopmann, Friedrich Michel, Anni-Yasmin Turhan, and Benjamin Zarrieß: [Efficient TBox Reasoning with Value Restrictions using the ℱℒ0er Reasoner](https://doi.org/10.1017/S1471068421000466). *Theory Pract. Log. Program.* 22(2): 162-192, 2022. *Journal Article.*
+- Fajar Haifani, Patrick Koopmann, Sophie Tourret, and Christoph Weidenbach: [Connection-Minimal Abduction in EL](https://doi.org/10.1007/978-3-031-10769-6_12). In *IJCAR*: 188-207, 2022. *Conference / Workshop Paper.*
 - Christian Alrabbaa, Franz Baader, Stefan Borgwardt, Raimund Dachselt, Patrick Koopmann, and Julián Méndez: [Evonne: Interactive Proof Visualization for Description Logics (System Description)](https://doi.org/10.1007/978-3-031-10769-6_16). In *IJCAR*: 271-280, 2022. *Conference / Workshop Paper.*
 - Christian Alrabbaa, Stefan Borgwardt, Tom Friese, Patrick Koopmann, Julián Méndez, and Alexej Popovic: [On the Eve of True Explainability for OWL Ontologies: Description Logic Proofs with Evee and Evonne](https://ceur-ws.org/Vol-3263/paper-2.pdf). In *Description Logics*, 2022. *Conference / Workshop Paper.*
 - Christian Alrabbaa, Stefan Borgwardt, Patrick Koopmann, and Alisa Kovtunova: [Finding Good Proofs for Answers to Conjunctive Queries Mediated by Lightweight Ontologies](https://ceur-ws.org/Vol-3263/paper-3.pdf). In *Description Logics*, 2022. *Conference / Workshop Paper.*
@@ -87,7 +87,7 @@ author_profile: true
 - Patrick Koopmann: [Signature-Based ABox Abduction in ALC is Hard](https://ceur-ws.org/Vol-3009/paper3.pdf). In *SOQE@KR*: 61-74, 2021. *Conference / Workshop Paper.*
 - Christian Alrabbaa, Franz Baader, Stefan Borgwardt, Patrick Koopmann, and Alisa Kovtunova: [Finding Good Proofs for Description Logic Entailments Using Recursive Quality Measures (Extended Technical Report)](https://arxiv.org/abs/2104.13138). *CoRR* abs/2104.13138, 2021. *Preprint.*
 - Patrick Koopmann: [Signature-Based Abduction with Fresh Individuals and Complex Concepts for Description Logics (Extended Version)](https://arxiv.org/abs/2105.00274). *CoRR* abs/2105.00274, 2021. *Preprint.*
-- Franz Baader, Patrick Koopmann, Friedrich Michel, Anni-Yasmin Turhan, and Benjamin Zarrieß: [Efficient TBox Reasoning with Value Restrictions using the ℱℒ](https://arxiv.org/abs/2107.12877). *CoRR* abs/2107.12877, 2021. *Preprint.*
+- Franz Baader, Patrick Koopmann, Friedrich Michel, Anni-Yasmin Turhan, and Benjamin Zarrieß: [Efficient TBox Reasoning with Value Restrictions using the ℱℒ0er reasoner](https://arxiv.org/abs/2107.12877). *CoRR* abs/2107.12877, 2021. *Preprint.*
 
 ## 2020
 
@@ -124,14 +124,14 @@ author_profile: true
 
 ## 2017
 
+- Patrick Koopmann, Sebastian Rudolph, Renate A. Schmidt, and Christoph Wernhard: [Proceedings of the Workshop on Second-Order Quantifier Elimination and Related Topics (SOQE 2017), Dresden, Germany, December 6-8, 2017](https://ceur-ws.org/Vol-2013). *SOQE*, 2017. *Edited Proceedings.*
 - Nadeschda Nikitina, and Patrick Koopmann: [Small Is Beautiful: Computing Minimal Equivalent EL Concepts](https://doi.org/10.1609/aaai.v31i1.10684). In *AAAI*: 1206-1212, 2017. *Conference / Workshop Paper.*
 - Franz Baader, Stefan Borgwardt, Patrick Koopmann, Ana Ozaki, and Veronika Thost: [Metric Temporal Description Logics with Interval-Rigid Names (Extended Abstract)](https://ceur-ws.org/Vol-1879/paper20.pdf). In *Description Logics*, 2017. *Conference / Workshop Paper.*
 - Franz Baader, Patrick Koopmann, and Anni-Yasmin Turhan: [Using Ontologies to Query Probabilistic Numerical Data (Extended Abstract)](https://ceur-ws.org/Vol-1879/paper40.pdf). In *Description Logics*, 2017. *Conference / Workshop Paper.*
 - Franz Baader, Stefan Borgwardt, Patrick Koopmann, Ana Ozaki, and Veronika Thost: [Metric Temporal Description Logics with Interval-Rigid Names](https://doi.org/10.1007/978-3-319-66167-4_4). In *FroCoS*: 60-76, 2017. *Conference / Workshop Paper.*
 - Franz Baader, Patrick Koopmann, and Anni-Yasmin Turhan: [Using Ontologies to Query Probabilistic Numerical Data](https://doi.org/10.1007/978-3-319-66167-4_5). In *FroCoS*: 77-94, 2017. *Conference / Workshop Paper.*
 - Patrick Koopmann, Marcus Hähnel, and Anni-Yasmin Turhan: [Energy-Efficiency of OWL Reasoners - Frequency Matters](https://doi.org/10.1007/978-3-319-70682-5_6). In *JIST*: 86-101, 2017. *Conference / Workshop Paper.*
-- Patrick Koopmann, and Jieying Chen: [Computing ALCH](https://ceur-ws.org/Vol-2013/paper15.pdf). In *SOQE*: 51-66, 2017. *Conference / Workshop Paper.*
-- Patrick Koopmann, Sebastian Rudolph, Renate A. Schmidt, and Christoph Wernhard: [Proceedings of the Workshop on Second-Order Quantifier Elimination and Related Topics (SOQE 2017), Dresden, Germany, December 6-8, 2017](https://ceur-ws.org/Vol-2013). *SOQE*, 2017. *Edited Proceedings.*
+- Patrick Koopmann, and Jieying Chen: [Computing ALCH Subsumption Modules](https://ceur-ws.org/Vol-2013/paper15.pdf). In *SOQE*: 51-66, 2017. *Conference / Workshop Paper.*
 
 ## 2016
 

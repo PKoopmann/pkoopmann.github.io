@@ -5,16 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently teaching the following courses at the Vrije Universiteit Amsterdam:
+I am teaching the following courses at the Vrije Universiteit Amsterdam:
 
-- Knowledge Representation (MSc AI) since 2023/2024
-- Formal Logic for Artificial Intelligence (BSc AI) since 2024/2025, together with Dr. Vera Stebletsova
+- Knowledge Representation (MSc AI) in 2026/2027, period 2
+- Formal Logic for Artificial Intelligence (BSc AI) in 2026/2027, period 2, together with Dr. Vera Stebletsova (part of the Situational AI Minor)
 
 Courses I gave in the past:
-- Logic and Sets (VU Amsterdam) 2023/2024 
+- Knowledge Representation (VU Amsterdam), 2023/2024, 2024/2025, 2025/2026
+- Formal Logic for Artificial Intelligence (VU Amsterdam), together with Dr. Vera Stebletsova, 2024/2025, 2025/2026
+- Logic and Sets (VU Amsterdam), 2023/2024 
 - Logic-Based Ontology Engineering (TU Dresden, Germany), 2021/2022 and 2022/2023
 - Semantic Technologies (UWTH Stuttgart, Germany), 2021/2022
-- Applications of Logic for Artificial Intelligence (TU Dresden, Germany), 2021-2024 
+- Applications of Logic for Artificial Intelligence (TU Dresden, Germany), five times between 2021 -- 2024 
 
 If you want to do a bachelor or master thesis, don't be afraid to send
 me an email. I have a range of topics on my webpage, and I can give
